@@ -2,7 +2,9 @@
 BROWSER EXTENSION TUTORIAL
 ====
 
-Below is a description of the basic parts you'll need to build a browser extension, install, and test it. For more info on CSS, Javascript, and JQuery, see the *Resources* section at the bottom.
+This code includes a demo of basic Javascript syntax and ways to interact with the HTML [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (or DOM, the objects like text and images that make up a webpage) and [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (or CSS, the properties that define DOM objects like font size and background color).
+
+This README includes a description of the basic parts you'll need to build a browser extension, install, and test it. For more info on CSS, Javascript, and JQuery, see the *Resources* section at the bottom.
 
 - - -
 
