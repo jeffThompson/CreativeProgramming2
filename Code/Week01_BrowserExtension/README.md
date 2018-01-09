@@ -2,7 +2,12 @@
 BROWSER EXTENSION TUTORIAL
 ====
 
-This code includes a demo of basic Javascript syntax and ways to interact with the HTML [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (or DOM, the objects like text and images that make up a webpage) and [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (or CSS, the properties that define DOM objects like font size and background color).
+This code includes a demo of basic Javascript syntax and ways to interact with the webpage elements:
+
+* HTML [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (or DOM, the objects like text and images that make up a webpage)  
+* [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (or CSS, the properties that define DOM objects like font size and background color)
+
+Further in the code, we manipulate a page to add doggo flair, including images of cute puppers and changing all links.
 
 This README includes a description of the basic parts you'll need to build a browser extension, install, and test it. For more info on CSS, Javascript, and JQuery, see the *Resources* section at the bottom.
 
