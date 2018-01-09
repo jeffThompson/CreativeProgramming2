@@ -38,8 +38,8 @@ Final grades will be determined as follows:
 Required and suggested readings will be provided as PDFs on GitHub – there is no required textbook.
 
 * Laptop capable of running class projects and code, power charger, and reliable internet connection – bring every week, please!  
-* External webcam, if your laptop doesn’t have one built in (or it doesn’t work) – you may want to purchase one for class projects anyway, though we’ll talk more about cameras in a few weeks, so don’t get one now.  
-* We will be using only free software during the semester: Processing, Python and machine learning libraries, and Javascript in the web browser  
+* External webcam, if your laptop doesn’t have one built in (or it doesn’t work). You may want to purchase an external one for class projects anyway, though we’ll talk more about cameras in a few weeks, so don’t get one now unless yours is broken.  
+* We will be using only free software during the semester: Chrome and Javascript, Processing, Python, and several machine learning libraries  
 * A sketchbook for taking notes and drawing ideas – bring every week, too! You’ll be asked to do regular drawings in preparation for assignments.  
 * An assortment of drawing/writing implements for working on project ideas  
 * Other art supplies (paper, etc) and printing as needed  
