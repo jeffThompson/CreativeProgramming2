@@ -4,8 +4,8 @@ BROWSER EXTENSION TUTORIAL
 
 This code includes a demo of basic Javascript syntax and ways to interact with the webpage elements:
 
-* HTML [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (or DOM, the objects like text and images that make up a webpage)  
-* [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (or CSS, the properties that define DOM objects like font size and background color)
+* HTML [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (or DOM), the objects that make up a webpage like text and images  
+* [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (or CSS), the properties that define DOM objects like font size and background color
 
 Further in the code, we manipulate a page to add doggo flair, including images of cute puppers and changing all links.
 
