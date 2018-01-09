@@ -3,7 +3,7 @@
 // the lines above or the last line either!
 
 	/*
-	DOGGIFY
+	PUPPIFY
 	Jeff Thompson | 2017 | jeffreythompson.org
 
 	A browser extension that adds some doggo flair to any

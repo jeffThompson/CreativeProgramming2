@@ -79,9 +79,3 @@ The official Chrome extension documentation (gets super complex really quickly, 
 **PORTING TO FIREFOX**  
 It shouldn't take too much work to get your extension to work in Firefox as well. See [this guide](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension) for more info.
 
-- - -
-
-
-
-
-
