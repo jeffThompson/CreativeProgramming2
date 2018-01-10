@@ -1,23 +1,27 @@
-![]()
+![Rafaël Rozendaal and Jonas Lund's "Text Free Browsing"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week01_BrowserExtension/Extensions/RafaelRozendaalAndJonasLund_TextFreeBrowsing.png)
 
 BROWSER EXTENSION
 ====
 
 ### DUE: THURSDAY, FEBRUARY 1 
 
-For our first project of the semester, we'll use Javascript (and the popular [JQuery](http://www.jquery.com) library) to create browser extensions. An extension is a bit of code that, as the name implies, extends or augments websites. Like many things with code, while most extensions are useful tools they can also be used for creative, activist, absurd, and aesthetic purposes. In this way, they're very much like an intervention into an existing system, a way of working that has ties in art history going back to the 1950s. Guy Debord, of the group Situationist International, argued that radio and TV, driven by capitalism, made people passive recipients of [spectacle](https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle) instead of actively engaging with their surroundings. Debord called for [détournement](https://en.wikipedia.org/wiki/D%C3%A9tournement), which can be thought of as hacking pre-computer. Satire, grafitti, and remix are similar forms of making that engage existing systems, transforming them into something more than their inputs.
+For our first project of the semester, we'll use Javascript (and the popular [JQuery](http://www.jquery.com) library) to create browser extensions. An extension is a bit of code that, as the name implies, extends or augments websites. Like many things with code, while most extensions are useful tools, they can also be used for creative, activist, absurd, and aesthetic purposes. In this way, they are an intervention into an existing system, a way of working that has ties in art history going back to the 1950s. 
 
-Your assignment is to build an extension whose purpose is art, not function. It should be an intervention that happens inside the browser. Think about what items exist to be manipulated and what actions can be performed on them: swapping, removing, or adding content. The result should be something that is visually or conceptually interesting that plays with these ideas.
+Guy Debord, of the group [Situationist International](https://en.wikipedia.org/wiki/Situationist_International), argued that radio and TV, driven by capitalism, made people [passive recipients of spectacle](https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle) instead of actively engaging with their surroundings (sound familiar?). Debord called for [détournement](https://en.wikipedia.org/wiki/D%C3%A9tournement), which can be thought of as hacking pre-computer: manipulating existing artworks, advertisements, and spaces to create a new message. Satire, grafitti, and remix are similar forms of making that engage existing systems, transforming them into something new.
+
+Your assignment is to build an extension whose purpose is art, not function – an intervention that happens inside the browser. Think about what items exist to be manipulated (text, image, ads) and what actions can be performed on them: swapping, removing, adding content, etc. Your project should play with these ideas in a way that is visually or conceptually interesting.
 
 While extensions can be technically complex, yours should be activated automatically with a single click of its button. Options for how the extension behaves, what can be transformed, and other technical resources are covered in the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension).
+
+*Above: Rafaël Rozendaal and Jonas Lund's [*Text Free Browsing*](http://textfreebrowsing.com/)*
 
 ### DELIVERABLES  
 Your finished project should include the following:
 
 * Project sketches, either scanned or photographed  
-* README file explaining what your extension does and what is in the code repo  
+* `README` file explaining what your extension does and what is in the code repo  
 * Finished browser extension code, including an icon and update manifest file  
-* At least three screenshots  
+* At least three screenshots of the finished extension in action  
 * Optional: if your extension is animated, or is interactive, capture a video of it being run and upload to YouTube or Vimeo (we'll talk more about this in a few weeks)  
 
 ### FOR THURSDAY, JANUARY 25  
