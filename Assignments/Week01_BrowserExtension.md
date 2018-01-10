@@ -67,7 +67,7 @@ A selection of (mostly) artistic takes on the browser extension, divided by cate
 **REMOVAL/DELETION**  
 * Rafaël Rozendaal and Jonas Lund's [*Text Free Browsing*](http://textfreebrowsing.com/) removes all text from a website  
 * Ben Grosser's [*Facebook Demetricator*](http://bengrosser.com/projects/facebook-demetricator) removes all metrics from Facebook  
-* Armaranth Borsuk, Jesper Juul, and Nick Montfort's [*The Deletionist](http://thedeletionist.com/about.html) creates poems by removing text from the page  
+* Armaranth Borsuk, Jesper Juul, and Nick Montfort's [*The Deletionist*](http://thedeletionist.com/about.html) creates poems by removing text from the page  
 
 **INTERACTIVITY**  
 * Jonas Lund's [*Selfsurfing*](https://jonaslund.biz/works/selfsurfing/) creates a real-time clone of Lund's browser in yours  
@@ -79,6 +79,6 @@ A selection of (mostly) artistic takes on the browser extension, divided by cate
 * Darius Kazemi's [*Ethical Ad Blocker*](https://chrome.google.com/webstore/detail/the-ethical-ad-blocker/chpijkaobnoplgnjpjilbdcklmmpgfla) blocks you from visiting any sites that have ads  
 
 **INFORMATIONAL**  
-* [*Open Mind*](http://thehill.com/homenews/media/366432-students-create-extension-to-help-counter-fake-news) (which has no link or release, sadly) shows a warning screen when a user visits a site known for fake news  
+* [*Open Mind*](http://thehill.com/homenews/media/366432-students-create-extension-to-help-counter-fake-news) shows a warning screen when a user visits a site known for fake news (no link or release, sadly)  
 * [*Ghostery*](https://www.ghostery.com/) shows tracking technologies employed by websites, and lets you block them  
 

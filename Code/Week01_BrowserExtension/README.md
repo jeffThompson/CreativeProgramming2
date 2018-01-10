@@ -63,7 +63,7 @@ While by no means exhaustive, below are some useful information on what properti
 Some useful links for tags and properties to manipulate:
 
 * A [list of all valid HTML tags](https://www.w3schools.com/tags/) that you might consider targeting  
-* [CSS properties](https://www.w3schools.com/cssref/default.asp)  
+* A [list of CSS properties](https://www.w3schools.com/cssref/default.asp), which should give you an idea of what parameters you can change on a page  
 
 **JQUERY**  
 Some of the ways JQuery can interact with a page's content:
