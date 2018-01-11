@@ -40,6 +40,8 @@ To turn everything in, do a final push to your project's Github repo. Upload a s
 
 Optionally, if you'd like to deploy your extension to the Chrome Store for download by others, you can find a link to instructions in the `Technical Resources` section of the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension). Let me know if you take yours live!
 
+**Please also download the [Github Desktop app](https://desktop.github.com/) and, if you don't have one, sign up for an account.**
+
 ### HISTORICAL AND NON-BROWSER EXAMPLES  
 Some related artistic interventions that aren't based in the browser:  
 
@@ -79,6 +81,7 @@ A selection of (mostly) artistic takes on the browser extension, divided by cate
 * Darius Kazemi's [*Ethical Ad Blocker*](https://chrome.google.com/webstore/detail/the-ethical-ad-blocker/chpijkaobnoplgnjpjilbdcklmmpgfla) blocks you from visiting any sites that have ads  
 
 **INFORMATIONAL**  
+* [*Show Facebook Computer Vision Tags*](https://petapixel.com/2017/01/04/chrome-add-shows-facebook-sees-photos/) does just that  
 * [*Open Mind*](http://thehill.com/homenews/media/366432-students-create-extension-to-help-counter-fake-news) shows a warning screen when a user visits a site known for fake news (no link or release, sadly)  
 * [*Ghostery*](https://www.ghostery.com/) shows tracking technologies employed by websites, and lets you block them  
 
