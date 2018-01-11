@@ -23,7 +23,7 @@ JavaScript basics, CSS and the DOM
 Selections from *Networks* (Larsen)
 
 **Homework**  
-[Browser Extension]() ideation, sign up for GitHub and install Desktop Client
+[Browser Extension](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week01_BrowserExtension.md) ideation, sign up for GitHub and install Desktop Client
 
 \- \- \-
 
@@ -31,7 +31,7 @@ Selections from *Networks* (Larsen)
 Further Javascript demos, creating GitHub repositories
 
 **Homework**  
-Finish [Browser Extension](), create repository and upload code
+Finish [Browser Extension](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week01_BrowserExtension.md), create repository and upload code
 
 \- \- \-
 
