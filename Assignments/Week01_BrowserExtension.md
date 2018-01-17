@@ -71,9 +71,10 @@ A selection of (mostly) artistic takes on the browser extension, divided by cate
 * Ben Grosser's [*Facebook Demetricator*](http://bengrosser.com/projects/facebook-demetricator) removes all metrics from Facebook  
 * Armaranth Borsuk, Jesper Juul, and Nick Montfort's [*The Deletionist*](http://thedeletionist.com/about.html) creates poems by removing text from the page  
 
-**INTERACTIVITY**  
+**INTERACTIVITY/OTHER**  
 * Jonas Lund's [*Selfsurfing*](https://jonaslund.biz/works/selfsurfing/) creates a real-time clone of Lund's browser in yours  
 * Alex Leone, David Nufer, and David Truong's [*Katamari Hack*](http://kathack.com/) which picks up browser elements like the game Katamari Damacy  
+* fffffat member Maddy Varner's [*Kardashian Krypt*](http://fffff.at/kardashian-krypt/) lets you send messages secretly embedded in images of Kim Kardashian using [steganography](https://en.wikipedia.org/wiki/Steganography)  
 
 **AD BLOCKING**  
 * [*AdNauseam*](https://adnauseam.io/) quietly clicks all ads on a page, showing an "omnivorous" and useless click-stream to advertisers tracking you  
