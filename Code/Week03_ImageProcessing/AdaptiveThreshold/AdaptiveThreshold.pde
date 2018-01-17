@@ -39,6 +39,7 @@ void setup() {
   PImage img = loadImage("../Test.jpg");
   img = adaptiveThreshold(img, dia, adjustment);
   image(img, 0, 0);  
+  save("../AdaptiveThreshold.jpg");
 }
 
 

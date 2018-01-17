@@ -29,18 +29,18 @@ CHALLENGE:
 // 1.0 = no compression, largest image file
 // 0.5 = 50% compression
 // 0.0 = 100% compression, smallest image file
-float compressionLevel = 0.1;
+float compressionLevel = 0.05;
 
 // image to load
 String imageFilename =  "../Test.jpg";
 
 // and filename to save the compressed version to
-String outputFilename = sketchPath("") + "Compressed.jpg";
+String outputFilename;
 
 
 void setup() {
   size(900,700);
-  println(outputFilename);
+  outputFilename = sketchPath("") + "../CompressedJPG.jpg";
   
   // load the image to compress
   // you could also access the sketch's pixel array using get()

@@ -32,14 +32,16 @@ void setup() {
 
   // brighten or darken an image
   // second arg = amount to adjust by (-255 to 255)
-  img = brighten(img, -50);
+  img = brighten(img, -100);
+  img.save("../Brightness.jpg");
 
   // adjust the contrast of an image
   // second arg = amount to adjust (-255 to 255)
-  // img = contrast(img, 255);
+  //img = contrast(img, 255);
+  //img.save("../Contrast.jpg");
 
   // invert the image's colors
-  // img = invert(img);
+  //img = invert(img);
 
   // after we've filtered it, display the final image
   image(img, 0, 0);

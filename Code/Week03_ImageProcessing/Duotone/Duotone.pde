@@ -8,6 +8,11 @@ a very popular one is a filter called "Duotone". While it
 looks complicated, the code to do this is actually easy
 and builds on examples we've already seen.
 
+The lerpColor() command is key here. It takes two colors
+and smoothly interpolates between the two using a value
+from 0–1. We use the grayscale value of the current pixel,
+after dividing by 255, to drive lerpColor().
+
 */      
 
 
@@ -26,6 +31,7 @@ void setup() {
   
   // display the result
   image(img, 0,0);
+  save("../Duotone.jpg");
 }
 
 

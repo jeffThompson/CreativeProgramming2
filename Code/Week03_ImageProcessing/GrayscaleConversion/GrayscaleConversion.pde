@@ -35,6 +35,7 @@ void setup() {
     pixels[i] = color(r);                    // set the pixel to this value
   }
   updatePixels();                            // update the screen
+  save("../Gray-RED.jpg");
   
   // A BETTER CONVERSION
   // the above method works ok, but often loses the dynamic
@@ -51,5 +52,6 @@ void setup() {
     pixels[i] = color(bright);
   }
   updatePixels();
+  save("../Gray-LUMINANCE.jpg");
   */
 }

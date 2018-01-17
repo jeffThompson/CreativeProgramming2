@@ -30,13 +30,9 @@ CHALLENGES:
 
 */
 
-// which filter to try (set as a "keyword", or variable
-// set in the Processing system – more user-friendly than
-// just a number to indicate which filter we should use)
-
-// THRESHOLD, GRAY, INVERT, BLUR, DILATE, ERODE
+// threshold, gray, invert, blur, dilate, erode
 // (adjust each filter's parameters in the code below)
-int whichFilter = THRESHOLD;
+String whichFilter = "erode";
 
 
 void setup() {
@@ -50,27 +46,27 @@ void setup() {
   // if the brightness of a pixel is below a set threshold,
   // set it to black; if above, set it to white
   // (we'll implement this filter ourselves later)
-  if (whichFilter == THRESHOLD) {
+  if (whichFilter.equals("threshold")) {
     filter(THRESHOLD, 0.5);    // threshold value should be 0–1
   }
   
   // GRAYSCALE
   // converts an image to grayscale
-  if (whichFilter == GRAY) {
+  if (whichFilter.equals("gray")) {
     filter(GRAY);              // no arguments for this one!
   }
   
   // INVERT
   // set each pixel's color to its opposite
-  if (whichFilter == INVERT) {
+  if (whichFilter.equals("invert")) {
     filter(INVERT);            // no arguments here either
   }
   
   // BLUR
   // executes a Gaussian blur (though there are lots of
   // other methods to blur images)
-  if (whichFilter == BLUR) {
-    filter(BLUR, 1);           // radius of the blur in pixels
+  if (whichFilter.equals("blur")) {
+    filter(BLUR, 8);           // radius of the blur in pixels
   }
   
   // DILATE
@@ -79,7 +75,7 @@ void setup() {
   // and smoothing edges – for more on this, see:
   // https://docs.opencv.org/2.4/doc/tutorials/imgproc/
   // erosion_dilatation/erosion_dilatation.html
-  if (whichFilter == DILATE) {
+  if (whichFilter.equals("dilate")) {
     filter(DILATE);             // no args, though can be used many times
     //filter(DILATE);           // try un-commenting and see what happens
     //filter(DILATE);
@@ -89,7 +85,10 @@ void setup() {
   // reduces light areas in the image, also useful in computer
   // vision for removing bridges between separate objects that
   // appear connected
-  if (whichFilter == ERODE) {
+  if (whichFilter.equals("erode")) {
     filter(ERODE);              // no args, same as dilation
   }
+  
+  // save to file
+  save("../" + whichFilter.substring(0,1).toUpperCase() + whichFilter.substring(1) + ".jpg");
 }
