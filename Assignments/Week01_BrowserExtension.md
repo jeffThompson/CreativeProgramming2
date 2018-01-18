@@ -31,6 +31,8 @@ For next week, please draw at least ten sketches of what your extension might do
 
 Once you've settled on an idea, start trying to implement it in Javascript. You should have at least a rough, working extension for next week. If you can't figure out any particular details, leave notes in your code and we'll solve them next week. [Stack Overflow](https://stackoverflow.com/) is also a really great resource for Javascript – chances are someone has had the same question as you!
 
+**Please also download the [Github Desktop app](https://desktop.github.com/) and, if you don't have one, sign up for an account.**
+
 ### FOR THURSDAY, FEBRUARY 1  
 For next week, your assignment is to finish your extension and document it. When it's done, take at least three screenshots of pages transformed by your extension. Try to capture the essence of what your extension does so that people can understand it without a lot of explanation. (Of course, if it's complicated or conceptual, a description might be necessary.)
 
@@ -39,8 +41,6 @@ Create a `README` file, if you haven't already, and write a short description of
 To turn everything in, do a final push to your project's Github repo. Upload a screenshot of your extension to Canvas and include a link to your repo in the comments.
 
 Optionally, if you'd like to deploy your extension to the Chrome Store for download by others, you can find a link to instructions in the `Technical Resources` section of the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension). Let me know if you take yours live!
-
-**Please also download the [Github Desktop app](https://desktop.github.com/) and, if you don't have one, sign up for an account.**
 
 ### HISTORICAL AND NON-BROWSER EXAMPLES  
 Some related artistic interventions that aren't based in the browser:  
