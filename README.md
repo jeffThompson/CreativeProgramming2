@@ -19,9 +19,6 @@ Please note this is subject to change – be sure to check GitHub and your email
 ### WEEK 1: JAVASCRIPT 1
 JavaScript basics, CSS and the DOM
 
-**Reading**  
-Selections from *Networks* (Larsen)
-
 **Homework**  
 [Browser Extension](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week01_BrowserExtension.md) ideation, sign up for GitHub and install Desktop Client
 
