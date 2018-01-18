@@ -136,6 +136,28 @@
 	// second parameter setting the duration in milliseconds
 	$('h1').animate( { 'font-size': '72px' }, 3000);
 
+	// if we want to animate a single word inside a paragraph, we
+	// have to first find it and wrap it in a <span> tag so we can
+	// find it later
+	// note: this is basically a combination of the heart-adding
+	// code above, with the animate() command!
+	$('p').each( function() {
+		var words = $(this).text().split(' ');
+		var output = '';					
+		for (i=0; i<words.length; i++) {
+			if (words[i] == 'the') {						// if the word matches...
+				output += '<span class="the">the</span> ';	// wrap it with a new class
+			}
+			else {
+				output += words[i] + ' ';					// if not, add the word
+			}
+		}
+		$(this).html(output);
+	});
+
+	// select all the spans with the ID "the" and make them larger
+	$('#the').animate( { 'font-size': '24px' }, 2000);
+
 
 // do not delete the line below!
 })();
