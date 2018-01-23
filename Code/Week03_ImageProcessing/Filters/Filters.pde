@@ -26,7 +26,8 @@ CHALLENGES:
 + Can you make the filter parameters interactive using the
   mouse or keyboard?
 + Can you chain several filters together to make something
-  more interesting than a single on by themselves?
+  more interesting than a single on by themselves? For example,
+  try blurring before running a threshold filter.
 
 */
 
