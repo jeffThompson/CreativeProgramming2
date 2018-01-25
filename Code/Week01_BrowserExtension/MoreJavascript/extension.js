@@ -14,6 +14,12 @@
 	+ callbacks for running a function after some
 	  asyncronous code finishes
 
+	NOTE:
+	Running this entire example all at once will produce
+	some really confusing output in the console. For a 
+	easier experience, comment out everything and try
+	a section at a time.
+
 	*/
 
 	// FUNCTIONS
@@ -68,20 +74,23 @@
 	function fireworks(numBooms) {
 		console.log('Fireworks:');
 
-		var id = setInterval(boom, 1000);		// every 1000ms, call the boom() function
-		var count = 0;							// keep track of the number of booms
+		// create a timer that automatically calls the "boom" function
+		// every 1000 milliseconds until we stop it
+		var interval = setInterval(boom, 1000);
 
-		function boom() {						// called by setInterval()
-			count += 1;							// update the current count
-			if (count == numBooms) {			// if we've reached the specified number...
-				clearInterval(id);				// ...stop the setInterval()
+		var count = 0;					// keep track of the number of booms
+
+		function boom() {				// called by setInterval() automatically
+			count += 1;					// update the current count
+			if (count == numBooms) {	// if we've reached the specified number of booms...
+				clearInterval(id);		// ...stop the setInterval()
 			}
 			else {
-				console.log('boom!');			// otherwise, print a 'boom!'
+				console.log('boom!');	// otherwise, print a 'boom!'
 			}
 		}
 	}
-	// fireworks(10);								// run our fireworks function 10 times
+	fireworks(10);						// run our fireworks function 10 times
 
 	// CALLBACKS
 	// another common use of asyncronous is to chain events together, especially 
@@ -93,25 +102,26 @@
 	$('h1').slideUp(2000).slideDown(2000);
 
 	// here, when a paragraph element is clicked, we hide it over a period of
-	// 1000ms, then print some info to the console
+	// 1000ms, then print some info to the console when it's done
 	$('p').click( function() {
 		$(this).hide(2000, function() {
 			console.log('This text is inside a callback function. It is printed when the hide() function is finished.');
 		});
 	});
 
-	// the callback function above is written inside the click() function
+	// the callback function above is written inside the click() function, but
 	// we can also specify a separate function to run
 	function printImageSource() {
 		var source = $(this).attr('src');			// 3. get image source (note $(this) gets passed in)
 		console.log(source);						// 4. function prints the image source
 	}
-	$('img').click( function() {					// 1. when the image is clicked...
-		$(this).animate(							// 2. make it big...
-			{ width: '800px', height: '800px' },	// 2a. change it's size
-			2000, 									// 2b. over a period of 2 seconds
-			'linear', 								// 2c. with linear easing
-			printImageSource						// 2d. when done, run the function above
+
+	$('img').click( function() {					// 1. when an image is clicked...
+		$(this).animate(							// 2. animate it...
+			{ width: '800px', height: '800px' },	// 2a. ...change it's size
+			2000, 									// 2b. ...over a period of 2 seconds
+			'linear', 								// 2c. ...with linear easing
+			printImageSource						// 2d. ...when done, run the function above
 		);
 		return false;								// 5. all done, don't follow the link!
 	});
@@ -132,7 +142,7 @@
 	// if everything loaded ok, the countEarthquakes() function is run
 	// if not, print an error message, also using a custom function
 	function countEarthquakes(data) {
-		var lines = data.split(/\n/);
+		var lines = data.split('\n');
 		var numEarthquakes = lines.length;
 		console.log('There were ' + numEarthquakes + ' earthquakes in the last week.');
 	}
