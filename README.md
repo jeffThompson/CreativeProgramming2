@@ -11,7 +11,7 @@ CREATIVE PROGRAMMING 2
 In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. You’ll develop a series of projects examining images, cameras, computer vision, interactivity, and machine learning, as well as continue building a personal, creative practice. Like in Creative Programming 1, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
 
 For information about 
-Homework, grades, etc, please see CoursePolicies.md.
+Homework, grades, etc, please see `CoursePolicies.md`.
 
 ## COURSE CALENDAR
 Please note this is subject to change – be sure to check GitHub and your email regularly. Homework and readings are listed for the days they are assigned.
