@@ -34,7 +34,7 @@ void setup() {
   // - in the sketch folder (and specify just a filename)
   // - in a folder called "data" in the sketch folder
   // - a complete (full) path to the file, if it's anywhere else
-  img = loadImage("doggo.png");
+  img = loadImage("doggo.jpg");
   
   // (we can also load from a url, if we want to!)
   
@@ -44,12 +44,12 @@ void setup() {
   // we can resize the image, if necessary
   // if the width or height is set to 0, then Processing
   // automatically keeps the proportion the same – handy!
-  img.resize(300, 0);    // fit to the 300px wide, keep height proportional
-  image(img, 300,0);     // draw over 300px
+  img.resize(100, 0);    // fit to the 100px wide, keep height proportional
+  image(img, 300,0);     // draw next to the first image
   
   // images can also be resized within the image() command
   // by specifying two more args: width/height to expand to
-  image(img, 600,0, 300,300);    // stretch to fit a 300px square
+  image(img, 600,0, 300,150);    // stretch to fit a 150x300px square
 }
 
   
