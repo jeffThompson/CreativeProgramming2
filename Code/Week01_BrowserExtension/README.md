@@ -7,7 +7,7 @@ This code includes a demo of basic Javascript syntax and ways to interact with t
 * HTML [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (or DOM), the objects that make up a webpage like text and images  
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (or CSS), the properties that define DOM objects like font size and background color
 
-Further in the code, we manipulate a page to add doggo flair, including images of cute puppers and changing all links. This README includes a description of the basic parts you'll need to build a browser extension, install, and test it. For more info on CSS, Javascript, and JQuery, see the `Resources` section at the bottom.
+Further in the code, we manipulate a page to add doggo flair, including images of cute puppers and changing all links. This `README` includes a description of the basic parts you'll need to build a browser extension, install, and test it. For more info on CSS, Javascript, and JQuery, see the `Resources` section at the bottom.
 
 - - -
 
