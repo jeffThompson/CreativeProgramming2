@@ -31,6 +31,8 @@ Then, once you are settled on an idea, start implementing it in code. For next w
 ### FOR THURSDAY, FEBRUARY 15  
 **PLEASE NOTE! Jeff will be out of town on the day the project is due. We won't meet as a class, but your project should be uploaded to Github and Canvas before 1pm that day.**
 
+TBD...
+
 Please also install the OpenCV library for Processing. You can do this right inside the Processing app under `Sketch > Import Library > Add a Library...`. Search for `OpenCV for Processing` and install it. Try running one of the examples to make sure it works.
 
 ### PROJECTS SHOWN  
