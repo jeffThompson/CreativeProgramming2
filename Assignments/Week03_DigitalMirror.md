@@ -37,6 +37,7 @@ Please also install the OpenCV library for Processing. You can do this right ins
 
 ### PROJECTS SHOWN  
 
+* [A history of the first webcam](https://youtu.be/a4PX8vksBFU), used to monitor an office coffee pot  
 * Daniel Rozin's fabulous [*Wooden Mirror*](http://www.smoothware.com/danny/woodenmirror.html) project, and the fluffy [*PomPom Mirror*](http://www.bitforms.com/rozin/pompom-mirror)  
 * [*Más Que La Cara*](https://medium.com/@zachlieberman/m%C3%A1s-que-la-cara-overview-48331a0202c0), an installation by YesYesNo  
 * Jim Campbell's many [low-resolution video works](http://www.jimcampbell.tv/portfolio/low_resolution_works/) made with LEDs and other physical materials  
