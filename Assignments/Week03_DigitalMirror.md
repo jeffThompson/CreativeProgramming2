@@ -29,9 +29,9 @@ Then, once you are settled on an idea, start implementing it in code. For next w
 **Please also sign up for either a YouTube or Vimeo account (both are free). You'll be uploading video documentation of your finished projects there.**
 
 ### FOR THURSDAY, FEBRUARY 15  
-**PLEASE NOTE! Jeff will be out of town on the day the project is due. We won't meet as a class, but your project should be uploaded to Github and Canvas before 1pm that day.**
+**PLEASE NOTE! Jeff will be out of town on the day the project is due. We won't meet as a class, but your project should be uploaded to Github and Canvas before 1pm that day. Please also check the next assignment, titled `Tracking`, for what will be due February 22.**
 
-TBD...
+For next week, please finish your `Digital Mirror` project – see the `Deliverables` section above for exactly what to turn in. If you get stuck along the way, please pop into my office, or send me an email, and I'll do my best to help.
 
 Please also install the OpenCV library for Processing. You can do this right inside the Processing app under `Sketch > Import Library > Add a Library...`. Search for `OpenCV for Processing` and install it. Try running one of the examples to make sure it works.
 
