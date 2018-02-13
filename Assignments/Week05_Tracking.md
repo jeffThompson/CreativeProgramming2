@@ -22,7 +22,7 @@ As you're ideating your project, you'll have to think about *what* you track, bu
 
 In your piece, you'll need to control this in some way, such as:
 
-* Use a white wall, against which most other things will seem dark  
+* Use a white wall, against which most other things will seem dark (or vice versa)  
 * Controlling the lighting (by checking out equipment from the Fab Lab, for example)  
 * [Frame differencing](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Code/Week05_ComputerVision/FrameDifferencing/FrameDifferencing.pde) to remove the background  
 * Use an intentionally bright object as the thing to be tracked (a flashlight, LED, etc)  
@@ -60,9 +60,9 @@ If you have any questions about the code, shoot me an email!
 Please also start ideating for this project. For our next class, you should:
 
 * Spend at least an hour making drawings in your sketchbook of ideas. Like before, try to come up with as many ideas as possible, and iterate on the ones you get excited about. The more you can map out on paper, the easier it will be to write your code.  
-* Begin prototyping your project in code, using the examples above as a template. You may want to start by faking the tracking part, or make it easier by tracking the flashlight on your phone, just to get a working input so you can start on the aesthetic parts of your code.
+* Begin prototyping your project in code. You might want to fake the tracking part, using a black background and a white circle controlled by the mouse, or by having it track the flashlight on your phone. These are quick hacks to get a working input, so you can start on the aesthetic parts of your code.
 
-We'll look together at your projects in progress, so please have at least a hacked-together demo we can preview.
+We'll look together at your projects in progress, so please have some kind of interactive demo we can preview.
 
 ### FOR THURSDAY, MARCH 1  
 In progress code due, small-group feedback sessions. More info TBA soon.
