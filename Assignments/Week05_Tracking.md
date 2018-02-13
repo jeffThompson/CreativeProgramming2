@@ -16,7 +16,9 @@ Your assignment is to explore the idea of tracking. Think about visually compell
 **A TECH NOTE**  
 As you're ideating your project, you'll have to think about *what* you track, but also *how* to accomplish it. Our brains are really good at extracting objects from our eyes (about 30% of the cortex is used for visual processing, while only 8% for touch and 3% for hearing) but making code do this is much harder. To extract a blob, we have to work with a binary (black and white) image, generally making bright objects white and everything else black:
 
-![An example of a binary image](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Code/Week03_ImageProcessing/OUTPUT/Threshold.jpg)
+![An example of a binary image](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week05_ComputerVision/ThresholdBlobs.jpg)
+
+*Left: an example of a binary image. Right: using a cellphone flashlight to quickly prototype, and the input converted to binary, with a clear blob formed.*
 
 In your piece, you'll need to control this in some way, such as:
 
