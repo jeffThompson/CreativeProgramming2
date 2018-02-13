@@ -20,6 +20,7 @@ Realtime processing can take a toll on your computer – to keep your output fro
   * A description of your project  
   * A screenshot of it running  
   * A link to your video  
+* Upload a screenshot of your project to Canvas, and add a link to your repo as a comment
 
 ### FOR THURSDAY, FEBRUARY 8  
 For next week, I'd like you to start by drawing instead of coding. Please spend at least an hour making sketches of what your mirror might do – they can be rough and gestural, and include notes and arrows to indicate movement. This is about working through ideas quickly before starting into code, and getting over the hump of easy first ideas.
