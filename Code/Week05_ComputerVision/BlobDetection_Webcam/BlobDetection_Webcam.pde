@@ -43,7 +43,7 @@ void setup() {
   webcam.start();
  
   // text settings (for showing the # of blobs)
-  textSize(60);
+  textSize(20);
   textAlign(LEFT, BOTTOM);
 }
 
@@ -82,6 +82,6 @@ void draw() {
     // how many blobs did we find?
     fill(0,150,255);
     noStroke();
-    text(blobs.size(), 20,height-20);
+    text(blobs.size() + " blobs", 20,height-20);
   }
 }
