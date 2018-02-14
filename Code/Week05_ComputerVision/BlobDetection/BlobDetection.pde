@@ -10,7 +10,7 @@ While we can implement simple things like color detection
 ourselves, once we start trying to do things like complex
 image processing or track shapes, we're better off using a
 purpose-built code library. OpenCV is an extremely robust
-tool that has been around since <WHEN?>, and works very well
+tool that has been around since 2000, and works very well
 for these kinds of things.
 
 "Blobs", or contiguous regions in an image, allow us to
