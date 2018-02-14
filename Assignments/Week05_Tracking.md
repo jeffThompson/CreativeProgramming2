@@ -1,4 +1,4 @@
-![]()
+![Image segmentation of a figure skater](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week05_ComputerVision/ImageSegmentation2.png)
 
 TRACKING
 ====
@@ -43,23 +43,21 @@ We'll work through the implementation details over the next three weeks, but it 
 * Upload a screenshot of your project to Canvas, and add a link to your repo as a comment
 
 ### FOR THURSDAY, FEBRUARY 22  
-Since we're not meeting as a class this week, I'd like you to look at some code examples (all under `Week 5: Computer Vision`. Run them on your computer, and read through the code, especially the comments, so you can understand how they work:
+Since we're not meeting as a class this week, I'd like you to look at some code examples (all under `Week 5: Computer Vision`. Run them on your computer, and read through the code, especially the comments, so you can see what they do. It's ok if you don't understand how they work entirely, but they should give you an idea of what's possible:
 
 1. Testing Neighboring Pixels  
 2. Kernel Filters  
 3. Edge Detection  
+4. Blob Detection  
+5. Blob Detection (via webcam)  
+6. Color Detection  
 
-You should also run these examples, but we'll go over them in detail in class next week, so don't worry if you don't understand how they work. They should give you an idea of what's possible for tracking.
-
-1. Blob Detection  
-2. Blob Detection (via webcam)  
-3. Color Detection  
-
-If you have any questions about the code, shoot me an email!
+We'll go over these in detail next week. If you have any questions about the code, shoot me an email!
 
 Please also start ideating for this project. For our next class, you should:
 
 * Spend at least an hour making drawings in your sketchbook of ideas. Like before, try to come up with as many ideas as possible, and iterate on the ones you get excited about. The more you can map out on paper, the easier it will be to write your code.  
+* Think about what you will track, and what that input will do – will it drive a system, change the display, generate other visuals, or something else entirely? What do you want the final piece to *look* and *feel* like for viewers?  
 * Begin prototyping your project in code. You might want to fake the tracking part, using a black background and a white circle controlled by the mouse, or by having it track the flashlight on your phone. These are quick hacks to get a working input, so you can start on the aesthetic parts of your code.
 
 We'll look together at your projects in progress, so please have some kind of interactive demo we can preview.
@@ -78,5 +76,6 @@ Finish project, machine learning readings. More info TBA soon.
 
 * Philip Worthington's [*Shadow Monsters*](https://www.moma.org/calendar/exhibitions/1321) (see also [this image](https://cdn.hpm.io/wp-content/uploads/2015/06/21113000/shadow3.jpg) that shows a bit about how th piece works)  
 * [*Messa di Voce*](http://www.flong.com/projects/messa/), a performance by Jaap Blink with interactive visualizations by Golan Levin, Zach Lieberman, and Joan La Barbara  
-* Golan Levin's [*Eyeshine*](http://www.flong.com/projects/eyeshine/) (with Kyle McDonald) and [*Augmented Hand Series*](http://www.flong.com/projects/augmented-hand-series/) (with Chris Sugrue and Kyle McDonald)  
+* Golan Levin and Kyle McDonald's [*Eyeshine*](http://www.flong.com/projects/eyeshine/) and [*Augmented Hand Series*](http://www.flong.com/projects/augmented-hand-series/) (with Chris Sugrue)  
+* More examples in this week's `Images` folder  
 
