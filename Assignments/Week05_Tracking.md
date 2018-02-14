@@ -70,6 +70,9 @@ Finish project, machine learning readings. More info TBA soon.
 
 ### RESOURCES  
 
+* The ever-helpful Daniel Shiffman has a great tutorial on [blob tracking](https://www.youtube.com/watch?v=ce-2l2wRqO8), and one where the [blobs persist even when lost temporarily](https://www.youtube.com/watch?v=r0lvsMPGEoY)  
+* A nice, simple tutorial that explains one method for blob detection using several thresholded versions of the input image  
+* Lots more (mathy) explanations on [Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)    
 * Get yourself ready for blobs by watching the [1958 movie of the same name](https://en.wikipedia.org/wiki/The_Blob)  
 
 ### PROJECTS SHOWN  
