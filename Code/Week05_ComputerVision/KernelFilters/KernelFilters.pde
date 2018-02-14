@@ -13,19 +13,20 @@ often used for things like blurring, which average pixels in
 a region, and edge detection (the opposite).
 
 EXAMPLE KERNELS
-(These descriptions from the setosa link below)
+(These descriptions from the setosa.io link below)
 + blur de-emphasizes differences in adjacent pixels
 + sharpen emphasizes differences in adjacent pixels
++ edge (aka outline) highlights large differences in
+  neighboring pixels – pixels of similar intensity will
+  be made black, while pixels that differ strongly 
+  will be made white
+
+You may also see these, which are variations of the ones above:
 + sobel shows only the differences b/w adjacent pixels
   in a particular direction (up, right, etc)
 + emboss is like sobel, but creates a sense of depth by
   showing differences in both right and bottom directions
-+ edge (aka outline) highlights large differences in
-  neighboring pixels – pixels of similar intensity will
-  be made black, while pixels that differ strongly 
-  will be made white
 
- 
 More info and some example kernels here:
 + https://en.wikipedia.org/wiki/Kernel_(image_processing)
 + http://setosa.io/ev/image-kernels/
@@ -40,31 +41,29 @@ CHALLENGES:
 + Our kernel function currently only takes a 3x3 array – can
   you expand it to take any size? Can you have it check to be
   sure the kernel is square and return an error if not?
-
++ Can you make the kernel interactive, so you can play with
+  the values using the mouse or keyboard?
+  
 */
 
+// a 2D array stores our kernel "weights", or how much influence
+// each neighboring pixel should have on the new value
 
-// amount to weight each item in the kernel – here we set
-// all of them to 0.1111, but in some filters this value 
-// will be different for each neighbor
-float amt = 1 / 9.0;
-
-// a 2D array that stores our kernel weights
 float[][] blur = {
   { 0.0625, 0.125, 0.0625 },
-  { 0.125, 0.25, 0.125 },
+  { 0.125,  0.25,  0.125 },
   { 0.0625, 0.125, 0.0625 }
 };
 
 float[][] sharpen = {
-  { 0, -1, 0 },
-  { -1, 5, -1 },
-  { 0, -1, 0 }
+  {  0, -1,  0 },
+  { -1,  5, -1 },
+  {  0, -1,  0 }
 };
 
 float[][] edge = {
   { -1, -1, -1 },
-  { -1, 9, -1 },
+  { -1,  8, -1 },
   { -1, -1, -1 }
 };
 
@@ -75,14 +74,25 @@ void setup() {
   // load the image
   PImage img = loadImage("../Test.jpg");
   
-  // apply the filter, passing an image and the kernel array,
-  // and display the result
-  img = kernelFilter(img, edge);
+  // apply the filter, passing an image and the kernel weights
+  // as arguments
+  img = kernelFilter(img, blur);
+  
+  // try sharpening the image instead
+  // img = kernelFilter(img, sharpen);
+  
+  // edge detection will work best if you first convert
+  // the image to grayscale
+  // img.filter(GRAY);
+  // img = kernelFilter(img, edge);
+  
+  // display the result
   image(img, 0, 0);
   
   // as with other filters, you may want to run the same filter
-  // several times, to build up more blurring
+  // several times, for example to build up more blurring!
 }
+
 
 PImage kernelFilter(PImage in, float[][] kernel) {
   
