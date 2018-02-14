@@ -21,8 +21,17 @@ need to ensure our camera was calibrated for the task and
 that we could control, or measure, the light temperature.
 
 CHALLENGES:
++ Can you make this example interactive, where we can click on
+  a pixel to track that color? (Hint: you'll need to use loadPixels
+  to get the selected pixel's value.)
++ In the BlobTracking example, we use brightness to create a
+  binary image, from which blobs can be extracted. But we could
+  also isolate color regions this way, and then run the blob
+  tracking algorithm to find areas of color. Can you extend
+  the code below to create a binary image, where the desired
+  color is white and everything else black?
 + We can also find the very approximate center of this color
-  blob by averaging the location of all pixels with that 
+  blob by averaging the x/y location of all pixels with that 
   color – can you add that to our function below, returning
   the center instead of the first match? (Hint: create an
   ArrayList of PVectors to store all matches, then average them.)
