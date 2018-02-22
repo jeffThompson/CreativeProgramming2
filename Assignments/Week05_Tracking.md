@@ -63,7 +63,9 @@ Please also start ideating for this project. For our next class, you should:
 We'll look together at your projects in progress, so please have some kind of interactive demo we can preview.
 
 ### FOR THURSDAY, MARCH 1  
-In progress code due, small-group feedback sessions. More info TBA soon.
+For next week, continue prototyping your project. Work on integrating blob or color tracking, and getting the visuals closer to what they will be in the finished piece. We'll do small-group feedback sessions next week, and have time to work and trouble-shoot.
+
+Please also draw up at least one rendering of how the piece will be installed, and how it will work. You can do this in Illustrator or Powerpoint (or 3D software, if you *really* want to). Annotate parts that aren't clear – think of this as a pitch to a potential client or exhibition. I've dropped some examples in the `Resources` folder – by no means the only way to do these kind of drawings, but should give you an idea of the details to include. **Print your finished rendering and bring it to class next week.**
 
 ### FOR THURSDAY, MARCH 8  
 Finish project, machine learning readings. More info TBA soon.
@@ -71,6 +73,7 @@ Finish project, machine learning readings. More info TBA soon.
 ### RESOURCES  
 
 * The ever-helpful Daniel Shiffman has a great tutorial on [blob tracking](https://www.youtube.com/watch?v=ce-2l2wRqO8), and one where the [blobs persist even when lost temporarily](https://www.youtube.com/watch?v=r0lvsMPGEoY)  
+* Writeup on [computer vision in art](http://www.flong.com/texts/essays/essay_cvad/), including some sample code, from Golan Levin  
 * A nice, simple [tutorial that explains one method for blob detection](https://www.learnopencv.com/blob-detection-using-opencv-python-c/) using several thresholded versions of the input image  
 * Lots more (mathy) explanations on [Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)    
 * Get yourself ready for blobs by watching the [1958 movie of the same name](https://en.wikipedia.org/wiki/The_Blob)  
@@ -80,5 +83,7 @@ Finish project, machine learning readings. More info TBA soon.
 * Philip Worthington's [*Shadow Monsters*](https://www.moma.org/calendar/exhibitions/1321) (see also [this image](https://cdn.hpm.io/wp-content/uploads/2015/06/21113000/shadow3.jpg) that shows a bit about how th piece works)  
 * [*Messa di Voce*](http://www.flong.com/projects/messa/), a performance by Jaap Blink with interactive visualizations by Golan Levin, Zach Lieberman, and Joan La Barbara  
 * Golan Levin and Kyle McDonald's [*Eyeshine*](http://www.flong.com/projects/eyeshine/) and [*Augmented Hand Series*](http://www.flong.com/projects/augmented-hand-series/) (with Chris Sugrue)  
+* David Bowen's [*Fly Carving Device*](http://www.dwbowen.com/fly-carving-device)  
+* David Rokeby's [*Giver of Names*](http://www.davidrokeby.com/gon.html)  
 * More examples in this week's `Images` folder  
 
