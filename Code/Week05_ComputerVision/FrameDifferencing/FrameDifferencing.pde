@@ -84,8 +84,9 @@ void draw() {
     // update the background subtraction
     // the result will be a binary image where black
     // pixels are the background, white ones that have
-    // changed
+    // changed (un-comment the line below to see the mask)
     cv.updateBackground();
+    // image(cv.getOutput(), 0,0);
     
     // use the binary image as a mask on the video
     // showing only the areas that have changed!
