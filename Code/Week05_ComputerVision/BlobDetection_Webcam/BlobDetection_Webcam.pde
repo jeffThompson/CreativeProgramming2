@@ -9,7 +9,9 @@ Jeff Thompson | 2017 | jeffreythompson.org
 An expanded version of the Blob Detection example
 using the webcam as an input. Try using your phone's
 flashlight in a darkened room, adjusting the threshold
-until it's the only blob.
+until it's the only blob. The mouse's X position is
+also used to set the minimum blob size – anything smaller
+is ignored, which is useful for noisey environments.
 
 Details on how the pre-processing and blob detection
 work are skipped here, so see the previous example
@@ -18,7 +20,6 @@ For more on getting webcam input, see the Image
 Processing code examples.
 
 */
-
 
 Capture webcam;              // webcam input
 OpenCV cv;                   // instance of the OpenCV library
@@ -62,6 +63,7 @@ void draw() {
     // using the mouse) and display it onscreen
     int threshold = int( map(mouseY, 0,height, 0,255) );
     cv.threshold(threshold);
+    //cv.invert();    // blobs should be white, so you might have to use this
     cv.dilate();
     cv.erode();
     image(cv.getOutput(), 0,0);
@@ -72,6 +74,12 @@ void draw() {
     stroke(255,150,0);
     strokeWeight(3);
     for (Contour blob : blobs) {
+      
+      // optional: reject blobs that are too small
+      if (blob.area() < map(mouseX, 10,width,0,3000)) {
+        continue;
+      }
+      
       beginShape();
       for (PVector pt : blob.getPolygonApproximation().getPoints()) {
         vertex(pt.x, pt.y);
