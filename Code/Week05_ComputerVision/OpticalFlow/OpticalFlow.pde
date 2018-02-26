@@ -23,7 +23,11 @@ doc/motion_analysis_and_object_tracking.html
  
 CHALLENGES:
 + Since we can read the flow in a particular region, can you create
-an onscreen trigger that is "hit" by motion in the video?
+  an onscreen trigger that is "hit" by motion in the video?
++ Can you tie this optical flow trigger into a particle system, where
+  particles get added when the flow is great enough and are removed after
+  a certain period? Can you give them momentum in the direction of their
+  flow?
  
  */
 
@@ -71,8 +75,8 @@ void draw() {
     // draw flow in the image as circles (larger = more flow)
     fill(255, 150);
     noStroke();
-    for (int y=0; y<webcam.height; y+=gridSize) {
-      for (int x=0; x<webcam.width; x+=gridSize) {
+    for (int y=gridSize; y<camHeight-gridSize; y+=gridSize) {
+      for (int x=gridSize; x<camWidth-gridSize; x+=gridSize) {
 
         // get the average flow in this grid square
         PVector flow = cv.flow.getAverageFlowInRegion(x,y, gridSize,gridSize);
