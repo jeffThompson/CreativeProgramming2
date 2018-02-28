@@ -34,8 +34,8 @@ CHALLENGES
 
 */
 
-int camWidth =  480;    // input camera and detection dimensions
-int camHeight = 270;    // too slow if we run it on the full-res camera input
+int camWidth =  640;    // input camera and detection dimensions
+int camHeight = 360;    // too slow if we run it on the full-res camera input
 
 String cascadePath = "/Users/JeffThompson/Documents/Processing3/libraries/opencv_processing/library/cascade-files/";
 
@@ -46,7 +46,7 @@ float aspectX, aspectY;
 
 
 void setup() {
-  size(960,540);
+  size(1280,720);
   
   // calculate the aspect ratio between the input image
   // size and the sketch's size (for drawing rectangles around
