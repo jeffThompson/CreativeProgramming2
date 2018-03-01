@@ -68,14 +68,23 @@ For next week, continue prototyping your project. Work on integrating blob or co
 Please also draw up at least one rendering of how the piece will be installed, and how it will work. You can do this in Illustrator or Powerpoint (or 3D software, if you *really* want to). Annotate parts that aren't clear – think of this as a pitch to a potential client or exhibition. I've dropped some examples in the `Resources` folder – by no means the only way to do these kind of drawings, but should give you an idea of the details to include. **Print your finished rendering and bring it to class next week.**
 
 ### FOR THURSDAY, MARCH 8  
-Finish project, machine learning readings. More info TBA soon.
+For next week, please finish your project so it can be shown to the class. Think about how best to present your piece, and what you'll need to gather to set it up (camera, external projector, controlled lighting, etc). As a stretch goal, try to get your project to run fullscreen and without any manual setup, once you get the parameters tuned.
+
+Please also read these three pieces on machine learning (PDFs in the `Readings` folder, or via the links below):  
+* [*Artificial Intelligence's White Guy Problem*](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) by Microsoft Research's Kate Crawford  
+* [*Mathwashing, Facebook, and the Zeitgeist of Data Worship*](https://technical.ly/brooklyn/2016/06/08/fred-benenson-mathwashing-facebook-data-worship/), an interview with former Kickstarter data scientist Fred Benenson  
+* [*The Unreasonable Effectiveness of Recurrent Neural Networks*](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by machine learning guru Andrej Karpathy  
+* There are also some optional articles in the `Readings` folder, if you feel so inclined (warning: some of it is NSFW)  
+
+We'll do a critique of your finished projects next week, talk about the history and context of machine learning, and kick off another long project around the idea of faces.
 
 ### RESOURCES  
 
 * The ever-helpful Daniel Shiffman has a great tutorial on [blob tracking](https://www.youtube.com/watch?v=ce-2l2wRqO8), and one where the [blobs persist even when lost temporarily](https://www.youtube.com/watch?v=r0lvsMPGEoY)  
 * Writeup on [computer vision in art](http://www.flong.com/texts/essays/essay_cvad/), including some sample code, from Golan Levin  
 * A nice, simple [tutorial that explains one method for blob detection](https://www.learnopencv.com/blob-detection-using-opencv-python-c/) using several thresholded versions of the input image  
-* Lots more (mathy) explanations on [Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)    
+* Lots more (mathy) explanations on [Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)  
+* And some (mathy) ways to do [better blob-centroid finding](https://blog.mapbox.com/a-new-algorithm-for-finding-a-visual-center-of-a-polygon-7c77e6492fbc)  
 * Get yourself ready for blobs by watching the [1958 movie of the same name](https://en.wikipedia.org/wiki/The_Blob)  
 
 ### PROJECTS SHOWN  
@@ -85,5 +94,7 @@ Finish project, machine learning readings. More info TBA soon.
 * Golan Levin and Kyle McDonald's [*Eyeshine*](http://www.flong.com/projects/eyeshine/) and [*Augmented Hand Series*](http://www.flong.com/projects/augmented-hand-series/) (with Chris Sugrue)  
 * David Bowen's [*Fly Carving Device*](http://www.dwbowen.com/fly-carving-device)  
 * David Rokeby's [*Giver of Names*](http://www.davidrokeby.com/gon.html)  
+* This pretty fun [Harry Potter World wand](https://www.youtube.com/watch?v=iKUC0EbHw20), which lets you control things around the park (using infrared blob tracking!)  
+* Adam Harvey's [visualization of how face detection in OpenCV sees a face](https://vimeo.com/12774628)  
 * More examples in this week's `Images` folder  
 
