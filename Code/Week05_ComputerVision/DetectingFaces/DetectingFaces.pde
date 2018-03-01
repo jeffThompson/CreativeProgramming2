@@ -24,6 +24,10 @@ are usually brighter than the cheeks).
 You can read more about the Viola-Jones method here:
 https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework
 
+See details about how it works:
+https://www.youtube.com/watch?v=wpAwdsubl1w
+https://www.youtube.com/watch?v=v-gkPTvdgYo
+
 And more info on the classification code and its parameters:
 https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
 
