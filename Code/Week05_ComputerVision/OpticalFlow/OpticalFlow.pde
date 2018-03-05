@@ -89,8 +89,8 @@ void draw() {
           
           // convert from camera dimensions to the larger screen dimensions
           // add some randomness too, to break the grid
-          float nx = int(map(x, 0,webcam.width, 0,width) + random(gridSize));
-          float ny = int(map(y, 0,webcam.height, 0,height) + random(gridSize));
+          float nx = map(x, 0,webcam.width, 0,width) + random(gridSize);
+          float ny = map(y, 0,webcam.height, 0,height) + random(gridSize);
           ellipse(nx,ny, dia,dia);
         }
       }
