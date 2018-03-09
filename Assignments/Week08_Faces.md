@@ -5,7 +5,7 @@ FACES
 
 ### DUE: THURSDAY, APRIL 12  
 
->"How can a computer be made to recognize a human face? This question remains unanswered, because pattern recognition by computer is still too crude to achieve automatic identification of objects as complex as faces." – Leon D. Harmon ([source](https://archive.org/details/DTIC_ADA004159))
+>"How can a computer be made to recognize a human face? This question remains unanswered, because pattern recognition by computer is still too crude to achieve automatic identification of objects as complex as faces." – [Leon D. Harmon](https://archive.org/details/DTIC_ADA004159)
 
 > "Who sees the human face correctly: the photographer, the mirror, or the painter?" – Picasso
 
@@ -51,6 +51,7 @@ Finish project, write final project proposal. Details TBD soon.
 ### PROJECTS SHOWN  
 
 * [*Human Traits*](http://patricktresset.com/new/project/human-traits-2015/) by Patrick Tresset  
+* Some really great projects by Rafael Lozano-Hemmer, including [*Blow Up*](http://www.lozano-hemmer.com/blow_up.php) and [*Zoom Pavilion*](http://www.lozano-hemmer.com/zoom_pavilion.php)  
 * [*MegaPixels: Face Database Query*](https://ahprojects.com/notebook/2017/megapixels/) and [*CV Dazzle*](https://cvdazzle.com/) by Adam Harvey
 * [*Facial Weaponization Suite*](http://www.zachblas.info/works/facial-weaponization-suite/) and [*Face Cages*](http://www.zachblas.info/works/face-cages/) by Zach Blas  
 * Matthew Plummer-Fernandez's eerie [*Unique Visitors*](http://unique-visitors.tumblr.com/) breeds random 3D faces until they are recognized by OpenCV  
@@ -59,6 +60,8 @@ Finish project, write final project proposal. Details TBD soon.
 * [*Face Maker* app](http://prostheticknowledge.tumblr.com/post/169232693186/face-maker-ios-app-by-tim-sears-for-iphone-x-lets) by Tim Sears  
 * Using only darkroom technology, Nancy Burson's [*Composite Silver Prints*](http://nancyburson.com/composite-silver-prints/)  
 * [*Cheese*](http://christianmoeller.com/Cheese) by Christian Moeller, which asks viewers to smile as long as possible  
+* Daito Manabe's [*Face Projection*](http://www.daito.ws/en/work/face-projection.html#5) experiments  
+* One of Mario Klingemann's [many neural network face experiments](https://www.youtube.com/watch?v=5h4R959O0cY&feature=youtu.be)  
 * The super weird painting [*The Jurist*](https://www.giuseppe-arcimboldo.org/The-Jurist-1566.html) from 1566 by Guiseppe Arcimboldo, which shows a figure made out of raw chicken, fish, and a pile of books  
 * Some examples from my own practice, using my blog as a digital sketchbook to record random experiments: [photo-merging eight faces in Photoshop](http://www.jeffreythompson.org/blog/2013/12/17/photomerged-faces/) and [degrading a photo of a face until OpenCV no longer recognizes it](http://www.jeffreythompson.org/blog/2012/05/22/no-longer-a-face/)  
 * Find lots of other face-related projects by [searching Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
