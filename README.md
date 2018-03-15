@@ -139,8 +139,9 @@ Finish [Final Project]()
 
 \- \- \-
 
-### EXAM PERIOD: FINAL CRITIQUE
-Date TBA, please don’t book travel until the exam schedule is released! 
+### MAY 8, 1–5PM: FINAL CRITIQUE
+**We'll meet in the VA&T Studio, not the random room listed online!**  
+Please don't book any travel until after this date. We'll meet to look at and crit your final projects.
 
 
 
