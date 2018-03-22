@@ -7,10 +7,7 @@ class ImageVector {
   int w, h;        // the image will be resized (large images provide too much data that we
                    //  don't really need, and make processing slow – 16x16 or 24x24 is good)
   
-  float[] X;       // 1D array storing the normalized data
-                   // note that this variable is a capital letter – while usually
-                   // used in Java for class names, it's convention to use upper-
-                   // case names for vectors in machine learning
+  float[] x;       // 1D array storing the normalized data
 
   // where's the image data?
   // we don't store the input PImage, since it would just produce redundant
@@ -39,11 +36,11 @@ class ImageVector {
     // copy pixel data into the vector, normalizing
     // it to a range of 0–1 (instead of 0–255)
     img.loadPixels();
-    X = new float[img.pixels.length];
+    x = new float[img.pixels.length];
     for (int i=0; i<img.pixels.length; i++) {
       float px = img.pixels[i] >> 16 & 0xFF;    // get red (in grayscale, RGB are the same)
       px /= 255.0;                              // normalize
-      X[i] = px;                                // add to the vector
+      x[i] = px;                                // add to the vector
     }
   }
   
@@ -53,10 +50,10 @@ class ImageVector {
   // make the lightest pixel 255 and the darkest 0 
   // so we don't have all our data skewed into a small range
   void minMax() {
-    float minVal = min(X);
-    float maxVal = max(X);
-    for (int i=0; i<X.length; i++) {
-      X[i] = map(X[i], minVal,maxVal, 0,1);
+    float minVal = min(x);
+    float maxVal = max(x);
+    for (int i=0; i<x.length; i++) {
+      x[i] = map(x[i], minVal,maxVal, 0,1);
     }
   }
   
@@ -64,9 +61,9 @@ class ImageVector {
   // print the vector data nicely
   void printVector() {
     print("[ ");
-    for (int i=0; i<X.length; i++) {
-      print(X[i]);
-      if (i < X.length-1) print(", ");
+    for (int i=0; i<x.length; i++) {
+      print(x[i]);
+      if (i < x.length-1) print(", ");
     }
     println(" ]");
   }
@@ -91,7 +88,7 @@ class ImageVector {
     PImage img = createImage(w, h, RGB);
     img.loadPixels();
     for (int i=0; i<img.pixels.length; i++) {
-      img.pixels[i] = color(X[i] * 255);
+      img.pixels[i] = color(x[i] * 255);
     }
     img.updatePixels();
     return img;
@@ -112,8 +109,8 @@ class ImageVector {
   // between two vectors)
   float euclideanDist(ImageVector other) {
     float dist = 0;
-    for (int i=0; i<X.length; i++) {
-      dist += pow(X[i] - other.X[i], 2);  // square the dist b/w each and add to overall distance
+    for (int i=0; i<x.length; i++) {
+      dist += pow(x[i] - other.x[i], 2);  // square the dist b/w each and add to overall distance
     }
     return sqrt(dist);                    // get square root for final distance
   }
@@ -125,8 +122,8 @@ class ImageVector {
   // to another in a grid of city blocks
   float manhattanDist(ImageVector other) {
     float dist = 0;
-    for (int i=0; i<X.length; i++) {
-      dist += abs(X[i] - other.X[i]);
+    for (int i=0; i<x.length; i++) {
+      dist += abs(x[i] - other.x[i]);
     }
     return dist;
   }
@@ -140,8 +137,8 @@ class ImageVector {
   // will also always be 0–1 too!
   float chebyshevDist(ImageVector other) {
     float dist = 0;
-    for (int i=0; i<X.length; i++) {
-      float d = abs(X[i] - other.X[i]);
+    for (int i=0; i<x.length; i++) {
+      float d = abs(x[i] - other.x[i]);
       if (d > dist) dist = d;
     }
     return dist;
@@ -150,16 +147,25 @@ class ImageVector {
   
   // cosine similarity
   // if inputs are 0–1, this one will also return a dist of 0–1
-  float cosineSimilarity(ImageVector other) {
+  float cosineSimilarity(ImageVector other, boolean reverseResults) {
     float dotProduct = 0;
     float normA =      0;
     float normB =      0;
-    for (int i=0; i<X.length; i++) {
-      dotProduct += X[i] * other.X[i];
-      normA += pow(X[i], 2);
-      normB += pow(other.X[i], 2);
+    for (int i=0; i<x.length; i++) {
+      dotProduct += x[i] * other.x[i];
+      normA += pow(x[i], 2);
+      normB += pow(other.x[i], 2);
     }
-    return dotProduct / (sqrt(normA) * sqrt(normB));
+    float dist = dotProduct / (sqrt(normA) * sqrt(normB));
+    
+    // with cosine similarity, 1 = an exact match, 0 = very far
+    // apart – optionally, reverse that to be like the other
+    // distance measures
+    if (reverseResults) {
+      dist = map(dist, 0,1, 1,0);
+    }
+    
+    return dist;
   }
 }
 

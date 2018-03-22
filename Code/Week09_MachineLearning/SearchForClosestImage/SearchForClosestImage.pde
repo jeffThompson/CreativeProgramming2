@@ -6,44 +6,48 @@ Jeff Thompson | 2018 | jeffreythompson.org
 This example extends the ImageVector class and lets us search a dataset
 of faces for the one closest to the input image. 
 
-IMPROVING THE RESULT
-This example is by no means perfect: background noise and changes in lighting
-will effect which face is matched. Some ways we might improve this would
-be to:
+This example is by no means perfect: background noise, changes in lighting,
+and over- or under-exposure of different skin shades will affect which face 
+is matched. The included dataset has done quite a bit of work for us, though,
+by having isolated faces that are front-facing, isolated from their backgrounds
+(mostly), and face features are aligned.
 
-+ use only images that are front-facing
-+ use OpenCV to isolate just the face from the image and automatically crop it
-+ or, even better, align by identifying the points of the eyes, nose, and mouth
+DATASET
+Included here is a dataset of cropped and aligned faces to try. It's via Khosla,
+A., Bainbridge, W.A., and Oliva, A. (2013) and it matches the distribution in the
+1990 US census.
 
-Can you think of other ways to improve this system?
+It is compressed for easier download, so unzip it first before running this 
+code. (If you're in my IRL class, I've posted a link to the full dataset of 10k
+faces on Canvas for you to try!)
 
-DATASETS
-There are two datasets included here to try, both have been
-reduced (by me) to make demo-ing the code faster. Both are compressed
-for easier download, so unzip them first before running this code.
+More info, and request access to the full set here:
+http://www.wilmabainbridge.com/8jans2h5hkskg729.html
 
-1. Cropped photos from Wikipedia by Rasmus Rothe, Radu Timofte,
-and Luc Van Gool: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
-
-2. Cropped and aligned faces by Lior Wolf, Tal Hassner, and Yaniv 
-Taigman: https://www.openu.ac.il/home/hassner/data/lfwa/
+CHALLENGES
++ Loading and processing our dataset can be really slow. A better idea would be
+  to create a "model" of processed data that is smaller and easier to load. Can
+  you think of ways to acccomplish that? (For example: doing all the image
+  transformations like grayscale conversion once and saving copies.)
 
 */
 
-String faceToMatchFilename = "FaceToTest2.jpg";    // a face image to match
-String faceDirectory =       "faces";              // folder of faces to search
+String faceToMatchFilename = "FaceToTest.jpg";     // a face image to match
+String faceDirectory =       "10kFaces";           // folder of faces to search
 
-ImageVector faceToMatch, closest;                  // vector of matching faces
+ImageVector faceToMatch, closest;                  // vector for input and matching faces
 
-ArrayList<ImageVector> otherFaces = new ArrayList<ImageVector>();    // all faces
+// all faces
+ArrayList<ImageVector> otherFaces = new ArrayList<ImageVector>();
 
 
 void setup() {
-  size(1200,600);
+  size(800,800);
   
   // load all image files from a directory
   // uses the Java "File" class, which lets us access things like
   // a file's name, full path, etc
+  println("Getting a list of all image files...");
   ArrayList<String> files = new ArrayList<String>();
   File dir = new File(sketchPath(faceDirectory));
   if (dir.isDirectory()) {
@@ -56,41 +60,60 @@ void setup() {
     }
   }
   else {
-    println("Not a directory!");
+    println("- not a directory, quitting!");
     exit();
-  } 
+  }
+  println("- found " + files.size() + " images");
+  
   
   // load the face we want to match as an image vector
+  println("Creating vector of the input image...");
   faceToMatch = new ImageVector(faceToMatchFilename, 16,16);
-  faceToMatch.minMax();
+  //faceToMatch.minMax();
+  
   
   // create vectors from all the other face images too
-  println("Loading images to test against...");
+  println("Creating vectors to test against (may take a while)...");
   for (int i=0; i<files.size(); i++) {
-    println("- " + (i+1) + " / " + files.size());
+    if (i%1000 == 0) {
+      println("- " + i + " / " + files.size());
+    }
     ImageVector face = new ImageVector(files.get(i), 16,16);
-    face.minMax();
+    //face.minMax();
     otherFaces.add(face);
   }
+  
   
   // find the closest face by measuring the distance
   // between the target and all other faces (smallest
   // distance = the most similar!)
+  println("Finding most-similar face...");
   float minDist = MAX_FLOAT;
   for (ImageVector other : otherFaces) {
-    float dist = faceToMatch.chebyshevDist(other);
+    
+    // calculate the distance – here we use cosine similarity,
+    // but it returns 1 if it is an exact match, so the "true"
+    // argument reverses the results to be like other distance
+    // measures
+    float dist = faceToMatch.cosineSimilarity(other, true);
+    
+    // if the distance is shorter than the previous record,
+    // this face is a closer match!
     if (dist < minDist) {
       minDist = dist;
       closest = other;
     }
   }
-  println("Closest match: ");
-  println("- label: " + closest.label);
-  println("- dist: " + minDist);
+  println("- closest match (" + minDist + ")");
+  println(closest.label);
   
-  // display the results
-  PImage original = loadImage(faceToMatchFilename);
-  image(original, 0,0, width/2,height);
-  PImage match = loadImage(closest.label);
-  image(match, width/2,0, width/2,height);
+  
+  // display the results (show the vectors + the original images)
+  faceToMatch.display(0,0, width/2,height/2);
+  PImage img = loadImage(faceToMatchFilename);
+  image(img, 0,height/2, width/2,height/2);
+  
+  closest.display(width/2,0, width/2,height/2);
+  img = loadImage(closest.label);
+  image(img, width/2,height/2, width/2,height/2);
 }
