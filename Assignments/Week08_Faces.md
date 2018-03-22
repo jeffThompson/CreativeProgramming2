@@ -7,7 +7,7 @@ FACES
 
 >"How can a computer be made to recognize a human face? This question remains unanswered, because pattern recognition by computer is still too crude to achieve automatic identification of objects as complex as faces." <br>– [Leon D. Harmon](https://archive.org/details/DTIC_ADA004159)
 
-> "Who sees the human face correctly: the photographer, the mirror, or the painter?" – Picasso
+> "Who sees the human face correctly: the photographer, the mirror, or the painter?" <br>– Picasso
 
 This project is a wide-open exploration: make something about *faces*. Any language, any output format, any topic. The idea is for you to deeply investigate an idea and make something that you're really excited about. 
 
