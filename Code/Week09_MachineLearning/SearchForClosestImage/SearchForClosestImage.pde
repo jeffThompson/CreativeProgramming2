@@ -28,12 +28,13 @@ CHALLENGES
 + Loading and processing our dataset can be really slow. A better idea would be
   to create a "model" of processed data that is smaller and easier to load. Can
   you think of ways to acccomplish that? (For example: doing all the image
-  transformations like grayscale conversion once and saving copies.)
+  transformations like grayscale conversion once and saving copies, using a
+  separate Processing sketch.)
 
 */
 
 String faceToMatchFilename = "FaceToTest2.jpg";    // a face image to match
-String faceDirectory =       "10kFaces";           // folder of faces to search
+String faceDirectory =       "49Faces";            // folder of faces to search
 
 ImageVector faceToMatch, closest;                  // vector for input and matching faces
 
@@ -58,12 +59,12 @@ void setup() {
         files.add(f.getAbsolutePath());
       }      
     }
+    println("- found " + files.size() + " images");}
   }
   else {
     println("- not a directory, quitting!");
     exit();
   }
-  println("- found " + files.size() + " images");
   
   
   // load the face we want to match as an image vector
