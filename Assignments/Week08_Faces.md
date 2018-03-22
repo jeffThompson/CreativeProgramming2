@@ -30,7 +30,18 @@ During the next two weeks, start planning and researching your project. For the 
 **UPDATE: Since we had a snow day and won't be able to talk about this assignment together, please take a look at the example projects below. As usual, they're just to get you thinking!**
 
 ### FOR THURSDAY, MARCH 29:  
-Continue working on project. Install Anaconda and required libraries. Details TBD soon.
+For next week, continue working on the project. We'll have an in-progress crit on April 5, so you should have something concrete to demo then.
+
+Please also install [Anaconda](https://www.anaconda.com/download), which is a virtual environment manager for Python. It will help you install the requried libraries for the machine learning demos, and keep everything neat and tidy. (If you already use another system and would prefer to stick with that, by all means.)
+
+* Go to [anaconda.com/download](https://www.anaconda.com/download)  
+* **Download the Python 2.7 version, not Python 3!**  
+* Install it on your computer and open the `Anaconda Navigator` app  
+* Create an environment (called `CreativeProgramming2` or something like that)  
+* Once it's created, install the `scikit-learn`, `scikit-image`, `pillow` libraries  
+* Optionally, you can also install `ffmpeg`, `ipython`, and `ipython-notebook`  
+
+(See the `Resources` folder for screenshots on creating an environment and installing libraries.) Please do this at least a few days ahead of class, to make sure it works right. Email me if something doesn't work and I can try to help.
 
 ### FOR THURSDAY, APRIL 5:  
 Work in progress ready for crit. Details TBD soon.
