@@ -26,10 +26,13 @@ SEARCH FOR CLOSEST FACE
  
  CHALLENGES
  + Loading and processing our dataset can be really slow. A better idea would be
- to create a "model" of processed data that is smaller and easier to load. Can
- you think of ways to acccomplish that? (For example: doing all the image
- transformations like grayscale conversion once and saving copies, using a
- separate Processing sketch.)
+   to create a "model" of processed data that is smaller and easier to load. Can
+   you think of ways to acccomplish that? (For example: doing all the image
+   transformations like grayscale conversion once and saving copies, using a
+   separate Processing sketch.)
+ + Loading a long list of files like this is the perfect case for a thread, code
+   that runs asyncronously, letting you do other tasks. See the documentation for
+   the thread() command and see if you can load the face vectors in it!
  
  */
 
@@ -38,7 +41,7 @@ String faceDirectory =       "49Faces";            // folder of faces to search
 
 ImageVector faceToMatch, closest;                  // vector for input and matching faces
 
-// all faces
+// all the faces to test
 ArrayList<ImageVector> otherFaces = new ArrayList<ImageVector>();
 
 
