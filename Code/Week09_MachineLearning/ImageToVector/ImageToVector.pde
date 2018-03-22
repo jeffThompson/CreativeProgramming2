@@ -48,9 +48,6 @@ CHALLENGES:
   both the same length, and throw an error if they weren't.
   Can you implement that? What other changes would you make
   to make the code more robust?
-+ Can you create an array of ImageVectors, and search them
-  for the one closest to a source image? (Hint: look for the
-  two with the shortest distance.)
 
 */
 
@@ -73,7 +70,7 @@ void setup() {
   println("- euclidean = " + face1.euclideanDist(face2));
   println("- manhattan = " + face1.manhattanDist(face2));
   println("- chebyshev = " + face1.chebyshevDist(face2));
-  println("- cosine =    " + face1.cosineSimilarity(face2));
+  println("- cosine =    " + face1.cosineSimilarity(face2, true));
 }
 
 
@@ -226,7 +223,7 @@ class ImageVector {
   
   // cosine similarity
   // if inputs are 0–1, this one will also return a dist of 0–1
-  float cosineSimilarity(ImageVector other) {
+  float cosineSimilarity(ImageVector other, boolean reverseResults) {
     float dotProduct = 0;
     float normA =      0;
     float normB =      0;

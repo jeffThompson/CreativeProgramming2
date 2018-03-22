@@ -21,7 +21,7 @@ It is compressed for easier download, so unzip it first before running this
 code. (If you're in my IRL class, I've posted a link to the full dataset of 10k
 faces on Canvas for you to try!)
 
-More info, and request access to the full set here:
+More info and request access to the full set here:
 http://www.wilmabainbridge.com/8jans2h5hkskg729.html
 
 CHALLENGES
@@ -32,7 +32,7 @@ CHALLENGES
 
 */
 
-String faceToMatchFilename = "FaceToTest.jpg";     // a face image to match
+String faceToMatchFilename = "FaceToTest2.jpg";    // a face image to match
 String faceDirectory =       "10kFaces";           // folder of faces to search
 
 ImageVector faceToMatch, closest;                  // vector for input and matching faces
@@ -42,7 +42,7 @@ ArrayList<ImageVector> otherFaces = new ArrayList<ImageVector>();
 
 
 void setup() {
-  size(800,800);
+  size(800,400);
   
   // load all image files from a directory
   // uses the Java "File" class, which lets us access things like
@@ -69,7 +69,7 @@ void setup() {
   // load the face we want to match as an image vector
   println("Creating vector of the input image...");
   faceToMatch = new ImageVector(faceToMatchFilename, 16,16);
-  //faceToMatch.minMax();
+  faceToMatch.minMax();
   
   
   // create vectors from all the other face images too
@@ -79,7 +79,7 @@ void setup() {
       println("- " + i + " / " + files.size());
     }
     ImageVector face = new ImageVector(files.get(i), 16,16);
-    //face.minMax();
+    face.minMax();
     otherFaces.add(face);
   }
   
@@ -105,15 +105,13 @@ void setup() {
     }
   }
   println("- closest match (" + minDist + ")");
-  println(closest.label);
+  //println(closest.label);
   
   
-  // display the results (show the vectors + the original images)
-  faceToMatch.display(0,0, width/2,height/2);
+  // display the results
   PImage img = loadImage(faceToMatchFilename);
-  image(img, 0,height/2, width/2,height/2);
+  image(img, 0,0, width/2,height);
   
-  closest.display(width/2,0, width/2,height/2);
   img = loadImage(closest.label);
-  image(img, width/2,height/2, width/2,height/2);
+  image(img, width/2,0, width/2,height);
 }
