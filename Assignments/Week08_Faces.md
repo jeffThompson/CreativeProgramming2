@@ -44,7 +44,7 @@ Please also install [Anaconda](https://www.anaconda.com/download), which is a vi
 (See the `Resources` folder for screenshots on creating an environment and installing libraries.) Please do this at least a few days ahead of class, to make sure it works right. Email me if something doesn't work and I can try to help.
 
 ### FOR THURSDAY, APRIL 5:  
-Work in progress ready for crit. Details TBD soon.
+For next week, please have work ready for an in-progress critique. This should be a working prototype or in some way far enough along to not require a ton of explanation. If you need to fake elements (like mouse interaction instead of blob tracking) that's totally fine. Consider bringing sketches and other materials that help contextualize your project.
 
 ### FOR THURSDAY, APRIL 12:  
 Finish project, write final project proposal. Details TBD soon.
