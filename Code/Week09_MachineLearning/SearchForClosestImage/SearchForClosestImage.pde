@@ -1,45 +1,50 @@
 
 /*
 SEARCH FOR CLOSEST FACE
- Jeff Thompson | 2018 | jeffreythompson.org
+Jeff Thompson | 2018 | jeffreythompson.org
  
- This example extends the ImageVector class and lets us search a dataset
- of faces for the one closest to the input image. 
+This example extends the ImageVector class and lets us search a dataset
+of faces for the one closest to the input image. 
  
- This example is by no means perfect: background noise, changes in lighting,
- and over- or under-exposure of different skin shades will affect which face 
- is matched. The included dataset has done quite a bit of work for us, though,
- by having isolated faces that are front-facing, isolated from their backgrounds
- (mostly), and face features are aligned.
+This example is by no means perfect: background noise, changes in lighting,
+and over- or under-exposure of different skin shades will affect which face 
+is matched. The included dataset has done quite a bit of work for us, though,
+by having isolated faces that are front-facing, isolated from their backgrounds
+(mostly), and face features are aligned.
  
- DATASET
- Included here is a dataset of cropped and aligned faces to try. It's via Khosla,
- A., Bainbridge, W.A., and Oliva, A. (2013) and it matches the distribution in the
- 1990 US census.
- 
- It is compressed for easier download, so unzip it first before running this 
- code. (If you're in my IRL class, I've posted a link to the full dataset of 10k
- faces on Canvas for you to try!)
- 
- More info and request access to the full set here:
- http://www.wilmabainbridge.com/8jans2h5hkskg729.html
- 
- CHALLENGES
- + Loading and processing our dataset can be really slow. A better idea would be
-   to create a "model" of processed data that is smaller and easier to load. Can
-   you think of ways to acccomplish that? (For example: doing all the image
-   transformations like grayscale conversion once and saving copies, using a
-   separate Processing sketch.)
- + Loading a long list of files like this is the perfect case for a thread, code
-   that runs asyncronously, letting you do other tasks. See the documentation for
-   the thread() command and see if you can load the face vectors in it!
- 
- */
+DATASETS
++ Included here is a dataset of cropped and aligned faces to try. It's via Khosla,
+  A., Bainbridge, W.A., and Oliva, A. (2013) and it matches the distribution in the
+  1990 US census.
 
-String faceToMatchFilename = "FaceToTest2.jpg";    // a face image to match
-String faceDirectory =       "49Faces";            // folder of faces to search
+  It is compressed for easier download, so unzip it first before running this 
+  code. (If you're in my IRL class, I've posted a link to the full dataset of 10k
+  faces on Canvas for you to try!)
 
-ImageVector faceToMatch, closest;                  // vector for input and matching faces
+  More info and request access to the full set here:
+  http://www.wilmabainbridge.com/8jans2h5hkskg729.html
+
++ You can also use the "Labeled Faces in the Wild" dataset, though you'll need
+  to extract the images from their subfolders in order to use this code directly.
+  
+  Download it here: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz
+
+CHALLENGES
++ Loading and processing our dataset can be really slow. A better idea would be
+  to create a "model" of processed data that is smaller and easier to load. Can
+  you think of ways to acccomplish that? (For example: doing all the image
+  transformations like grayscale conversion once and saving copies, using a
+  separate Processing sketch.)
++ Loading a long list of files like this is the perfect case for a thread, code
+  that runs asyncronously, letting you do other tasks. See the documentation for
+  the thread() command and see if you can load the face vectors in it!
+
+*/
+
+String faceToMatchFilename = "FaceToTest2.jpg";          // a face image to match
+String faceDirectory =       "../FaceImages/49Faces";    // folder of faces to search
+
+ImageVector faceToMatch, closest;                        // vector for input and matching faces
 
 // all the faces to test
 ArrayList<ImageVector> otherFaces = new ArrayList<ImageVector>();
