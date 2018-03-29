@@ -58,6 +58,7 @@ Finish project, write final project proposal. Details TBD soon.
 * A lot of vision research points to our sight being driven by contrast, much like the edges in neural networks. For example, [this article on toad vision](https://en.wikipedia.org/wiki/Feature_detection_%28nervous_system%29#In_toad_vision), which links to [this crazy video](https://av.tib.eu/media/15148#t=0,00:25)  
 * Do you see faces in random objects? It's a phenomenon called [pareidolia](https://en.wikipedia.org/wiki/Pareidolia)  
 * [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System), a system to numerically encode facial expressions  
+* Face recognition can be [tricked by invisible infrared light](https://boingboing.net/2018/03/26/the-threaten-from-infrared.html), making the computer think you're someone else  
 
 ### PROJECTS SHOWN  
 
@@ -72,9 +73,18 @@ Finish project, write final project proposal. Details TBD soon.
 * Using only darkroom technology, Nancy Burson's [*Composite Silver Prints*](http://nancyburson.com/composite-silver-prints/)  
 * [*Cheese*](http://christianmoeller.com/Cheese) by Christian Moeller, which asks viewers to smile as long as possible  
 * Daito Manabe's [*Face Projection*](http://www.daito.ws/en/work/face-projection.html#5) experiments  
-* One of Mario Klingemann's [many neural network face experiments](https://www.youtube.com/watch?v=5h4R959O0cY&feature=youtu.be)  
+* One of Mario Klingemann's [many neural network face experiments](https://www.youtube.com/watch?v=5h4R959O0cY&feature=youtu.be) (see also his [Flickr feed](https://www.flickr.com/photos/quasimondo/albums))  
 * The super weird painting [*The Jurist*](https://www.giuseppe-arcimboldo.org/The-Jurist-1566.html) from 1566 by Guiseppe Arcimboldo, which shows a figure made out of raw chicken, fish, and a pile of books  
 * Some examples from my own practice, using my blog as a digital sketchbook to record random experiments: [photo-merging eight faces in Photoshop](http://www.jeffreythompson.org/blog/2013/12/17/photomerged-faces/) and [degrading a photo of a face until OpenCV no longer recognizes it](http://www.jeffreythompson.org/blog/2012/05/22/no-longer-a-face/)  
 * Find lots of other face-related projects by [searching Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
 * And [another great list](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Faces-in-Media-Art) from Kyle McDonald  
+
+### NON-FACE MACHINE-LEARNING PROJECTS  
+Some projects that aren't about faces, but use machine learning that we've looked at:
+
+* Two great tutorials on Generative Adversarial Networks, one from [O'Reilly](https://www.safaribooksonline.com/oriole/saf-generative-adversarial-networks-for-beginners) and the other from [OpenAI](https://blog.openai.com/generative-models/)  
+* See also tools like [pix2pix](https://affinelayer.com/pixsrv/)  
+* Memo Atken's [*Learning to See*](https://vimeo.com/260612034)  
+* Mario Klingeman's [*X Degrees of Separation*](http://quasimondo.com/)  
+* [*Empty Apartments*](http://emptyapartments.net/), a project by Drift Station (yours truly)  
 
