@@ -47,7 +47,9 @@ Please also install [Anaconda](https://www.anaconda.com/download), which is a vi
 For next week, please have work ready for an in-progress critique. This should be a working prototype or in some way far enough along to not require a ton of explanation. If you need to fake elements (like mouse interaction instead of blob tracking) that's totally fine. Consider bringing sketches and other materials that help contextualize your project.
 
 ### FOR THURSDAY, APRIL 12:  
-Finish project, write final project proposal. Details TBD soon.
+For next week, please finish the project for critique. Given the feedback in class, think less about adding features and more about refining what's there: even if it's not super fancy, how can you make the piece compelling visually, poetically, and conceptually? Please think too about the best way to present your piece. Should it be a laptop on a pedestal? Projected? In a particular kind of space? We can take some time at the start of class, but please think about this and come ready to set up your project.
+
+Also, please 
 
 ### RESOURCES  
 
@@ -87,4 +89,5 @@ Some projects that aren't about faces, but use machine learning that we've looke
 * Memo Atken's [*Learning to See*](https://vimeo.com/260612034)  
 * Mario Klingeman's [*X Degrees of Separation*](http://quasimondo.com/)  
 * [*Empty Apartments*](http://emptyapartments.net/), a project by Drift Station (yours truly)  
-
+* [Hear a recording of Allison Parrish reading](http://hardtoread.us/post/172594205523/poet-and-programmer-allison-parrish-reads-from-her) from her book *Articulations* (reading starts around 2:50)  
+* Google Arts & Culture's experiment [mapping artworks by visual similarity](https://artsexperiments.withgoogle.com/tsnemap/)  
