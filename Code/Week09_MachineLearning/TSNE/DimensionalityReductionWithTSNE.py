@@ -52,6 +52,7 @@ num_images =       3000		# how many images to use in our model
 w = h = 		   100		# reduce them to this size first
 
 # pca settings for the initial reduction
+# see the resouce links above for more info
 init_dimensions =  50		# num dimensions to reduce to before t-SNE
 
 # tsne settings for final reduction
@@ -67,8 +68,8 @@ angle = 		   0.2      # 0-1 (default = 0.5)
 						    # lower = more accurate fitting, higher = faster processing 
 
 
-# load images from a folder as vectors
-# (see ExtractFeatures_Better.py for more info)
+# load images from a folder, convert to vectors
+# (see ExtractFeatures_Better.py for more info on this)
 print 'searching director for image files...'
 labels = []
 for path in glob(directory + '/*.jpg'):
@@ -94,9 +95,9 @@ print '- done'
 # the data in stages, helping make sure we don't run out of RAM
 # with large datasets
 print 'reducing to ' + str(init_dimensions) + 'D using IncrementalPCA...'
-ipca = IncrementalPCA(n_components=init_dimensions)
-ipca = ipca.fit(vectors)
-vectors = ipca.transform(vectors)
+ipca = IncrementalPCA(n_components=init_dimensions)		# create the pca object
+ipca = ipca.fit(vectors)								# fit it to our vectors
+vectors = ipca.transform(vectors)						# and run the reduction
 print '- done'
 
 # we'll periodically save our results, so we can go back later
@@ -107,33 +108,31 @@ with open('Model_IPCA_' + str(init_dimensions) + 'D.csv', 'w') as f:
 	
 	# 'zip' merges two lists, so we can iterate them together
 	for label, vector in zip(labels, vectors):
-		# convert the vector to a comma-separated list
 		vector = [ str(v) for v in vector ]		# convert values to floats
-		vector = ','.join(vector)				# then into a string
-		f.write(label + ',' + vector + '\n')
+		vector = ','.join(vector)				# then into a comma-separated string
+		f.write(label + ',' + vector + '\n')	# and write to the file
 
 # now run the second round of dimensionality reduction using tsne
 print 'reducing to ' + str(final_dimensions) + 'D using t-SNE...'
 print '- may take a really, really (really) long time :)'
 
-# first, convert the lists to numpy arrays (required for the tsne
-# implementation in sklearn)
+# first, convert the vectors to a numpy array 
+# (required for the tsne implementation in sklearn)
 vectors = np.asarray(vectors)
-labels =  np.asarray(labels)
 
 # create an instance of the tsne class, then run our vector array
 # through if for the final reduction
 # (the 'verbose' option here prints nothing of the tsne algorithm's
 # progress - change to '1' for more info)
 tsne = TSNE(n_components=final_dimensions, learning_rate=learning_rate, perplexity=perplexity, angle=angle, verbose=0)
-vectors = tsne.fit_transform(vectors)
+vectors = tsne.fit_transform(vectors)	# fit the tsne object to the vectors and run reduction
 print '- done'
 
 # optionally, normalize the output to a range of -1 to 1
 print 'normalizing vectors to -1 to 1...'
-vectors -= vectors.min()
-vectors /= vectors.max()/2
-vectors -= 1
+vectors -= vectors.min()		# make the lowest value 0
+vectors /= vectors.max()/2		# div by 2 to get a range 0-2
+vectors -= 1					# subtract 1 to get range of -1 to 1
 print '- done'
 
 # save the results to another csv file
