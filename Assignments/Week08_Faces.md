@@ -49,7 +49,7 @@ For next week, please have work ready for an in-progress critique. This should b
 ### FOR THURSDAY, APRIL 12:  
 For next week, please finish the project for critique. Given the feedback in class, think less about adding features and more about refining what's there: even if it's not super fancy, how can you make the piece compelling visually, poetically, and conceptually? Please think too about the best way to present your piece. Should it be a laptop on a pedestal? Projected? In a particular kind of space? We can take some time at the start of class, but please think about this and come ready to set up your project.
 
-Also, please 
+Also, we're starting the [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md) this week, so see the assignment for what to do this week.
 
 ### RESOURCES  
 
