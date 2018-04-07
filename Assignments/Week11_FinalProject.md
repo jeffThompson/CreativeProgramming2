@@ -18,5 +18,7 @@ For next week, alongside finishing your Faces project, please start ideating for
 
 Take at least an uninterrupted hour this week and draw in your sketchbook. Ideally, go somewhere specifically to do this like a coffee shop. Think about ideas, visual themes, and other artistic projects that you get inspired by (or better, obsessed with). The goal is not to mimic or modify something you've seen, but to pull together ideas that get your creative juices flowing. Draw as much as you can, even if they are hasty notations of an idea – don't worry if it's totally clear to others what the drawings are, its a way of thinking. When you come on something you're interested in, refine and/or iterate on it.
 
+For a great take on what it means to iterate through ideas, see this [video with designer Aaron Draplin](https://www.youtube.com/watch?v=zOPA0NaeTBk).
+
 **Please bring at least 20 pages (if your sketchbook is about half the size of a piece of typing paper, 10 if larger) of drawings to class next week.** We'll look at them together and start coding prototypes.
 
