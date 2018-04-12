@@ -91,3 +91,9 @@ Some projects that aren't about faces, but use machine learning that we've looke
 * [*Empty Apartments*](http://emptyapartments.net/), a project by Drift Station (yours truly)  
 * [Hear a recording of Allison Parrish reading](http://hardtoread.us/post/172594205523/poet-and-programmer-allison-parrish-reads-from-her) from her book *Articulations* (reading starts around 2:50)  
 * Google Arts & Culture's experiment [mapping artworks by visual similarity](https://artsexperiments.withgoogle.com/tsnemap/)  
+* Jasper van Loenen's [*Neural Cities*](https://jaspervanloenen.com/neural-city/) project  
+* A super-cool [robot that transforms you into a three-armed drummer](http://www.news.gatech.edu/2016/02/17/wearable-robot-transforms-musicians-three-armed-drummers)  
+* A project by IBM Research [playing with the Google Doodle dataset](http://formafluens.io/)  
+* [*Terrapattern*](http://www.terrapattern.com/about), a great collaborative project exploring satellite imagery (and also a great example of documentation and citing past work)  
+
+
