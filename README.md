@@ -39,7 +39,7 @@ Camera input, accessing pixel values
 Peruse *Practical Handbook of Image Processing Algorithms In C*
 
 **Homework**  
-[Digital Mirror]() sketches, sign up for Vimeo or YouTube
+[Digital Mirror](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week03_DigitalMirror.md) sketches, sign up for Vimeo or YouTube
 
 \- \- \-
 
@@ -47,7 +47,7 @@ Peruse *Practical Handbook of Image Processing Algorithms In C*
 Image processing, screen recording and documenting projects
 
 **Homework**  
-Finish [Digital Mirror]() project, record a video of it, install OpenCV for Processing
+Finish [Digital Mirror](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week03_DigitalMirror.md) project, record a video of it, install OpenCV for Processing
 
 \- \- \-
 
@@ -55,7 +55,7 @@ Finish [Digital Mirror]() project, record a video of it, install OpenCV for Proc
 Extracting information from images, kernel processing, edge detection
 
 **Homework**  
-[Tracking]() project sketches
+[Tracking](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week05_Tracking.md) project sketches
 
 \- \- \-
 
@@ -63,7 +63,7 @@ Extracting information from images, kernel processing, edge detection
 Detecting colors and blobs, cameras for installations
 
 **Homework**  
-[Tracking]() project work-in-progress
+[Tracking](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week05_Tracking.md) project work-in-progress
 
 \- \- \-
 
@@ -74,7 +74,7 @@ Detecting faces, training cascades
 *Artificial Intelligence’s White Guy Problem* (Crawford), *The Unreasonable Effectiveness of Recurrent Neural Networks* (Karpathy), and *Mathwashing, Facebook, and the Zeitgeist of Data Worship* (Woods)
 
 **Homework**  
-Finish [Tracking]() project
+Finish [Tracking](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week05_Tracking.md) project
 
 \- \- \-
 
@@ -82,7 +82,7 @@ Finish [Tracking]() project
 A brief history of machine learning, discussion of readings
 
 **Homework**  
-[Faces]() project sketches, install libraries and datasets
+[Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week08_Faces.md) project sketches, install libraries and datasets
 
 \- \- \-
 
@@ -95,7 +95,7 @@ Work on the [Faces]() project and enjoy some time off.
 Everything’s a signal, Python refresher, encoding an image as a vector
 
 **Homework**  
-[Faces]() project work-in-progress
+[Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week08_Faces.md) project work-in-progress
 
 \- \- \-
 
@@ -103,7 +103,7 @@ Everything’s a signal, Python refresher, encoding an image as a vector
 Extracting features, feature reduction, searching, RAM limitations
 
 **Homework**  
-[Faces]() project further work-in-progress
+[Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week08_Faces.md) project further work-in-progress
 
 \- \- \-
 
@@ -111,37 +111,35 @@ Extracting features, feature reduction, searching, RAM limitations
 Visualizing datasets, refining the model
 
 **Homework**  
-Finish [Faces]() project, write [Final Project]() proposal
+Finish [Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week08_Faces.md) project, write [Final Project]() proposal
 
 \- \- \-
 
 ### WEEK 12: MACHINE LEARNING 4/FINAL PROJECT 2
-Cluster computing, using Amazon AWS
+Cluster computing, using Amazon AWS, work day
 
 **Homework**  
-[Final Project]() sketches
+[Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md) sketches
 
 \- \- \-
 
 ### WEEK 13: FINAL PROJECT 3
-Work day
+~~Work day~~ **Jeff out of town – work independently on your projects for the work-in-progress crit next week**
 
 **Homework**  
-[Final Project]() work-in-progress
+[Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md) work-in-progress
 
 \- \- \-
 
 ### WEEK 14: FINAL PROJECT 4
-Work day
+Work-in-progress critique, work day
 
 **Homework**  
-Finish [Final Project]()
+Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
 ### MAY 8, 1–5PM: FINAL CRITIQUE
 **We'll meet in the VA&T Studio, not the random room listed online!**  
 Please don't book any travel until after this date. We'll meet to look at and crit your final projects.
-
-
 

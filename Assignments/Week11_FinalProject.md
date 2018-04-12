@@ -22,3 +22,6 @@ For a great take on what it means to iterate through ideas, see this [video with
 
 **Please bring at least 20 pages (if your sketchbook is about half the size of a piece of typing paper, 10 if larger) of drawings to class next week.** We'll look at them together and start coding prototypes.
 
+### FOR THURS, APRIL 19  
+**Jeff will be out of town this week presenting a project, so we won't meet as a class!** Please start prototyping your project, with the goal of functional prototypes by next week. Just like our last project, fake what you need to and try to get the basic parts of your project implemented. If you get stuck or want feedback, I'm happy to help by email or Skype. Your projects should show substantial work for next week's in-progress crit.
+
