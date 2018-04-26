@@ -13,6 +13,14 @@ For your final project, your assignment is simple: make something visually and c
 * **Fri, May 4**: Open work and help day – I'll be on campus and available to help all day with your projects!  
 * **Tues, May 8 from 1-5pm**: Final critique in the VA&T Studio (not the room listed online!)  
 
+### DELIVERABLES  
+
+* Ideation sketches  
+* In-progress work for critique  
+* Screenshot/photo of the finished project, uploaded to Canvas  
+* Link to Github repo for your project  
+* Unless your project is physical (ie an installation or sculpture), a video of your project running, posted as a link either in your repo or in Canvas  
+
 ### FOR THURS, APRIL 12  
 For next week, alongside finishing your Faces project, please start ideating for this project. Rather than write a formal proposal at this stage, I'd like to you play, first in your sketchbook and then, if you have time, code.
 
@@ -24,4 +32,11 @@ For a great take on what it means to iterate through ideas, see this [video with
 
 ### FOR THURS, APRIL 19  
 **Jeff will be out of town this week presenting a project, so we won't meet as a class!** Please start prototyping your project, with the goal of functional prototypes by next week. Just like our last project, fake what you need to and try to get the basic parts of your project implemented. If you get stuck or want feedback, I'm happy to help by email or Skype. Your projects should show substantial work for next week's in-progress crit.
+
+### FOR TUES, MAY 8  
+Our final crit is scheduled for 1–5pm – we'll meet in the Studio, not whatever random classroom is listed online! Please bring whatever you need to install/show your project. We can take some time at the start of class to get things set up, but it you'd prefer to do that ahead of time in the hallway or somewhere else, just let me know.
+
+A few schedule notes!  
+* Next Thurs, May 3 is a Friday schedule, so we won't meet!  
+* I'll be having open drop-in hours next Friday, May 4 from 9–5, so please come by to get help and feedback.  
 
