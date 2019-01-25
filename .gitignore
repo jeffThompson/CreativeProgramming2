@@ -3,6 +3,8 @@ Code/_WIP/
 Images/_ToDealWith/
 Assignments/_InProgress/
 
+.DS_Store 
+
 Code/Week09_MachineLearning/FaceImages/
 Code/Week09_MachineLearning/FlowerImages/
 Code/Week09_MachineLearning/_InProgress/
