@@ -2,16 +2,16 @@
 
 # BLOCK PRINTS
 
-For our first project, we'll do a quick project to get you back into writing code and that will give you the opportunity to try a (perhaps) new way of outputting your projects: wood block prints. Block printing dates back thousands of years, though instead of using chisels we'll use a thoroughly 21st-century tool: the laser-cutter.
+To get started with the semester, we'll do a quick project to get you back into writing code and that will give you the opportunity to try a (perhaps) new way of printing your work: wood block prints. Block printing dates back thousands of years, though instead of using chisels we'll use a thoroughly 21st-century tool: the laser-cutter.
 
-You assignment is to make a black-and-white image (no grayscale) in Processing, cut a block using the laser-cutter, and print an edition. We'll exchange prints so everyone gets a full set from the class.
+You assignment is to make a black-and-white image (no grayscale) in Processing, cut a block using the laser-cutter, and print an edition of 10 prints. We'll exchange prints so everyone gets a full set from the class.
 
 ## DELIVERABLES  
 To turn in the project, please upload the following files to Canvas:  
 * Output image from your sketch  
 * Scan of one of your prints  
 
-Additionally, you'll need to produce 9 good quality prints, enough to share with the class.
+Additionally, you'll need to produce 10 good quality prints, enough to share with the class.
 
 ## PROJECT TIMELINE  
 * **Jan 28:** Project assigned, create sketch, laser-etch your printing block  
@@ -66,7 +66,7 @@ The workers in the Fab Lab should be able to help you, but to be sure you get a 
 * Turn on the exhaust and air assist  
 * Place your block at `0,0` and be sure it is straight  
 * Click the `Run` button in the software  
-* Be sure to watch your cut – if there is fire or a problem, hit the `Pause` button on the machine or open the door!
+* Be sure to watch your cut as it runs – if there is fire or a problem, hit the `Pause` button on the machine or open the door!
 
 If you have any issues, such as poor cut quality, check that the lens is clean. Any other problems, contact Jeff.
 
@@ -76,4 +76,4 @@ If you have any issues, such as poor cut quality, check that the lens is clean. 
 * The Library of Congress also has [a collection of over 2,500 pre-1915 Japanese woodblock prints](https://www.loc.gov/collections/japanese-fine-prints-pre-1915) viewable online  
 * Some wood engravings (a unique process where the end-grain is carved) from the [V&A's extensive online collection](https://collections.vam.ac.uk/search/?limit=15&narrow=1&quality=1&materialsearch=wood+engraving&technique%5B%5D=AAT53303&offset=0&slug=0)  
 * [William Morris' amazing wallpaper patterns](https://www.vam.ac.uk/articles/william-morris-and-wallpaper-design), all printed using woodblocks    
-* [Fabric printing in India](https://www.youtube.com/watch?v=0qnKcpAgNEM)  
+* A short video on [fabric printing in India](https://www.youtube.com/watch?v=0qnKcpAgNEM)  
