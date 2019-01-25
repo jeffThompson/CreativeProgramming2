@@ -1,5 +1,4 @@
-COURSE POLICIES
-====
+# COURSE POLICIES
 
 For all policies, course description, and calendar, see the [Syllabus](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf).
 
