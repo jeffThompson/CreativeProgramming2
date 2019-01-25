@@ -24,10 +24,10 @@ CHALLENGES
 */
 
 String modelFilename =  "../Model_tSNE_2D.csv";
-String outputFilename = "../Model.png";
+String outputFilename = "../Flowers.png";
 
 int margin =    100;    // leave some margin on the sides?
-int imageSize = 60;     // how big to draw the individual images
+int imageSize = 80;     // how big to draw the individual images
 
 
 void setup() {

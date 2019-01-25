@@ -48,7 +48,7 @@ from sklearn.manifold import TSNE 					# final reduction
 # http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 directory = '../FlowerImages'
 
-num_images =       3000		# how many images to use in our model
+num_images =       2000		# how many images to use in our model
 w = h = 		   100		# reduce them to this size first
 
 # pca settings for the initial reduction
