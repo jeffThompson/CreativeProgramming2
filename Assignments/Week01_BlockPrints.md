@@ -1,6 +1,6 @@
-![]()
+![A wooden printing block from India, used to make textiles](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week01_BlockPrinting/WoodenPrintingBlocks_India.jpg)
 
-# BLOCK PRINT
+# BLOCK PRINTS
 
 For our first project, we'll do a quick project to get you back into writing code and that will give you the opportunity to try a (perhaps) new way of outputting your projects: wood block prints. Block printing dates back thousands of years, though instead of using chisels we'll use a thoroughly 21st-century tool: the laser-cutter.
 
