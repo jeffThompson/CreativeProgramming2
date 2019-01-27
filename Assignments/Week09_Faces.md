@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week08_Faces/PowerGoo_FaceSwapPredescessor.png)
 
-FACES
-====
+# FACES
+
+***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
 
 ### DUE: THURSDAY, APRIL 12  
 

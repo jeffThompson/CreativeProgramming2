@@ -1,7 +1,8 @@
 ![Image segmentation of a figure skater](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week05_ComputerVision/ImageSegmentation2.png)
 
-TRACKING
-====
+# TRACKING
+
+***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
 
 ### DUE: THURSDAY, MARCH 8  
 

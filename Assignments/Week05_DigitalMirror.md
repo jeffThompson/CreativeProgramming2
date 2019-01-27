@@ -1,5 +1,6 @@
-DIGITAL MIRROR
-====
+# DIGITAL MIRROR
+
+***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
 
 ### DUE: FEBRUARY 15  
 

@@ -1,7 +1,8 @@
 ![Rafaël Rozendaal and Jonas Lund's "Text Free Browsing"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week01_BrowserExtension/Extensions/RafaelRozendaalAndJonasLund_TextFreeBrowsing.png)
 
-BROWSER EXTENSION
-====
+# ERASURE (BROWSER EXTENSION)
+
+***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
 
 ### DUE: THURSDAY, FEBRUARY 1 
 

@@ -32,16 +32,6 @@ Final grades will be determined as follows:
 * Homework: 60%  
 * Class participation: 25%  
 * Final project: 15%  
- 
-## REQUIRED MATERIALS  
-Required and suggested readings will be provided as PDFs on GitHub – there is no required textbook.
-
-* Laptop capable of running class projects and code, power charger, and reliable internet connection – bring every week, please!  
-* External webcam, if your laptop doesn’t have one built in (or it doesn’t work). You may want to purchase an external one for class projects anyway, though we’ll talk more about cameras in a few weeks, so don’t get one now unless yours is broken.  
-* We will be using only free software during the semester: Chrome and Javascript, Processing, Python, and several machine learning libraries  
-* A sketchbook for taking notes and drawing ideas – bring every week, too! You’ll be asked to do regular drawings in preparation for assignments.  
-* An assortment of drawing/writing implements for working on project ideas  
-* Other art supplies (paper, etc) and printing as needed  
 
 ## LEARNING ACCOMMODATIONS  
 The goal of this class is for everyone to succeed. Stevens and the VA&T program are dedicated to providing appropriate accommodations to students with documented disabilities. The Office of Disability Services (ODS) works with undergraduate and graduate students with learning disabilities, attention deficit-hyperactivity disorders, physical disabilities, sensory impairments, psychiatric disorders, and other such disabilities in order to help students achieve their academic and personal potential. They facilitate equal access to the educational programs and opportunities offered at Stevens and coordinate reasonable accommodations for eligible students. These services are designed to encourage independence and self-advocacy with support from the ODS staff. The ODS staff will facilitate the provision of accommodations on a case-by-case basis. 

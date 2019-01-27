@@ -7,7 +7,7 @@
     Meeting times   Mondays 1.00–4.50pm
     Location        Visual Arts & Technology Lab
 
-In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. You’ll develop a series of projects examining images, cameras, computer vision, interactivity, and machine learning, as well as continue building a personal, creative practice. Like in Creative Programming 1, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
+In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. You’ll complete a series of assignments examining images, cameras, computer vision, interactivity, and machine learning, as well as continue building a personal creative practice. Like in Creative Programming 1, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
 
 For information about homework, grades, etc, please see `CoursePolicies.md`.
 

@@ -2,13 +2,13 @@
 
 # BLOCK PRINTS
 
-To get started with the semester, we'll do a quick project to get you back into writing code and that will give you the opportunity to try a (perhaps) new way of printing your work: wood block prints. Block printing dates back thousands of years, though instead of using chisels we'll use a thoroughly 21st-century tool: the laser-cutter.
+To get started with the semester, we'll do a quick project to get you back into writing code. It will give you the opportunity to try a (perhaps) new way of printing your work: wood block prints. Block printing dates back thousands of years, though instead of using chisels to carve the image we'll use a laser-cutter to go directly from a PDF to the printing block.
 
-You assignment is to make a black-and-white image (no grayscale) in Processing, cut a block using the laser-cutter, and print an edition of 10 prints. We'll exchange prints so everyone gets a full set from the class.
+Your assignment is to make a black-and-white image (no grayscale values) in Processing, cut a block using the laser-cutter, and print an edition of 10 prints. We'll exchange prints so everyone gets a full set from the class.
 
 ## DELIVERABLES  
 To turn in the project, please upload the following files to Canvas:  
-* Output image from your sketch  
+* Output PDF from your sketch  
 * Scan of one of your prints  
 
 Additionally, you'll need to produce 10 good quality prints, enough to share with the class.
@@ -40,14 +40,21 @@ The basic structure:
       // drawing stuff here
       background(255);
   
-      // fill should be black (color(0)) or 
-      // white (color(255)) only, no grayscale!
+      // fill should be black if you want that area to be
+      // the paper or white if you want it to be printed in ink
+      fill(0);
   
       // stroke can be off (noStroke()) or blue (color(0,0,255))
       // to do a vector etching
+      stroke(0,0,255);
+
+      // if using stroke the thickness **MUST** be
+      // set to 0.072 otherwise you'll have weird issues
+      // with the lasercutter :(
+      strokeWeight(0.072);
   
       endRecord();
-    }
+}
 
 **LASER-CUTTER SETTINGS**  
 The workers in the Fab Lab should be able to help you, but to be sure you get a great-looking block, here are the settings you should use.

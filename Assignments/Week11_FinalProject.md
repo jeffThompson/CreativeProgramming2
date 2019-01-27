@@ -1,5 +1,6 @@
-FINAL PROJECT
-====
+# FINAL PROJECT
+
+***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
 
 ### DUE: TUESDAY, MAY 8  
 
