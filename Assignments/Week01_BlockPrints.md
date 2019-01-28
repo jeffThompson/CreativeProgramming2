@@ -15,8 +15,12 @@ Additionally, you'll need to produce 10 good quality prints, enough to share wit
 
 ## PROJECT TIMELINE  
 * **Jan 28:** Project assigned, create sketch, laser-etch your printing block  
-* **Feb 4:** Etching press demo and printing in class, finish your edition as necessary, scan one of your prints  
+* **Feb 4:** Printing demo and printing in class, finish your edition as necessary, scan one of your prints  
 * **Feb 11:** Project due, critique, exchange prints  
+
+## CHALLENGE PROMPTS  
+1. Can you try to design a pattern that is intended to repeat? Try printing it in a grid, like wallpaper or textiles  
+2. Can you write your code to be an interactive tool for making the pattern? Don't worry about buttons and a UI, but it could include things like using the mouse position to change parameters, a key to regenerate random elements, and a button to save it as a unique PDF. (Hint: try using `map()` and `randomSeed()` with the mouse coordinates.)  
 
 ## FOR MONDAY, FEBRUARY 4  
 For next week, please create a sketch in Processing and etch your printing block using the laser-cutter. You're welcome to use any shape drawing and image processing code you like in Processing. You might want to look at some of the historical block-printing examples for inspiration, or early computer art which made amazing images using just black pens on paper.
@@ -63,7 +67,8 @@ The workers in the Fab Lab should be able to help you, but to be sure you get a 
 * `File > Print...` and be sure `VLS4` is the "printer", hit `Print`  
 * Turn on the lasercutter  
 * Click the lasercutter icon at the bottom of the screen  
-* Move your image to `1,1` (Super important! If you don't, only part of your image will be cut!)  
+* Place the cutting jig at `0,0` on the laser cutter, put your block in the square hole  
+* Move your image to `1,1` in the software – important!  
 * Click `Settings` and select...
   * `Materials > Natural > Wood > Medium Density Fiberboard...`  
   * Thickness should be set to `0.75`  
@@ -71,8 +76,6 @@ The workers in the Fab Lab should be able to help you, but to be sure you get a 
   * Click `Apply` and close  
   * Open settings again to verify everything got saved  
 * Turn on the exhaust and air assist  
-* Place the layout jig at `0,0` on the laser and be sure it is straight  
-* Put your block on the marks on the jig  
 * Click the `Run` button in the software  
 * Be sure to watch your cut as it runs – if there is fire or a problem, hit the `Pause` button on the machine or open the door!
 
