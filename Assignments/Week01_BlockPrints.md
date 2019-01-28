@@ -32,6 +32,8 @@ For next week, please create a sketch in Processing and etch your printing block
 * Your image will be reversed when printed, so beware if you use text!  
 * Save as a PDF file  
 
+Have trouble seeing your little sketch? Open the PDF for a larger view.
+
 The basic structure:  
 
     import processing.pdf.*;
