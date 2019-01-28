@@ -63,15 +63,16 @@ The workers in the Fab Lab should be able to help you, but to be sure you get a 
 * `File > Print...` and be sure `VLS4` is the "printer", hit `Print`  
 * Turn on the lasercutter  
 * Click the lasercutter icon at the bottom of the screen  
-* Move your image to `0,0`  
+* Move your image to `1,1` (Super important! If you don't, only part of your image will be cut!)  
 * Click `Settings` and select...
-  * `Materials > Wood > Fiberboard...`  
+  * `Materials > Natural > Wood > Medium Density Fiberboard...`  
   * Thickness should be set to `0.75`  
-  * Raster and vector engrave set to `10%` (a little higher for a deeper cut)  
+  * Raster and vector engrave set to `+25%` (a little higher for a deeper cut)  
   * Click `Apply` and close  
   * Open settings again to verify everything got saved  
 * Turn on the exhaust and air assist  
-* Place your block at `0,0` and be sure it is straight  
+* Place the layout jig at `0,0` on the laser and be sure it is straight  
+* Put your block on the marks on the jig  
 * Click the `Run` button in the software  
 * Be sure to watch your cut as it runs – if there is fire or a problem, hit the `Pause` button on the machine or open the door!
 
