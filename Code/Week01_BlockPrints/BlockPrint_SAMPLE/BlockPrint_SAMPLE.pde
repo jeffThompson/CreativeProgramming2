@@ -30,7 +30,7 @@ color etch =  color(0,0,255);
 
 
 void setup() {
-  size(900,900);    // 3x3" at 300 dpi
+  size(216,216);          // 3x3" at 72 dpi
   
   beginRecord(PDF, "ThompsonJeff.pdf");
   
@@ -38,7 +38,7 @@ void setup() {
   strokeWeight(0.072);    // required if using stroke!
   
   // generate lots of random polygons
-  for (int i=0; i<300; i++) {
+  for (int i=0; i<30; i++) {
     
     // for each shape, translate to a random coordinate
     pushMatrix();
@@ -60,12 +60,12 @@ void setup() {
     int numSides = int(random(8,24));
     float increment = TWO_PI / numSides;  // angle to next vertex
     float angle = 0;                      // keep track of current angle
-    float baseRad = random(10,40);        // overall radius for the shape
+    float baseRad = random(3,12);        // overall radius for the shape
     
     // draw the shape!
     beginShape();
     for (int j=0; j<numSides; j++) {      // iterate all sides
-      float r = baseRad + random(-3,3);   // random distance off base radius
+      float r = baseRad + random(-2,2);   // random distance off base radius
       float x = cos(angle) * r;           // calc x/y pos using angle and radius
       float y = sin(angle) * r;
       vertex(x,y);                        // draw a vertex there
