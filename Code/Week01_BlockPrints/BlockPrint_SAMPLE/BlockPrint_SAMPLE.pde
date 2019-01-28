@@ -15,12 +15,13 @@ outlines and some will be filled with ink.
 // blue lines will be etched (ie not printed)
 // in order to keep track more easily, we can
 // assign each color a variable
-//color ink =   color(255);
-//color paper = color(0);
-//color etch =  color(0,0,255);
-color ink =   color(0);
-color paper = color(255);
-color etch =  color(255);
+color ink =   color(255);
+color paper = color(0);
+color etch =  color(0,0,255);
+
+//color ink =   color(0);
+//color paper = color(255);
+//color etch =  color(255);
 
 // you could also temporarily color these the 
 // way they'll appear when printed which may be 
