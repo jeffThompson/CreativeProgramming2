@@ -1,7 +1,7 @@
 import processing.pdf.*;
 
 void setup() {
-  size(216,216);    // 3x3" at 72 dpi
+  size(225,255);    // 3x3" (with a little buffer) at 72 dpi
   
   beginRecord(PDF, "LastnameFirstname.pdf");
   

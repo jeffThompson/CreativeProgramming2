@@ -30,7 +30,7 @@ color etch =  color(0,0,255);
 
 
 void setup() {
-  size(216,216);          // 3x3" at 72 dpi
+  size(225,255);    // 3x3" (with a little buffer) at 72 dpi
   
   beginRecord(PDF, "ThompsonJeff.pdf");
   
