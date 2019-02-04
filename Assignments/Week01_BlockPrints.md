@@ -26,7 +26,7 @@ Additionally, you'll need to produce 10 good quality prints, enough to share wit
 For next week, please create a sketch in Processing and etch your printing block using the laser-cutter. You're welcome to use any shape drawing and image processing code you like in Processing. You might want to look at some of the historical block-printing examples for inspiration, or early computer art which made amazing images using just black pens on paper.
 
 ## FOR MONDAY, FEBRUARY 11  
-For next week, please finish the edition of your prints. You should have 10 good-quality prints: prints should look as close to the same as possible, with even inking and clean margins. When done, please scan one of the prints (there's a scanner in the back of the Lab) and upload to Canvas the scan and the PDF you used to cut your block.
+For next week, please finish the edition of your prints (see the `Resources` folder for a diagram to lay them out). You should have 10 good-quality prints: prints should look as close to the same as possible, with even inking and clean margins. When done, please scan one of the prints (there's a scanner in the back of the Lab) and upload to Canvas the scan and the PDF you used to cut your block.
 
 Please also be sure to have Chrome and a text editor (I suggest Sublime Text) installed on your computer for next week!
 
