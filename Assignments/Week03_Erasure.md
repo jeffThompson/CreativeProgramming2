@@ -1,31 +1,35 @@
-![Rafaël Rozendaal and Jonas Lund's "Text Free Browsing"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week01_BrowserExtension/Extensions/RafaelRozendaalAndJonasLund_TextFreeBrowsing.png)
+![Rafaël Rozendaal and Jonas Lund's "Text Free Browsing"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week03_BrowserExtension/Extensions/RafaelRozendaalAndJonasLund_TextFreeBrowsing.png)
 
-# ERASURE (BROWSER EXTENSION)
+# ERASURE (BROWSER EXTENSION)  
+### DUE: MONDAY, FEBRUARY 26  
 
-***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
-
-### DUE: THURSDAY, FEBRUARY 1 
-
-For our first project of the semester, we'll use Javascript (and the popular [JQuery](http://www.jquery.com) library) to create browser extensions. An extension is a bit of code that, as the name implies, extends or augments websites. While most extensions are (like most things with code) intended to be useful tools, they can also be used for creative, activist, absurd, and aesthetic purposes. In this way, we can think of them as an intervention into an existing system, a way of working that has ties in art history going back to the 1950s. 
+For our first project of the semester, we'll use Javascript (and the popular [JQuery](http://www.jquery.com) library) to create browser extensions. An extension is a bit of code that, as the name implies, extends or augments websites. While most extensions are (like most things with code) intended to be useful tools, they can also be used for creative, activist, absurd, and aesthetic purposes: we'll build extensions that remove content from websites. In this way, we can think of them as an intervention into an existing system, a way of working that has ties in art history going back to the 1950s.
 
 Guy Debord, of the group [Situationist International](https://en.wikipedia.org/wiki/Situationist_International), argued that radio and television, driven by capitalism, made people [passive recipients of spectacle](https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle) instead of actively engaging with their surroundings. Debord called for [détournement](https://en.wikipedia.org/wiki/D%C3%A9tournement), which can be thought of as hacking pre-computer: manipulating existing artworks, advertisements, and spaces to create a new message and break us from media. Satire, grafitti, and remix are similar forms of making that engage existing systems, transforming them into something new.
 
-Your assignment is to build an extension whose purpose is art, not function – an intervention that happens inside the browser. Think about what items exist to be manipulated (text, image, ads) and what actions can be performed on them: swapping, removing, adding content, etc. Your project should play with these ideas in a way that is visually or conceptually interesting.
+Your assignment is to build an extension whose purpose is art, not function – an intervention that happens inside the browser. The act of erasure is complex and you should think about *how* you erase (remove, hide, make the same color as the background, cover with something), *what* you erase (text, image, ads, etc), and what that erasure *means* (think ad-blocking vs censorship). Your project should play with these ideas in a way that is visually or conceptually interesting.
 
 While extensions can be technically complex, yours should be activated automatically with a single click of its button. Options for how the extension behaves, what can be transformed, and other technical resources are covered in the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension).
 
 *Above: Rafaël Rozendaal and Jonas Lund's [*Text Free Browsing*](http://textfreebrowsing.com/)*
 
-### DELIVERABLES  
+## DELIVERABLES  
 Your finished project should include the following:
 
 * Project sketches, either scanned or photographed  
-* `README` file explaining what your extension does and what is in the code repository  
-* Finished browser extension code, including an icon and update manifest file  
-* At least three screenshots of the finished extension in action  
+* A `README` file explaining what your extension does and what is in the code repository  
+* Finished browser extension code, including an icon and updated manifest file  
+* At least three screenshots of the finished extension in action, uploaded to Canvas  
 * Optional: if your extension is animated or is interactive, capture a video of it being run (we'll talk more about this in a few weeks), upload to YouTube or Vimeo, and include a link in your `README`  
 
-### FOR THURSDAY, JANUARY 25  
+## PROJECT TIMELINE  
+* **Feb 11:** Project assigned, JavaScript demos, CSS and the DOM, project ideation and sign up for Github  
+* **Feb 19: NOTE – we meet on Tuesday this week!** More JavaScript demos, creating Github repositories, finish project and upload code  
+* **Feb 26:** Project due, critique  
+
+## FOR MONDAY, FEBRUARY 19  
+**NOTE! Monday is Presidents' Day, so we meet on Tuesday this week!**
+
 This semester, we'll be focusing on strategies for developing larger and more personally-driven project ideas. To this end, you'll be doing regular drawings in your sketchbook, and will be encouraged to use as a site for exploration and problem-solving. ["Paper prototyping"](https://en.wikipedia.org/wiki/Paper_prototyping) like this is much quicker than going straight to code, and leaves a record of your process.
 
 For next week, please draw at least ten sketches of what your extension might do. These can be quick and rough, but should give a sense of the extension's actions. Feel free to annotate with notes, detail drawings, etc. Be sure to draw large enough so we can see them – don't be afraid to use up paper!
@@ -34,16 +38,16 @@ Once you've settled on an idea, start trying to implement it in Javascript. You 
 
 **Please also download the [Github Desktop app](https://desktop.github.com/) and, if you don't have one, sign up for an account.**
 
-### FOR THURSDAY, FEBRUARY 1  
+## FOR MONDAY, FEBRUARY 26  
 For next week, your assignment is to finish your extension and document it. When it's done, take at least three screenshots of pages transformed by your extension. Try to capture the essence of what your extension does so that people can understand it without a lot of explanation. (Of course, if it's complicated or conceptual, a description might be necessary.)
 
 Create a `README.md` file, if you haven't already, and write a short description of your project: what the extension does, what files are in the repository, and any other info you might want to include. `README` files are written in Markdown, a friendly way to add formatting to plain text documents. [Github has a very good cheatsheet for Markdown syntax](https://guides.github.com/features/mastering-markdown/), if it's new to you.
 
-**To turn everything in, do a final push to your project's Github repo (see the `Deliverables` section above for what to include). Upload a screenshot of your extension to Canvas and include a link to your repo in the comments.**
+**To turn everything in, do a final push to your project's Github repo (see the `Deliverables` section above for what to include). Upload the screenshots of your extension to Canvas and include a link to your repo in the comments.**
 
 Optionally, if you'd like to deploy your extension to the Chrome Store for download by others, you can find a link to instructions in the `Technical Resources` section of the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension). Let me know if you take yours live!
 
-### HISTORICAL AND NON-BROWSER EXAMPLES  
+## HISTORICAL AND NON-BROWSER EXAMPLES  
 Some related artistic interventions that aren't based in the browser:  
 
 * Robert Rauschenberg's [*Erased de Kooning Drawing*](https://www.sfmoma.org/artwork/98.298)  
@@ -56,7 +60,7 @@ Some related artistic interventions that aren't based in the browser:
 * Aram Bartholl's [*Greenscreen Arnsberg*](https://arambartholl.com/greenscreen-projects-eng.html) and [*Dead Drops*](http://deaddrops.com/)  
 * Skateboarding can be thought of as an intervention too – see [Rodney Mullen](https://www.youtube.com/watch?v=olv1tqGmDdo) and [Gou Miyagi](https://youtu.be/pk8dy4NIzBU), or more recently [David Hafsteinsson](https://www.youtube.com/watch?v=iHM4cZWjClc) and [Ritchie Jackson](https://www.youtube.com/watch?v=8gXpZmQ7j70), as well as Iain Borden's essay *Another Pavement, Another Beach: Skateboarding and the Performative Critique of Architecture* in this week's `Readings` folder  
 
-### EXTENSIONS SHOWN  
+## EXTENSIONS SHOWN  
 A selection of (mostly) artistic takes on the browser extension, divided by category:
 
 **TRANSFORMATION** 
