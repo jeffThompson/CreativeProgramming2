@@ -2,6 +2,8 @@
 
 # BLOCK PRINTS
 
+### DUE MONDAY, FEBRUARY 11  
+
 To get started with the semester, we'll do a quick project to get you back into writing code. It will give you the opportunity to try a (perhaps) new way of printing your work: wood block prints. Block printing dates back thousands of years, though instead of using chisels to carve the image we'll use a laser-cutter to go directly from a PDF to the printing block.
 
 Your assignment is to make a black-and-white image (no grayscale values) in Processing, cut a block using the laser-cutter, and print an edition of 10 prints. We'll exchange prints so everyone gets a full set from the class.
