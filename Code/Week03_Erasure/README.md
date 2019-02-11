@@ -1,6 +1,5 @@
 
-BROWSER EXTENSION TUTORIAL
-====
+# BROWSER EXTENSION TUTORIAL
 
 This code includes a demo of basic Javascript syntax and ways to interact with the webpage elements:
 
@@ -53,6 +52,18 @@ Instead:
 * Save the `extension.js` file  
 * Click the extension button again  
 * If the page is messed up, you can refresh it before running the extension again  
+
+- - -
+
+### WAYS TO ERASE THINGS  
+There are quite a few ways you might consider erasing things from a page: removing, hiding, changing, etc. Part of your assignment is to consider the creative and conceptually-meaningful ways to approach this. Below are a few options from JQuery that you may want to consider:
+
+* JQuery's `hide()` leaves something in the DOM but we can't see it; `remove()` completely deletes an element from the DOM  
+* JQuery can also change content using `text()`  
+* JQuery can also hide elements with animations, such as `fade()` and `slide()`; the more general `animate()` can change CSS properties (like `font-size`) over time  
+* The CSS properties `color` (for text) and `background-color` (for many other elements) will let you set the element's color the match the background – text can still be highlighted, etc but won't be easily seen  
+* The `width` (and, less easily, the `height`) of an object can be changed to 0  
+* An element's `position` can be set to be off the page (use `position: absolute;` with the `left` and `top` positions, for example)  
 
 - - -
 
