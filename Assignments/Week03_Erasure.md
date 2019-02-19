@@ -45,7 +45,7 @@ Create a `README.md` file, if you haven't already, and write a short description
 
 **To turn everything in, do a final push to your project's Github repo (see the `Deliverables` section above for what to include). Upload the screenshots of your extension to Canvas and include a link to your repo in the comments.**
 
-Optionally, if you'd like to deploy your extension to the Chrome Store for download by others, you can find a link to instructions in the `Technical Resources` section of the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension). Let me know if you take yours live!
+Optionally, if you'd like to deploy your extension to the Chrome Store for download by others, you can find a link to instructions in the `Technical Resources` section of the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week03_Erasure). Let me know if you take yours live!
 
 **REMINDER!** You'll also need a working webcam for next week. The one built into your laptop will be fine, but if it doesn't work you'll need to order a replacement.
 
