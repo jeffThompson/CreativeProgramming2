@@ -39,13 +39,15 @@ Once you've settled on an idea, start trying to implement it in Javascript. You 
 **Please also download the [Github Desktop app](https://desktop.github.com/) and, if you don't have one, sign up for an account.**
 
 ## FOR MONDAY, FEBRUARY 26  
-For next week, your assignment is to finish your extension and document it. When it's done, take at least three screenshots of pages transformed by your extension. Try to capture the essence of what your extension does so that people can understand it without a lot of explanation. (Of course, if it's complicated or conceptual, a description might be necessary.)
+For next week, your assignment is to finish your extension and document it. When it's done, take at least three sets of before and after screenshots of pages transformed by your extension. Try to capture the essence of what your extension does so that people can understand it without a lot of explanation. (Of course, if it's complicated or conceptual, a description might be necessary.)
 
 Create a `README.md` file, if you haven't already, and write a short description of your project: what the extension does, what files are in the repository, and any other info you might want to include. `README` files are written in Markdown, a friendly way to add formatting to plain text documents. [Github has a very good cheatsheet for Markdown syntax](https://guides.github.com/features/mastering-markdown/), if it's new to you.
 
 **To turn everything in, do a final push to your project's Github repo (see the `Deliverables` section above for what to include). Upload the screenshots of your extension to Canvas and include a link to your repo in the comments.**
 
 Optionally, if you'd like to deploy your extension to the Chrome Store for download by others, you can find a link to instructions in the `Technical Resources` section of the [tutorial code](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Code/Week01_BrowserExtension). Let me know if you take yours live!
+
+**REMINDER!** You'll also need a working webcam for next week. The one built into your laptop will be fine, but if it doesn't work you'll need to order a replacement.
 
 ## HISTORICAL AND NON-BROWSER EXAMPLES  
 Some related artistic interventions that aren't based in the browser:  
