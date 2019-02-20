@@ -22,6 +22,8 @@ Your finished project should include the following:
 * At least three screenshots of the finished extension in action, uploaded to Canvas  
 * Optional: if your extension is animated or is interactive, capture a video of it being run (we'll talk more about this in a few weeks), upload to YouTube or Vimeo, and include a link in your `README`  
 
+**Note: we'll look at creating Markdown files and set up the repository in class next week, so please just be sure you have the desktop app installed and your repository files ready.**
+
 ## PROJECT TIMELINE  
 * **Feb 11:** Project assigned, JavaScript demos, CSS and the DOM, project ideation and sign up for Github  
 * **Feb 19: NOTE – we meet on Tuesday this week!** More JavaScript demos, creating Github repositories, finish project and upload code  
@@ -41,7 +43,7 @@ Once you've settled on an idea, start trying to implement it in Javascript. You 
 ## FOR MONDAY, FEBRUARY 26  
 For next week, your assignment is to finish your extension and document it. When it's done, take at least three sets of before and after screenshots of pages transformed by your extension. Try to capture the essence of what your extension does so that people can understand it without a lot of explanation. (Of course, if it's complicated or conceptual, a description might be necessary.)
 
-Create a `README.md` file, if you haven't already, and write a short description of your project: what the extension does, what files are in the repository, and any other info you might want to include. `README` files are written in Markdown, a friendly way to add formatting to plain text documents. [Github has a very good cheatsheet for Markdown syntax](https://guides.github.com/features/mastering-markdown/), if it's new to you.
+*Edit: we'll do this in class next week!* Create a `README.md` file, if you haven't already, and write a short description of your project: what the extension does, what files are in the repository, and any other info you might want to include. `README` files are written in Markdown, a friendly way to add formatting to plain text documents. [Github has a very good cheatsheet for Markdown syntax](https://guides.github.com/features/mastering-markdown/), if it's new to you.
 
 **To turn everything in, do a final push to your project's Github repo (see the `Deliverables` section above for what to include). Upload the screenshots of your extension to Canvas and include a link to your repo in the comments.**
 
