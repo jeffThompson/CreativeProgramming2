@@ -32,11 +32,6 @@ void setup() {
   img = loadImage("../Test.jpg");
   image(img, 0,0);
   
-  // what does ../ in the image path mean?
-  // that means "up one level in the directory structure"
-  // since we're loading images in so many of the examples,
-  // this way we only store one copy and access it for all of them!
-  
   // pixels
   // a raster image is made up of individual pixels, each a single
   // rgb color – we can access them through the "pixels" array, which

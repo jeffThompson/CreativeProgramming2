@@ -34,9 +34,15 @@ void setup() {
   // - in the sketch folder (and specify just a filename)
   // - in a folder called "data" in the sketch folder
   // - a complete (full) path to the file, if it's anywhere else
-  img = loadImage("doggo.jpg");
-  
   // (we can also load from a url, if we want to!)
+  img = loadImage("../Test.jpg");
+  
+  // what is ../ ?
+  // that means to go up one level in the directory structure
+  // and then look for the image – it means we can place images
+  // in another location relative to the current sketch, letting
+  // us easily share resources like images among a bunch of
+  // different sketches
   
   // display the image onscreen
   image(img, 0,0);    // PImage to show, x/y position

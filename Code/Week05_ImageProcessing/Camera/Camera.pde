@@ -28,7 +28,14 @@ Capture camera;      // instance of the Capture class, used
 
 
 void setup() {
-  size(1280, 720);
+  
+  // make our sketch always run fullscreen
+  // note! this means our code below all has to be relative to
+  // the width and height variables
+  size(displayWidth, displayHeight);
+  
+  // alternatively, set your sketch to run fullscreen (similar to Present Mode)
+  // fullScreen();
 
   // get a list of all available cameras
   // (if there are none, it means no camera was detected)
@@ -42,11 +49,16 @@ void setup() {
     printArray(cameras);
   }
 
-  // select which camera to use from the cameras array
-  // and start the camera capture
-  // (note above that we've also set the sketch size to
-  // be the same as the camera we're using)
-  camera = new Capture(this, cameras[0]);
+  // instead of selecting from the list, we can specify the width and
+  // height of the camera's input (this will be faster than resizing
+  // the image below)
+  camera = new Capture(this, width,height);
+  
+  // for external cameras, you may need to specify the camera's name,
+  // which you can get from the list we printed earlier
+  // camear = new Capture(this, width,height, "FaceTime HD Camera", 30);
+  
+  // start the camera input!
   camera.start();
 }
 
@@ -61,12 +73,12 @@ void draw() {
     // read the frame from the camera
     camera.read();
     
-    // if we wanted to just display the video, we can draw
-    // the frame to screen using the image() command!
-    // image(camera, 0,0);
+    // draw the camera's frame, stretched to fit the screen
+    image(camera, 0,0);
+    // set(0,0, camera);      // does the same thing and is sometimes faster than image()
     
     // go through the frame's pixel values in a grid
-    camera.loadPixels();    
+    loadPixels();    
     for (int y=0; y<height; y+=spacing) {
       for (int x=0; x<width; x+=spacing) {
         
@@ -79,7 +91,7 @@ void draw() {
         
         // set the fill color to the current pixel and draw a 
         // circle there
-        fill(camera.pixels[index]);
+        fill(pixels[index]);
         noStroke();
         ellipse(x+spacing/2,y+spacing/2, spacing*2,spacing*2);
       }
