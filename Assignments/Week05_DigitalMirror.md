@@ -1,6 +1,6 @@
 # DIGITAL MIRROR
 
-### DUE: MARCH 4  
+### DUE: MARCH 11  
 
 Adjustments to your selfie in Instagram, Photoshop filters, and even complex computer vision algorithms really just rely on reading and manipulating pixels in interesting ways. Over the next three weeks, we'll look at image processing both as a tool that will be useful later, but also as a creative way to transform images. For this assignment, you'll create a "digital mirror" that takes input from a webcam and manipulates the image in some way.
 
@@ -27,6 +27,8 @@ Realtime processing can take a toll on your computer – to keep your output fro
 For next week, I'd like you to start by drawing instead of coding. Please spend at least an hour making sketches of what your mirror might do – they can be rough and gestural, and include notes and arrows to indicate movement. This is about working through ideas quickly before starting into code, and getting over the hump of easy first ideas.
 
 Then, once you are settled on an idea, start implementing it in code. Your goal for next week should be a rough working demo so you can show it to the class. But you should feel free to play and experiment once you see what's happening – think of this as both iterating and refining the ideas from your sketches, and further sketching in code! It's ok if you don't know how to do everything you want to accomplish, but keep a list of things you need to figure out in comments at the top of your code.
+
+For template code, see the `MirrorTemplate` in this week's `Code` folder.
 
 **Please also sign up for either a YouTube or Vimeo account (both are free). You'll be uploading video documentation of your finished projects there.**
 
