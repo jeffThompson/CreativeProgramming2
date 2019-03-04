@@ -94,3 +94,13 @@ void draw() {
   noStroke();
   text(nf(chanceSwap, 0,2) + "%", width/2, height/2);
 }
+
+
+// press the 's' key to save the image
+// notice that it doesn't save the text overlay, since
+// that's not part of our buffer PImage!
+void keyPressed() {
+  if (key == 's') {
+    output.save("PixelSwap.png");
+  }
+}
