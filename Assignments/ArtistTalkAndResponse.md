@@ -8,7 +8,7 @@ Each spring, the VA&T program hosts a lecture series, where artists, designers, 
 All talks are on Tuesdays from 5.30–6.30pm and meet in Babbio 104  
 
 * Feb 26: [Jason Eppink](https://jasoneppink.com/)  
-* Mar 5: [Scatter](http://scatter.nyc/)  
+* Mar 12: [Scatter](http://scatter.nyc/) (please note the day on the posters is wrong!)  
 * Mar 26: [Paul Soullelis](https://soulellis.com/)  
 * Apr 9: [Stephanie Dinkins](http://www.stephaniedinkins.com/)  
 * Apr 16: [Ander Mikalson](http://andermikalson.com/)  
