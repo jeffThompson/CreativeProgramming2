@@ -80,6 +80,6 @@ Please note this is subject to change – be sure to check GitHub and your email
 **Critique:** Group crit of `Final Projects`  
 **Homework:** Record documentation of your project
 
-**EXAM PERIOD: DOCUMENTATION DUE**  
-**Online:** Turn in documentation of your finished project
+**EXAM PERIOD: MAY 16, 1PM**  
+**DOCUMENTATION DUE ONLINE:** Turn in documentation of your finished project
 
