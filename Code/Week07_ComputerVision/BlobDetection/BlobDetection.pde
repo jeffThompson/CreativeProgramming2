@@ -50,6 +50,7 @@ void setup() {
   
   // load the image and pass it to the OpenCV library
   img = loadImage("../Blobs.jpg");
+  // img = loadImage("../Blobs2.jpg");  // try me too!
   cv = new OpenCV(this, img);
   
   // pre-process the image
