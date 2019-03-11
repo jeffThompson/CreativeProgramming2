@@ -21,9 +21,9 @@ Your assignment is to explore the idea of tracking. Think about visually compell
 * Upload a screenshot of your project to Canvas, and add a link to your repo as a comment  
 
 ### PROJECT TIMELINE  
-* **Mar 11:** Project assigned,  
+* **Mar 11:** Project assigned, extracting information from images, kernel processing, basic color and blob detection  
 * **Mar 18:** Spring break – no class, keep working on project  
-* **Mar 25:** 
+* **Mar 25:** Further tracking demos, cameras for installations  
 * **April 1:** Project due, start `Faces` project  
 
 ### A TECH NOTE  
