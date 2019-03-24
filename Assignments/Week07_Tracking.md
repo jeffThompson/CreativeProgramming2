@@ -18,7 +18,7 @@ Your assignment is to explore the idea of tracking. Think about visually compell
   * A description of your project  
   * A screenshot of it running  
   * Link to video documentation    
-* Upload a screenshot of your project to Canvas, and add a link to your repo as a comment  
+* Upload a screenshot of your project to Canvas and add a link to your repo as a comment  
 
 ### PROJECT TIMELINE  
 * **Mar 11:** Project assigned, extracting information from images, kernel processing, basic color and blob detection  
@@ -55,7 +55,7 @@ Over the next two weeks, please also start ideating and prototyping this project
 We'll look together at your projects in progress, so please have some kind of interactive demo we can preview.
 
 ### FOR MONDAY, APRIL 1
-For next week, please finish your project so it can be shown to the class. Think about how best to present your piece, and what you'll need to gather to set it up (camera, external projector, controlled lighting, etc). As a stretch goal, try to get your project to run fullscreen and without any manual setup, once you get the parameters tuned.
+For next week, please finish your project so it can be shown to the class. Think about how best to present your piece, and what you'll need to gather to set it up (camera, external projector, controlled lighting, etc). As a stretch goal, try creating keyboard shortcuts to tune important parameters and a way to save/load them from a text file. See `loadStrings()` and `saveStrings()` as a good starting point.
 
 ### RESOURCES  
 * The ever-helpful Daniel Shiffman has a great tutorial on [blob tracking](https://www.youtube.com/watch?v=ce-2l2wRqO8), and one where the [blobs persist even when lost temporarily](https://www.youtube.com/watch?v=r0lvsMPGEoY)  

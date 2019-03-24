@@ -45,13 +45,13 @@ Please note this is subject to change – be sure to check GitHub and your email
 
 **WEEK 7: COMPUTER VISION 1**  
 **Critique:** Group crit of `Digital Mirror` projects  
-**In-class:** Extracting information from images, kernel processing, edge detection  
+**In-class:** Extracting information from images, detecting colors and blobs  
 **Homework:** [Tracking](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week07_Tracking.md) project sketches and work-in-progress
 
 **MAR 18 – SPRING BREAK, NO CLASS**
 
 **WEEK 8: COMPUTER VISION 2**  
-**In-class:** Detecting colors and blobs, cameras for installations  
+**In-class:** Kernel processing, gesture detection, cameras for installations  
 **Homework:** Finish [Tracking](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week07_Tracking.md) project
 
 **WEEK 9: COMPUTER VISION 3**  
