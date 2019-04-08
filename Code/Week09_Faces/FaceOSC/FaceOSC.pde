@@ -1,7 +1,6 @@
 
 import oscP5.*;
 
-
 /*
 FaceOSC
 Jeff Thompson | 2019 | jeffreythompson.org
@@ -45,6 +44,12 @@ WHAT FaceOSC RETURNS:
 + raw
   + raw points (66 xy-pairs): /raw
 
+GOING FURTHER
+You can adjust how FaceOSC works, such as which camera it will connect to and
+what data it will return by default, by editing its settings.xml file – it is located in:
++ Mac: right click on FaceOSC.app, select "Show Package Contents," go to Contents > Resources > data 
++ Windows/Linux: included in the FaceOSC folder
+
 */
 
 
@@ -54,6 +59,7 @@ int numFacesFound;
 float poseScale;
 PVector posePosition = new PVector();
 PVector poseOrientation = new PVector();
+float angle;
 float mouthHeight, mouthWidth;
 float eyeLeft, eyeRight;
 float eyebrowLeft, eyebrowRight;
@@ -95,11 +101,11 @@ void draw() {
 
   // if we've found a face...
   if (numFacesFound > 0) {
-
-    // go to it's position (all values for features are
-    // relative to the face's position)
+    
+    // go to the face's position (all values for features are relative to this)
     pushMatrix();
     translate(posePosition.x, posePosition.y);
+    rotate(angle);
     scale(poseScale);
 
     // draw the eyes, mouth, and nose as ellipses
@@ -122,15 +128,15 @@ void draw() {
     // draw the outline of the face
     // see this example for the indices of other features
     // https://github.com/CreativeInquiry/FaceOSC-Templates/blob/master/processing/FaceOSCRawReceiver/FaceOSCRawReceiver.pde
-    //fill(0,150,255, 150);
-    //noStroke();
-    //beginShape();
-    //for (int i=0; i<34; i+=2) {
-    //  vertex(rawFace[i], rawFace[i+1]);
-    //}
-    //for (int i=52; i>32; i-=2) {
-    //  vertex(rawFace[i], rawFace[i+1]);
-    //}
-    //endShape(CLOSE);
+    // fill(0,150,255, 150);
+    // noStroke();
+    // beginShape();
+    // for (int i=0; i<34; i+=2) {
+    //   vertex(rawFace[i], rawFace[i+1]);
+    // }
+    // for (int i=52; i>32; i-=2) {
+    //   vertex(rawFace[i], rawFace[i+1]);
+    // }
+    // endShape(CLOSE);
   }
 }

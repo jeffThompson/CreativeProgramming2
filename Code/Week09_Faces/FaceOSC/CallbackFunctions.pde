@@ -6,8 +6,8 @@
 public void found(int numFound) {
   if (numFound > 0) {
     println("\n" + "found: " + numFound + " face(s)");
-    numFacesFound = numFound;
   }
+  numFacesFound = numFound;
 }
 
 public void poseScale(float s) {
@@ -16,13 +16,17 @@ public void poseScale(float s) {
 }
 
 public void posePosition(float x, float y) {
-  println("- pose position      X: " + x + " Y: " + y );
+  println("- pose position:     " + x + ", " + y );
   posePosition.set(x, y, 0);
 }
 
 public void poseOrientation(float x, float y, float z) {
-  println("- pose orientation   X: " + x + " Y: " + y + " Z: " + z);
+  println("- pose orientation:  " + x + ", " + y + ", " + z);
   poseOrientation.set(x, y, z);
+  
+  // calculate the angle of the face too
+  angle = atan2(poseOrientation.y, poseOrientation.x);
+  println("- face angle:        " + degrees(angle) + "º");
 }
 
 public void mouthWidthReceived(float w) {
