@@ -1,59 +1,25 @@
 ![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week08_Faces/PowerGoo_FaceSwapPredescessor.png)
 
-# FACES
-
-***PLEASE NOTE! This assignment and due dates will be updated later in the semester – check back when assigned for details***  
-
+# FACES  
 ### DUE: THURSDAY, APRIL 12  
 
 >"How can a computer be made to recognize a human face? This question remains unanswered, because pattern recognition by computer is still too crude to achieve automatic identification of objects as complex as faces." <br>– [Leon D. Harmon](https://archive.org/details/DTIC_ADA004159)
 
 > "Who sees the human face correctly: the photographer, the mirror, or the painter?" <br>– Picasso
 
-This project is a wide-open exploration: make something about *faces*. Any language, any output format, any topic. The idea is for you to deeply investigate an idea and make something that you're really excited about. 
-
-We'll be doing tutorials in machine learning during this time, but your project doesn't need to engage any of those tools, or computer vision or OpenCV. Instead, think about topics and tools that you want to spend time with.
+This project is about quick, wide-open exploration: make something about *faces*. Any language, any output format, any topic. The idea is for you to investigate an idea and make something that you're excited about. We'll be doing some tutorials on detecting faces and machine learning during this time, but your project doesn't need to engage any of those tools. Instead, think about an idea you can quickly prototype and explore. It might manifest as an interactive project, a printed image, sound, performance, etc. 
 
 (We'll also look at projects related to machine learning and the arts throughout the next few weeks.)
 
 ### TIMELINE  
+* **April 8:** Project assigned, face tracking with OpenCV, extracting features  
+* **April 15:** Feedback session, work day, final project assigned, Face OSC  
+* **April 22:** Project and final project proposal due, feedback session on final project ideas, work day  
 
-* **March 8:** Project assigned, discussion of machine learning history and context.  
-* **March 15:** Spring break, no class! Work on the project.  
-* **March 22:** Sketches and research materials due, creating and comparing vectors.  
-* **March 29:** Python refresher, ML tutorials.  
-* **April 5:** Work in progress crit, ML tutorials. Final project proposal assigned.  
-* **April 12:** Project due! Crit and discussion of final project ideas.  
-
-### FOR THURSDAY, MARCH 22:  
-During the next two weeks, start planning and researching your project. For the week after break, please bring in at least 30 things related to your project: sketches of what it might look like or do, inspiration images, quotes from articles or books, scientific research, etc. Everything should be either cut out of your sketchbook or printed, so we can lay everything out and talk. Please also write 1-2 paragraphs describing your project in the clearest terms you can, so we can quickly get the gist. You're not locked into this idea, and it's ok if it morphs while you're working on it, but this will help define the scope of what you want to do.
-
-**UPDATE: Since we had a snow day and won't be able to talk about this assignment together, please take a look at the example projects below. As usual, they're just to get you thinking!**
-
-### FOR THURSDAY, MARCH 29:  
-For next week, continue working on the project. We'll have an in-progress crit on April 5, so you should have something concrete to demo then.
-
-Please also install [Anaconda](https://www.anaconda.com/download), which is a virtual environment manager for Python. It will help you install the requried libraries for the machine learning demos, and keep everything neat and tidy. (If you already use another system and would prefer to stick with that, by all means.)
-
-* Go to [anaconda.com/download](https://www.anaconda.com/download)  
-* **Download the Python 2.7 version, not Python 3!**  
-* Install it on your computer and open the `Anaconda Navigator` app  
-* Create an environment (called `CreativeProgramming2` or something like that)  
-* Once it's created, install the `scikit-learn`, `scikit-image`, `pillow` libraries  
-* Optionally, you can also install `ffmpeg`, `ipython`, and `ipython-notebook`  
-
-(See the `Resources` folder for screenshots on creating an environment and installing libraries.) Please do this at least a few days ahead of class, to make sure it works right. Email me if something doesn't work and I can try to help.
-
-### FOR THURSDAY, APRIL 5:  
-For next week, please have work ready for an in-progress critique. This should be a working prototype or in some way far enough along to not require a ton of explanation. If you need to fake elements (like mouse interaction instead of blob tracking) that's totally fine. Consider bringing sketches and other materials that help contextualize your project.
-
-### FOR THURSDAY, APRIL 12:  
-For next week, please finish the project for critique. Given the feedback in class, think less about adding features and more about refining what's there: even if it's not super fancy, how can you make the piece compelling visually, poetically, and conceptually? Please think too about the best way to present your piece. Should it be a laptop on a pedestal? Projected? In a particular kind of space? We can take some time at the start of class, but please think about this and come ready to set up your project.
-
-Also, we're starting the [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md) this week, so see the assignment for what to do this week.
+### FOR MONDAY, APRIL 15  
+For next week, start working on the project, keeping in mind the goal of exploration and quick prototyping! Try to explore an idea visually (how to make something that draws us in with color and form), conceptually (something whose idea is compelling and important), or poetically (an idea that resonates). For next week, you should be able to demo your idea with working code and talk about how it engages the idea of faces. We'll do a few demos and have work time.
 
 ### RESOURCES  
-
 * Lots of online face and emotion recognition tools, like [this one from Amazon](https://console.aws.amazon.com/rekognition), [this one from Google](https://cloud.google.com/vision/docs/detecting-faces), and 
 * Some excellent libraries (in addition to OpenCV's tools) including [OpenFace](https://cmusatyalab.github.io/openface) and [JavaCV](https://github.com/bytedeco/javacv)  
 * Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
@@ -64,7 +30,6 @@ Also, we're starting the [Final Project](https://github.com/jeffThompson/Creativ
 * Face recognition can be [tricked by invisible infrared light](https://boingboing.net/2018/03/26/the-threaten-from-infrared.html), making the computer think you're someone else  
 
 ### PROJECTS SHOWN  
-
 * [*Human Traits*](http://patricktresset.com/new/project/human-traits-2015/) by Patrick Tresset  
 * Some really great projects by Rafael Lozano-Hemmer, including [*Blow Up*](http://www.lozano-hemmer.com/blow_up.php) and [*Zoom Pavilion*](http://www.lozano-hemmer.com/zoom_pavilion.php)  
 * [*MegaPixels: Face Database Query*](https://ahprojects.com/notebook/2017/megapixels/) and [*CV Dazzle*](https://cvdazzle.com/) by Adam Harvey

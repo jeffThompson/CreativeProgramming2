@@ -41,7 +41,7 @@ CHALLENGES
 int camWidth =  640;    // input camera and detection dimensions
 int camHeight = 360;    // too slow if we run it on the full-res camera input
 
-String cascadePath = "/Users/JeffThompson/Documents/Processing3/libraries/opencv_processing/library/cascade-files/";
+String cascadePath = "/Users/JeffThompson/Documents/Processing/libraries/opencv_processing/library/cascade-files/";
 
 OpenCV cv;
 Capture webcam;

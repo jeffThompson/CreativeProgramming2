@@ -68,7 +68,7 @@ class Particle {
   }
   
   void display() {
-    fill(255,200);
+    fill(0,200);
     noStroke();
     ellipse(pos.x, pos.y, dia,dia);
   }
