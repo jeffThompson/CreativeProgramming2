@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week08_Faces/PowerGoo_FaceSwapPredescessor.png)
+![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week09_Faces/PowerGoo_FaceSwapPredescessor.png)
 
 # FACES  
 ### DUE: THURSDAY, APRIL 12  
@@ -14,7 +14,7 @@ This project is about quick, wide-open exploration: make something about *faces*
 ### TIMELINE  
 * **April 8:** Project assigned, face tracking with OpenCV, extracting features  
 * **April 15:** Feedback session, work day, final project assigned, Face OSC  
-* **April 22:** Project and final project proposal due, feedback session on final project ideas, work day  
+* **April 22:** Project and final project sketches/prototype due, feedback session on final project ideas, work day  
 
 ### FOR MONDAY, APRIL 15  
 For next week, start working on the project, keeping in mind the goal of exploration and quick prototyping! Try to explore an idea visually (how to make something that draws us in with color and form), conceptually (something whose idea is compelling and important), or poetically (an idea that resonates). For next week, you should be able to demo your idea with working code and talk about how it engages the idea of faces. We'll do a few demos and have work time.

@@ -54,16 +54,16 @@ Please note this is subject to change – be sure to check GitHub and your email
 **In-class:** Kernel processing, gesture detection, cameras for installations  
 **Homework:** Finish [Tracking](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week07_Tracking.md) project
 
-**WEEK 9: COMPUTER VISION 3**  
+**WEEK 9: COMPUTER VISION 3/FACES 1**  
 **Critique:** Group crit of `Tracking` projects  
 **In-class:** Detecting faces, encoding an image as a vector  
 **Homework:** [Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week09_Faces.md) sketches and work-in-progress
 
-**WEEK 10: MACHINE LEARNING 1**  
+**WEEK 10: FACES 2**  
 **In-class:** Python refresher, extracting features, feature reduction, searching, RAM limitations  
 **Homework:** Further iteration on [Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week09_Faces.md) projects  
 
-**WEEK 11: MACHINE LEARNING 2/FINAL PROJECT 1**  
+**WEEK 11: FACES 3/FINAL PROJECT 1**  
 **In-class:** Visualizing datasets, refining the model  
 **Homework:** Finish [Faces](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week08_Faces.md) project, write [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md) proposal and sketches
 
@@ -74,12 +74,12 @@ Please note this is subject to change – be sure to check GitHub and your email
 
 **WEEK 13: FINAL PROJECT 3**  
 **In-class:** Visit to Small Data Industries  
+**Homework:** Continue working on your [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md)
+
+**WEEK 14: FINAL PROJECT 4**  
+**In-class:** Work day    
 **Homework:** Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md)
 
-**WEEK 14: FINAL PROJECT DUE**  
-**Critique:** Group crit of `Final Projects`  
-**Homework:** Record documentation of your project
-
-**EXAM PERIOD: MAY 16, 1PM**  
-**DOCUMENTATION DUE ONLINE:** Turn in documentation of your finished project
+**EXAM PERIOD (MAY 16, 1PM): FINAL PROJECT DUE**  
+**Critique:** Group crit of `Final Projects`
 
