@@ -41,7 +41,7 @@ CHALLENGES
 
 */
 
-String faceToMatchFilename = "FaceToTest2.jpg";          // a face image to match
+String faceToMatchFilename = "FaceToTest1.jpg";          // a face image to match
 String faceDirectory =       "../FaceImages/49Faces";    // folder of faces to search
 
 ImageVector faceToMatch, closest;                        // vector for input and matching faces
@@ -84,9 +84,7 @@ void setup() {
   // create vectors from all the other face images too
   println("Creating vectors to test against (may take a while)...");
   for (int i=0; i<files.size(); i++) {
-    if (i%1000 == 0) {
-      println("- " + i + " / " + files.size());
-    }
+    println("- " + i + " / " + files.size());
     ImageVector face = new ImageVector(files.get(i), 16, 16);
     face.minMax();
     otherFaces.add(face);
@@ -113,9 +111,7 @@ void setup() {
       closest = other;
     }
   }
-  println("- closest match (" + minDist + ")");
-  //println(closest.label);
-
+  println("- done! closest match = " + minDist);
 
   // display the results
   PImage img = loadImage(faceToMatchFilename);
