@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week09_Faces/PowerGoo_FaceSwapPredescessor.png)
 
 # FACES  
-### DUE: THURSDAY, APRIL 12  
+### DUE: MONDAY, APRIL 22
 
 >"How can a computer be made to recognize a human face? This question remains unanswered, because pattern recognition by computer is still too crude to achieve automatic identification of objects as complex as faces." <br>– [Leon D. Harmon](https://archive.org/details/DTIC_ADA004159)
 
