@@ -80,6 +80,6 @@ Please note this is subject to change – be sure to check GitHub and your email
 **In-class:** Work day    
 **Homework:** Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week11_FinalProject.md)
 
-**EXAM PERIOD (MAY 16, 1PM): FINAL PROJECT DUE**  
+**EXAM PERIOD – MAY 17, 1PM: FINAL PROJECT DUE**  
 **Critique:** Group crit of `Final Projects`
 
