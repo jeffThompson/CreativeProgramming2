@@ -51,7 +51,7 @@ ArrayList<ImageVector> otherFaces = new ArrayList<ImageVector>();
 
 
 void setup() {
-  size(800, 400);
+  size(700, 400);
 
   // load all image files from a directory
   // uses the Java "File" class, which lets us access things like
