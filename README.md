@@ -16,7 +16,7 @@ For information about homework, grades, etc, please see `CoursePolicies.md`.
 ## COURSE CALENDAR
 Please note this is subject to change – be sure to check GitHub and your email regularly.
 
-### WEEK 1 (JAN 27): BLOCK PRINTS 1  
+### WEEK 1 (JAN 27): [BLOCK PRINTS 1](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week01_BlockPrints.md)  
 **In class**  
 Introductions, syllabus, Processing refresher, block-printing and laser-cutter basics  
 
@@ -25,7 +25,7 @@ Create [`Block Print`](https://github.com/jeffThompson/CreativeProgramming2/blob
 
 \- \- \-
 
-### WEEK 2 (FEB 3): BLOCK PRINTS 2  
+### WEEK 2 (FEB 3): [BLOCK PRINTS 2](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week01_BlockPrints.md)  
 **In class**  
 Laser-cutter demo, cutting and printing an edition of your blocks  
 
@@ -47,7 +47,9 @@ Object-oriented programming refresher, vectors and forces
 
 \- \- \-
 
-### WEEK 4 (FEB 18): SIMULATION 2 – NOTE! We meet on Tuesday this week!  
+### WEEK 4 (FEB 18): SIMULATION 2
+***NOTE! We meet on Tuesday this week!***  
+
 **In class**  
 Programming movement, running apps fullscreen, further simulation demos  
 
@@ -86,7 +88,7 @@ TBA
 
 \- \- \-
 
-### MAR 16 – SPRING BREAK, NO CLASS**
+### MAR 16: SPRING BREAK, NO CLASS  
 
 \- \- \-
 
