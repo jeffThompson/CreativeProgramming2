@@ -121,7 +121,7 @@ Further iteration on `Mask` projects
 
 ### WEEK 11 (APRIL 13): FINAL PROJECT 1  
 **In class**  
-
+Introduction to machine learning and Python  
 
 **Homework**  
 Finish `Mask` project, write `Final Project` proposal and sketches
@@ -130,7 +130,7 @@ Finish `Mask` project, write `Final Project` proposal and sketches
 
 ### WEEK 12 (APRIL 20): FINAL PROJECT 2  
 **In class**  
-Small-group feedback on final project ideas, work day  
+Small-group feedback on final project ideas, building a model from a dataset    
 
 **Homework**  
 `Final Project` work-in-progress
