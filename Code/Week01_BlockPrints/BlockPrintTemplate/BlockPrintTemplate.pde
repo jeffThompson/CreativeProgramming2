@@ -1,25 +1,37 @@
-import processing.pdf.*;
+
+/*
+BLOCK PRINT TEMPLATE
+Jeff Thompson | 2019 | jeffreythompson.org
+
+Below is the basic template for generating your printing
+block. 
+
+Some details to consider:
++ Black or white only, no grayscale!
++ Black will be cut away, white will print with 
+  ink (reverse of what you'll see when printing)
++ Your image will be reversed horizontally when 
+  printed, so beware if you use text!
++ Save as a TIFF file
+
+*/
 
 void setup() {
-  size(225,255);    // 3x3" (with a little buffer) at 72 dpi
   
-  beginRecord(PDF, "LastnameFirstname.pdf");
-  
-  // drawing stuff here
-  background(255);
-  
+  size(900,900);    // 3x3" at 300 dpi
+  background(0);
+
   // fill should be black if you want that area to be
   // the paper or white if you want it to be printed in ink
-  fill(0);
-  
-  // stroke can be off (noStroke()) or blue (color(0,0,255))
-  // to do a vector etching
-  stroke(0,0,255);
+  fill(255);
+  noStroke();
 
-  // if using stroke (see below) the thickness **MUST** be
-  // set to 0.072 otherwise you'll have weird issues
-  // with the lasercutter :(
-  strokeWeight(0.072);
-  
-  endRecord();
+  // or you can use stroke!
+  stroke(255);
+  strokeWeight(3);
+
+  // add your drawing commands here!
+
+  // save to file (with a unique filename)
+  save("LastnameFirstname-v1.tiff");
 }
