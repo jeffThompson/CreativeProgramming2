@@ -1,12 +1,15 @@
 # LASER CUTTING RUBBER STAMPS  
 
+The laser-cutter is an amazing tool: not only can it cut and engrave wood and plastic, but we can also use it to create rubber stamps!
+
 ## CREATE YOUR FILE  
 
 * Your file should be a `png`, `jpg`, or `tiff` at `300 dpi` — lower resolution will mean a poorer quality stamp  
 * White areas will be left behind and will be part of your print  
 * Black areas will be cut away  
 * No grayscale, just black and white  
-* No vector cutting or engraving  
+* No vector cutting  
+* You can experiment with vector engraving but the lines will be very thin  
 
 ## CUT YOUR STAMP  
 
@@ -34,12 +37,13 @@
 
 ## MOUNTING YOUR STAMP  
 
-1. Lightly sand the back of your stamp with sandpaper to rough up the surface  
-2. Apply Barge's contact adhesive to the back of your stamp and your wooden block, spreading it evenly and avoiding any pooling  
-3. Let the adhesive sit for 15-20 minutes – do not skip this step! Contact adhesive works by letting the glue partially cure first  
-4. When the adhesive looses its shininess, carefully attached your stamp to the wooden block – once stuck down it will be impossible to reposition  
-5. Lightly clamp with a block on top to avoid marring the stamp's surface – do not apply too much pressure or you'll distort your stamp  
-6. Let sit for another 10 minutes or so before removing the clamp; let sit overnight before printing  
+1. If you have any misalignment or margin showing, you may want to trim your stamp with a very sharp knife (take several light cuts to avoid distorting the rubber) or a pair of scissors before mounting  
+2. Lightly sand the back of your stamp with sandpaper to rough up the surface  
+3. Apply Barge's contact adhesive to the back of your stamp and your wooden block, spreading it evenly and avoiding any pooling  
+4. Let the adhesive sit for 15-20 minutes – do not skip this step! Contact adhesive works by letting the glue partially cure first  
+5. When the adhesive looses its shininess, carefully attached your stamp to the wooden block – once stuck down it will be impossible to reposition  
+6. Lightly clamp with a block on top to avoid marring the stamp's surface – do not apply too much pressure or you'll distort your stamp  
+7. Let sit for another 10 minutes or so before removing the clamp; let sit overnight before printing  
 
 
 
