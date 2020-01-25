@@ -11,7 +11,7 @@ example generates lots of random polygons.
 
 int numPolygons =         1000;   // how many random polygons to draw
 boolean mirror =          false;  // if true, mirror the image (to show as it would print)
-boolean showPrintColors = true;   // if true, show colors as they will print
+boolean showPrintColors = false;  // if true, show colors as they will print
 
 
 void setup() {
