@@ -11,6 +11,15 @@ The laser-cutter is an amazing tool: not only can it cut and engrave wood and pl
 * No vector cutting  
 * You can experiment with vector engraving but the lines will be very thin  
 
+**Remember!** The image you cut into your stamp will be reversed when printed! You can mirror the image before you cut it in Photoshop, or use this code at the end (right before you save the image) to mirror it automatically:  
+
+    pushMatrix();
+    translate(width/2, height/2);
+    scale(-1, 1);
+    popMatrix();
+
+You can also add `filter(INVERT)` if you want to preview your colors the way they'll print.
+
 ## CUT YOUR STAMP  
 
 1. Load your file on the Fab Lab PC  

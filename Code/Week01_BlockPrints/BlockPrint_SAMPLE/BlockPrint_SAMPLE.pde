@@ -7,16 +7,11 @@ Jeff Thompson | 2019 | jeffreythompson.org
 Sample code for creating your printing block – this
 example generates lots of random polygons.
 
-Also includes a "debug" variable, which mirrors the 
-image and inverts the colors (so it appears as it will 
-print). 
-
-**Be sure to turn this off before your final export!**
-
 */
 
-int numPolygons = 1000;     // how many random polygons to draw
-boolean debug =   true;    // if true, mirror the image and flip colors
+int numPolygons =         1000;   // how many random polygons to draw
+boolean mirror =          false;  // if true, mirror the image (to show as it would print)
+boolean showPrintColors = true;   // if true, show colors as they will print
 
 
 void setup() {
@@ -38,15 +33,30 @@ void setup() {
     stroke(255);
     strokeWeight(4);
     randomPolygon(x, y, baseRad, numSides, mutAmt);
-  }  
+  }
   
-  // if debug is on, mirror the image and flip the colors so it appears
-  // as printed – helpful to see how your print will actually look!
-  if (debug) {
+  // add some text (so we can see how the image must
+  // be mirrored before etching)
+  PFont font = loadFont("CooperHewitt-Heavy-400.vlw");
+  textFont(font);
+  textAlign(CENTER, CENTER);
+  pushMatrix();
+  translate(width/2, height/2);
+  scale(-1, 1);
+  fill(255);
+  text("TEST", 0,0);
+  popMatrix();
+  
+  // if these options are on, mirror the image and flip the colors 
+  // so it appears as printed – helpful to see how your print 
+  // will actually look!
+  if (mirror) {
     pushMatrix();
     translate(width/2, height/2);
     scale(-1, 1);
     popMatrix();
+  }
+  if (showPrintColors) {
     filter(INVERT);
   }
 
