@@ -1,4 +1,3 @@
-import processing.pdf.*;
 
 /*
 BLOCK PRINT: SAMPLE
