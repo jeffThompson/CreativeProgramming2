@@ -31,7 +31,7 @@ Additionally, you'll need to produce 12 good quality prints, enough to share wit
 ## FOR MONDAY, FEBRUARY 3  
 For next week, please create a sketch for your printing block (see `Sketch Format and Template` below). Once you have something you like, make at least three variations, tweaking the code and outputting to TIFF files. Print these on the laser printer and bring to class for feedback. These might be small changes, different runs with random numbers, or major changes to the code.
 
-Some details to consider:  
+Some details to consider (see the [`Resources` folder for more details](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/LaserCuttingRubberStamps.md)):  
 * Black or white only, no grayscale!  
 * Black will be cut away, white will print with ink (reverse of what you'll see when printing)  
 * Your image will be reversed horizontally when printed, so beware if you use text!  
