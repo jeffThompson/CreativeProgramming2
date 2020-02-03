@@ -5,9 +5,9 @@ Each spring, the VA&T program hosts a lecture series, where artists, designers, 
 **This semester, you're required to attend at least one talk and write up a 1-paragraph response. You can attend additional talks and get 10-points extra credit on any assignment for each talk you attend.** If you cannot attend any talks due to work or another class at that time, please talk to me and we can find an alternative for you.
 
 ## SCHEDULE  
-All talks are on Tuesdays from 5.30–6.30pm; they will meet in various locations so please look for posters around Morton.
+All talks are on Tuesdays from 5.15–6.30pm; they will meet in various locations so please look for posters around Morton.
 
-* Feb 4: Laine Nooney (tech historian)  
+* Feb 4: Laine Nooney (tech historian), Gateway South Building, Room 122  
 * Feb 25: Jon Cohrs (filmmaker)  
 * Mar 10: George Voss (designer)  
 * Mar 24: Amy Khoshbin (multimedia artist)  
