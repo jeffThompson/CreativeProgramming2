@@ -20,6 +20,8 @@ The laser-cutter is an amazing tool: not only can it cut and engrave wood and pl
 
 You can also add `filter(INVERT)` if you want to preview your colors the way they'll print.
 
+As your last step, you'll need to resize the image in Photoshop. Everything in Processing exports at `72 dpi`, but it will scale to `3x3"` at `300 dpi`. We'll do this in class next week so no need to worry about it yet.
+
 ## CUT YOUR STAMP  
 
 1. Load your file on the Fab Lab PC  
