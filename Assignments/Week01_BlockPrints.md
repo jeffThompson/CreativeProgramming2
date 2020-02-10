@@ -12,14 +12,12 @@ Your assignment is to make a black-and-white image (no grayscale values) in Proc
 ## DELIVERABLES  
 To turn in the project, please upload the following files to Canvas:  
 * Output from your sketch  
-* Scan of one of your prints  
-
-Additionally, you'll need to produce 12 good quality prints, enough to share with the class.
+* 12 good quality prints  
 
 
 ## PROJECT TIMELINE  
 * **Jan 27:** Project assigned, create at least three variations on your sketch, laser-print the results  
-* **Feb 3:** Laser-cutter and printing demo, printing in class (finish outside class as necessary), scan one of your prints  
+* **Feb 3:** Laser-cutter and printing demo, printing in class (finish outside class as necessary), ~scan one of your prints~  
 * **Feb 10:** Project due, critique, exchange prints  
 
 
@@ -62,7 +60,7 @@ You're welcome to use any shape drawing you know in Processing! You might also w
 
 
 ## FOR MONDAY, FEBRUARY 10  
-For next week, please finish the edition of your prints. You should have 12 good-quality prints: prints should look as close to the same as possible, with even inking and clean margins. When done, please scan one of the prints (there's a scanner in the back of the Lab). Upload to Canvas the scan and the TIFF you used to cut your block.
+For next week, please finish the edition of your prints. You should have 12 good-quality prints: prints should look as close to the same as possible, with even inking and clean margins.
 
 
 ## PROJECTS AND THINGS SHOWN  
