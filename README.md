@@ -30,11 +30,69 @@ Create [`Block Print`](https://github.com/jeffThompson/CreativeProgramming2/blob
 Laser-cutter demo, cutting and printing an edition of your blocks  
 
 **Homework**  
-Finish printing edition, scan one of your prints  
+Finish printing edition  
 
 \- \- \-
 
-### WEEK 3 (FEB 10): SIMULATION 1  
+### WEEK 3 (FEB 10): IMAGE FILTERS  
+**In class**  
+Accessing pixel values, basics of image processing, kernels  
+
+**Homework**  
+Finish your `Image Filter`, install OpenCV for Processing  
+
+\- \- \-  
+
+### FEB 17 – PRESIDENT'S DAY, NO CLASS (MEET THE NEXT DAY)
+
+\- \- \-
+
+### WEEK 4 (FEB 18): TRACKING 1  
+**Jeff out of town – we won't meet as a class!** Instead, please take a look at the examples in this week's `Code` folder and read the assignment.  
+
+**In class**  
+Camera input, extracting information from images, detecting colors and blobs  
+
+**Homework**  
+`Tracking` project sketches and work-in-progress  
+
+\- \- \-
+
+### WEEK 5 (FEB 24): TRACKING 2  
+**In class**  
+Gesture detection, cameras for installations  
+
+**Homework**  
+Finish `Tracking` project, create a Github account  
+
+\- \- \-
+
+### WEEK 6 (MARCH 2): MASK 1  
+**In class**  
+Creating GitHub repositories (we'll make them together), detecting faces, FaceOSC
+
+**Homework**  
+`Mask` research, sketches, and work-in-progress  
+
+**Readings**  
+TBD
+
+\- \- \-
+
+### WEEK 7 (MARCH 9): MASK 2, ETHICS OF MACHINE SEEING  
+**In class**  
+Discussion of readings, how the computer sees faces, images as vectors, demos as needed, work day  
+
+**Homework**  
+Further iteration on `Mask` projects 
+
+\- \- \-  
+
+### MAR 16: SPRING BREAK, NO CLASS  
+
+\- \- \-
+
+### WEEK 8 (MARCH 23): SIMULATION 1  
 **In class**  
 Object-oriented programming refresher, vectors and forces  
 
@@ -43,11 +101,7 @@ Object-oriented programming refresher, vectors and forces
 
 \- \- \-
 
-### FEB 17 – PRESIDENT'S DAY, NO CLASS (MEET THE NEXT DAY)
-
-\- \- \-
-
-### WEEK 4 (FEB 18): SIMULATION 2
+### WEEK 9 (MARCH 30): SIMULATION 2
 ***NOTE! We meet on Tuesday this week!***  
 
 **In class**  
@@ -58,64 +112,12 @@ Create a rough version of your `Simulation` project, list MVP and stretch goals
 
 \- \- \-
 
-### WEEK 5 (FEB 24): SIMLUATION 3  
+### WEEK 10 (APRIL 6): SIMLUATION 3  
 **In class**  
 Simulation demos as needed, screen recording and documenting projects (plus `ffmpeg`)  
 
 **Homework**  
-Finish `Simulation` project, sign up for GitHub and install Desktop Client  
-
-\- \- \-
-
-### WEEK 6 (MARCH 2): IMAGE FILTERS  
-**In class**  
-Creating GitHub repositories (we'll make them together), accessing pixel values, basics of image processing, kernels  
-
-**Homework**  
-Finish your `Image Filter` and print results, install OpenCV for Processing
-
-\- \- \-
-
-### WEEK 7 (MARCH 8): TRACKING 1  
-**In class**  
-Camera input, extracting information from images, detecting colors and blobs  
-
-**Homework**  
-`Tracking` project sketches and work-in-progress  
-
-**Readings**  
-TBA  
-
-\- \- \-
-
-### MAR 16: SPRING BREAK, NO CLASS  
-
-\- \- \-
-
-### WEEK 8 (MARCH 23): TRACKING 2, ETHICS OF MACHINE SEEING  
-**In class**  
-Discussion of readings, gesture detection, cameras for installations  
-
-**Homework**  
-Finish `Tracking` project  
-
-\- \- \-
-
-### WEEK 9 (MARCH 30): MASK 1  
-**In class**  
-Detecting faces, FaceOSC
-
-**Homework**  
-`Mask` research, sketches, and work-in-progress  
-
-\- \- \-
-
-### WEEK 10 (APRIL 6): MASK 2  
-**In class**  
-How the computer sees faces, images as vectors, demos as needed, work day  
-
-**Homework**  
-Further iteration on `Mask` projects  
+Finish `Simulation` project 
 
 \- \- \-
 
