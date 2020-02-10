@@ -34,7 +34,7 @@ Finish printing edition
 
 \- \- \-
 
-### WEEK 3 (FEB 10): IMAGE FILTERS  
+### WEEK 3 (FEB 10): [IMAGE FILTERS](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week03_ImageFilters.md)  
 **In class**  
 Accessing pixel values, basics of image processing, kernels  
 
@@ -47,8 +47,8 @@ Finish your `Image Filter`, install OpenCV for Processing
 
 \- \- \-
 
-### WEEK 4 (FEB 18): TRACKING 1  
-**Jeff out of town – we won't meet as a class!** Instead, please take a look at the examples in this week's `Code` folder and read the assignment.  
+### WEEK 4 (FEB 18): TRACKING 1 (NO CLASS MEETING)  
+**Jeff out of town – we won't meet as a class!** Instead, please take a look at the examples in this week's `Code` folder and read the assignment  
 
 **In class**  
 Camera input, extracting information from images, detecting colors and blobs  
