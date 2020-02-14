@@ -75,16 +75,18 @@ void setup() {
   PImage img = loadImage("../Test.jpg");
   
   // apply the filter, passing an image and the kernel weights
-  // as arguments
-  img = kernelFilter(img, blur);
+   //as arguments
+  //img = kernelFilter(img, blur);
+  
   
   // try sharpening the image instead
-  // img = kernelFilter(img, sharpen);
+   //img = kernelFilter(img, sharpen);
   
   // edge detection will work best if you first convert
   // the image to grayscale
-  // img.filter(GRAY);
-  // img = kernelFilter(img, edge);
+   img.filter(GRAY);
+   img = kernelFilter(img, edge);
+   img.filter(INVERT);
   
   // display the result
   image(img, 0, 0);
