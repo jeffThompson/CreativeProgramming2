@@ -2,7 +2,7 @@
 
 # TRACKING
 
-**DUE: MONDAY, MARCH 2**  
+**DUE: MONDAY, MARCH 9**  
 
 We've now looked at how to traverse the pixels in an image and manipulate them in different ways. The field of [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) all about using those pixels to extract information from images, whether that be the location of faces, analysis of a person's [gait](https://books.google.com/books?id=uClKDwAAQBAJ&pg=PT226&lpg=PT226&dq=computer+vision+identification+gait+stone+in+shoe&source=bl&ots=NBR0nFC6DL&sig=ZdH74-NGOj-sWCbV9MBM8tbFkmQ&hl=en&sa=X&ved=0ahUKEwjD_-mbnqPZAhVJwlkKHeBABcMQ6AEIKTAA#v=onepage&q=computer%20vision%20identification%20gait%20stone%20in%20shoe&f=false) or [emotional state](https://www.affectiva.com/emotion-ai-overview/), [identifying objects](https://www.kaggle.com/c/cifar-10) in a scene, and [self-driving cars](https://media.giphy.com/media/GQZ0ajY3o5tS/giphy.gif). Of course, this work can be applied to a range of uses like personal electronics, surveillance and military technologies, and, in our case, art!
 
@@ -30,7 +30,8 @@ Your assignment is to explore the idea of tracking. Think about visually compell
 ## PROJECT TIMELINE  
 * **Feb 17:** Project assigned, extracting information from images, kernel processing, basic color and blob detection  
 * **Feb 24:** Further tracking demos, cameras for installations  
-* **March 2:** Project due, start `Faces` project  
+* **March 2:** Continue working on project  
+* **March 9:** Project due, start `Faces` project  
 
 
 ## A TECH NOTE  
@@ -58,10 +59,12 @@ This week, please also start ideating and prototyping this project. For our next
 * Think about what you will track, and what that input will do – will it drive a system, change the display, generate other visuals, or something else entirely? What do you want the final piece to *look* and *feel* like for viewers?  
 * Begin prototyping your project in code. You might want to fake the tracking part, using a black background and a white circle controlled by the mouse – we can refine the tracking in class next week, but this quick hack gets you working input so you can start on the aesthetic parts of your code.
 
-We'll look together at your projects in progress, so please have some kind of interactive demo we can preview.
-
 
 ## FOR MONDAY, MARCH 2  
+For next week, you should have your project 80% done with a working demo to show the class. We'll take a look at everything together, have demos as needed, and time to work and get help in class. 
+
+
+## FOR MONDAY, MARCH 9  
 For next week, please finish your project so it can be shown to the class. Think about how best to present your piece, and what you'll need to gather to set it up (camera, external projector, controlled lighting, etc).
 
 

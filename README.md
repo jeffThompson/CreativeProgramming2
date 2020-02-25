@@ -63,28 +63,28 @@ Camera input, extracting information from images, detecting colors and blobs
 Gesture detection, cameras for installations  
 
 **Homework**  
+Continue working on `Tracking` project  
+
+\- \- \-
+
+### WEEK 6 (MARCH 2): TRACKING 3  
+**In class**  
+Demos as needed  
+
+**Homework**  
 Finish `Tracking` project, create a Github account  
 
 \- \- \-
 
-### WEEK 6 (MARCH 2): MASK 1  
+### WEEK 7 (MARCH 9): MASK 1  
 **In class**  
-Creating GitHub repositories (we'll make them together), detecting faces, FaceOSC
+Creating GitHub repositories (we'll make them together), detecting faces, FaceOSC  
 
 **Homework**  
 `Mask` research, sketches, and work-in-progress  
 
 **Readings**  
-TBD
-
-\- \- \-
-
-### WEEK 7 (MARCH 9): MASK 2, ETHICS OF MACHINE SEEING  
-**In class**  
-Discussion of readings, how the computer sees faces, images as vectors, demos as needed, work day  
-
-**Homework**  
-Further iteration on `Mask` projects 
+TBD  
 
 \- \- \-  
 
@@ -92,41 +92,40 @@ Further iteration on `Mask` projects
 
 \- \- \-
 
-### WEEK 8 (MARCH 23): SIMULATION 1  
+### WEEK 8 (MARCH 23): MASK 2, ETHICS OF MACHINE SEEING  
+**In clasDiscussion of readings, how the computer sees faces, images as vectors, demos as needed, work day  s**  
+
+**Homework**  
+Further iteration on `Mask` projects  
+
+\- \- \-
+
+### WEEK 9 (MARCH 30): SIMULATION 1
+***NOTE! We meet on Tuesday this week!***  
+
 **In class**  
 Object-oriented programming refresher, vectors and forces  
 
 **Homework**  
-`Simulation` ideation, research, and sketches  
+`Simulation` ideation, research, and sketches
 
 \- \- \-
 
-### WEEK 9 (MARCH 30): SIMULATION 2
-***NOTE! We meet on Tuesday this week!***  
-
+### WEEK 10 (APRIL 6): SIMLUATION 2  
 **In class**  
 Programming movement, running apps fullscreen, further simulation demos  
 
 **Homework**  
-Create a rough version of your `Simulation` project, list MVP and stretch goals  
+Create a rough version of your `Simulation` project, list MVP and stretch goals
 
 \- \- \-
 
-### WEEK 10 (APRIL 6): SIMLUATION 3  
+### WEEK 11 (APRIL 13): SIMULATION 3/FINAL PROJECT 1  
 **In class**  
 Simulation demos as needed, screen recording and documenting projects (plus `ffmpeg`)  
 
 **Homework**  
-Finish `Simulation` project 
-
-\- \- \-
-
-### WEEK 11 (APRIL 13): FINAL PROJECT 1  
-**In class**  
-Introduction to machine learning and Python  
-
-**Homework**  
-Finish `Mask` project, write `Final Project` proposal and sketches
+Finish `Simulation` project, write `Final Project` proposal and sketches
 
 \- \- \-
 
