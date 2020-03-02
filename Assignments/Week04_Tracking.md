@@ -17,8 +17,7 @@ Your assignment is to explore the idea of tracking. Think about visually compell
 * A repository of your project's code uploaded to Github  
 * A `REAMDE` file in your repo, including:  
   * A description of your project  
-  * A screenshot of it running  
-  * Link to video documentation    
+  * Three screenshots of it running  
 * Upload a screenshot of your project to Canvas and add a link to your repo as a comment  
 
 
@@ -66,6 +65,10 @@ For next week, you should have your project 80% done with a working demo to show
 
 ## FOR MONDAY, MARCH 9  
 For next week, please finish your project so it can be shown to the class. Think about how best to present your piece, and what you'll need to gather to set it up (camera, external projector, controlled lighting, etc).
+
+When ready, take at least three screenshots of it running. These images are the main way people will understand your work: they should be as representative as possible of the piece. If you have a physical installation, you can include images of that as well.
+
+Finally, create a Github repository (see the `Resources` folder for instructions) that includes your code, images, and a `README` file that describes the project. Upload one of your screenshots and the link to your repo on Canvas.
 
 
 ## RESOURCES  
