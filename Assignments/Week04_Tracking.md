@@ -70,6 +70,8 @@ When ready, take at least three screenshots of it running. These images are the 
 
 Finally, create a Github repository (see the `Resources` folder for instructions) that includes your code, images, and a `README` file that describes the project. Upload one of your screenshots and the link to your repo on Canvas.
 
+Please also [install and test FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases) – we'll be using that in our next project.
+
 
 ## RESOURCES  
 * The ever-helpful Daniel Shiffman has a great tutorial on [blob tracking](https://www.youtube.com/watch?v=ce-2l2wRqO8), and one where the [blobs persist even when lost temporarily](https://www.youtube.com/watch?v=r0lvsMPGEoY)  
