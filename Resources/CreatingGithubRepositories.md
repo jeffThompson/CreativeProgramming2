@@ -36,7 +36,7 @@ Optionally, you may want to include:
 	* Add a license now, if you want!  
 3. Click `Create Repository`  
 4. Move your files to the folder that Github creates  
-5. Update the `README.md` file that was created  
+5. Update the `README.md` file that was created (see section below for editing Markdown)  
 6. Go to `Repository > Repository Settings > Ignored Files...`  
 	* Add folders by name followed by `/` (ex: `Test/` will ignore all files in the `Test` folder)  
 	* Add types of files you want to ignore with `*` (ex: `*.tiff` will ignore all `TIFF` files, which might be very large versions for printing that don't need to be included)  
@@ -55,4 +55,23 @@ As you make changes, you will want to update the repo online.
 * Repeat for any other changes – you can batch multiple files under the same update but generally it's better to chunk them by type  
 	* Don't include generic commit messages like "update"  
 	* Be specific! Things like "fixed image loading problem" or "cleaned up readme" is much better  
+
+
+## EDITING MARKDOWN  
+
+Github's default `README` format uses Markdown, an amazing and straightforward way of creating rich text in a simple text file. Originally created by John Gruber, Github extends this functionality to include text headers, links, images, tables, and even images and YouTube videos!
+
+[For a full explanation of the Markdown syntax, see this page.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) You can also view the syntax of any Markdown file on Github (including this one and all our assignments!) by clicking on the `Raw` button in the upper-right corner when viewing the file.
+
+A basic template might look like this:  
+
+    ![Alt text for the screenshot](https://www.github.com/url/to/a/screenshot/in/your/repo)  
+
+    # REPO NAME  
+    A paragraph explaining the project, what it does, etc.
+
+    ## INSTRUCTIONS  
+    Optionally, include sections like instructions to run the piece, install diagrams, required code libraries, etc.
+
+You can also edit Markdown files directly on the Github website, which gives a nice realtime preview and is great for beginners. Remember that your repo is the public-facing version of your project: spell-check your work and take time to make everything look nice, it counts for a lot!
 
