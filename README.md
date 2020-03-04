@@ -83,28 +83,27 @@ Creating GitHub repositories (we'll make them together), detecting faces, FaceOS
 **Homework**  
 `Mask` research, sketches, and work-in-progress  
 
-**Readings**  
-TBD  
-
 \- \- \-  
 
 ### MAR 16: SPRING BREAK, NO CLASS  
 
 \- \- \-
 
-### WEEK 8 (MARCH 23): MASK 2, ETHICS OF MACHINE SEEING  
-**In clasDiscussion of readings, how the computer sees faces, images as vectors, demos as needed, work day  s**  
+### WEEK 8 (MARCH 23): MASK 2  
+**In class**  
+How the computer sees faces, images as vectors, demos as needed, work day  
 
 **Homework**  
 Further iteration on `Mask` projects  
 
+**Readings**  
+TBD  
+
 \- \- \-
 
-### WEEK 9 (MARCH 30): SIMULATION 1
-***NOTE! We meet on Tuesday this week!***  
-
+### WEEK 9 (MARCH 30): ETHICS OF MACHINE SEEING, SIMULATION 1
 **In class**  
-Object-oriented programming refresher, vectors and forces  
+Discussion of readings, object-oriented programming refresher, vectors and forces  
 
 **Homework**  
 `Simulation` ideation, research, and sketches
