@@ -29,6 +29,16 @@ The approach you take is up to you: your mask might be made of shapes drawn in P
 * **March 30:** Projects due, discussion of readings  
 
 
+## CODE EXAMPLES  
+For this project, we're using `P5.js`, a version of Processing that runs in Javascript. This means you can run your code in the browser and share it with friends! Offline examples are included in the `Code` folder (plus some extras that run in standard Processing), but we'll be doing everything in the online `P5.js` editor. The examples shown are here:  
+
+* [Basic `P5.js` sketch](https://editor.p5js.org/jeffThompson/sketches/--VlWqSA)  
+* [Loading images](https://editor.p5js.org/jeffThompson/sketches/tHkcqxNX)  
+* [Face Tracking](https://editor.p5js.org/jeffThompson/sketches/cjkwkare) (the template you'll use for your mask)  
+
+You can also check out this very helpful [Processing transition Wiki page](https://github.com/processing/p5.js/wiki/Processing-transition).   
+
+
 ## FOR MONDAY, MARCH 23  
 Over the next two weeks (next week is spring break!) you should be thinking about what you want your mask to tell us about your identity and what imagery best communicates those ideas. 
 
