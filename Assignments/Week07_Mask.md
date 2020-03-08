@@ -15,7 +15,7 @@ The approach you take is up to you: your mask might be made of shapes drawn in P
 * Screen recording of your mask sketch running (uploaded to Vimeo or YouTube)  
 * Github repo with:  
 	* Your code  
-	* `README` file that includes  
+	* `README` file that includes:  
 		* Brief description of your project and the imagery/decisions used  
 		* Representative screenshot of your project  
 		* Link to your screen recording    
@@ -23,7 +23,7 @@ The approach you take is up to you: your mask might be made of shapes drawn in P
 	
 
 ## TIMELINE  
-* **March 10:** Project assigned, demos, work on research and drawings  
+* **March 10:** Project assigned, demos, work on research and drawings, read *Shape of Content*  
 * **March 17:** Spring break, no class!  
 * **March 23:** How computers see faces, images as vectors, finish `Mask` project  
 * **March 30:** Projects due, discussion of readings  
@@ -32,20 +32,12 @@ The approach you take is up to you: your mask might be made of shapes drawn in P
 ## FOR MONDAY, MARCH 23  
 Over the next two weeks (next week is spring break!) you should be thinking about what you want your mask to tell us about your identity and what imagery best communicates those ideas. 
 
-Take a look at the online collections from the [V&A](https://collections.vam.ac.uk/search/?q=mask), [Smithsonian](https://www.si.edu/search?edan_q=mask&), and [Met](https://www.metmuseum.org/art/collection/search#!?q=mask) (or better yet go visit IRL!) and download/screenshot at least 10 masks you're inspired by. Carefully read the accompanying text: who made this object and why does it look the way it does? Keep track of URLs to any images you download so you can cite them later.
+Take a look at the online collections from the [V&A](https://collections.vam.ac.uk/search/?q=mask), [Smithsonian](https://www.si.edu/search?edan_q=mask&), and [Met](https://www.metmuseum.org/art/collection/search#!?q=mask) (or better yet go visit IRL!) and download/screenshot at least 10 masks you're inspired by. Carefully read the accompanying text: who made this object and why does it look the way it does?
 
 After having done some research, start making drawings of what your mask might look like. You can do these digitally or using analog media, but each one should be at least `8.5x11"` and should show substantial time. Think about how the visual elements you want to include tell us something about your identity. Feel free to work on top of a photograph of your face and to use labels to explain your drawing ("this will be a looping video" or "covered in pine needles because I'm from Minnesota")
 
+Finally, please read *Shape of Content*, a talk by painter Ben Shahn about the development of symbols in his work. You can find the PDF in this week's `Readings` folder. We'll discuss your drawings and the reading after break.
 
-## RESOURCES  
-* Lots of online face and emotion recognition tools, like [this one from Amazon](https://console.aws.amazon.com/rekognition), [this one from Google](https://cloud.google.com/vision/docs/detecting-faces), and 
-* Some excellent libraries (in addition to OpenCV's tools) including [OpenFace](https://cmusatyalab.github.io/openface) and [JavaCV](https://github.com/bytedeco/javacv)  
-* Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
-* [Chernoff faces](https://en.wikipedia.org/wiki/Chernoff_face) are an interesting model for data visualization involving faces  
-* A lot of vision research points to our sight being driven by contrast, much like the edges in neural networks. For example, [this article on toad vision](https://en.wikipedia.org/wiki/Feature_detection_%28nervous_system%29#In_toad_vision), which links to [this crazy video](https://av.tib.eu/media/15148#t=0,00:25)  
-* Do you see faces in random objects? It's a phenomenon called [pareidolia](https://en.wikipedia.org/wiki/Pareidolia)  
-* [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System), a system to numerically encode facial expressions  
-* Face recognition can be [tricked by invisible infrared light](https://boingboing.net/2018/03/26/the-threaten-from-infrared.html), making the computer think you're someone else  
 
 ## PROJECTS SHOWN  
 * Nick Cave's [*Soundsuits*](https://art21.org/artist/nick-cave/) series  
@@ -70,4 +62,15 @@ After having done some research, start making drawings of what your mask might l
 * Some examples from my own practice, using my blog as a digital sketchbook to record random experiments: [photo-merging eight faces in Photoshop](http://www.jeffreythompson.org/blog/2013/12/17/photomerged-faces/) and [degrading a photo of a face until OpenCV no longer recognizes it](http://www.jeffreythompson.org/blog/2012/05/22/no-longer-a-face/)  
 * Find lots of other face-related projects by [searching Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
 * And [another great list](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Faces-in-Media-Art) from Kyle McDonald  
+
+
+## RESOURCES  
+* Lots of online face and emotion recognition tools, like [this one from Amazon](https://console.aws.amazon.com/rekognition), [this one from Google](https://cloud.google.com/vision/docs/detecting-faces), and 
+* Some excellent libraries (in addition to OpenCV's tools) including [OpenFace](https://cmusatyalab.github.io/openface) and [JavaCV](https://github.com/bytedeco/javacv)  
+* Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
+* [Chernoff faces](https://en.wikipedia.org/wiki/Chernoff_face) are an interesting model for data visualization involving faces  
+* A lot of vision research points to our sight being driven by contrast, much like the edges in neural networks. For example, [this article on toad vision](https://en.wikipedia.org/wiki/Feature_detection_%28nervous_system%29#In_toad_vision), which links to [this crazy video](https://av.tib.eu/media/15148#t=0,00:25)  
+* Do you see faces in random objects? It's a phenomenon called [pareidolia](https://en.wikipedia.org/wiki/Pareidolia)  
+* [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System), a system to numerically encode facial expressions  
+* Face recognition can be [tricked by invisible infrared light](https://boingboing.net/2018/03/26/the-threaten-from-infrared.html), making the computer think you're someone else  
 
