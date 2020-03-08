@@ -76,12 +76,15 @@ Finish `Tracking` project, create a Github account
 
 \- \- \-
 
-### WEEK 7 (MARCH 9): MASK 1  
+### WEEK 7 (MARCH 9): [MASK 1](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week07_Mask.md)  
 **In class**  
 Creating GitHub repositories (we'll make them together), detecting faces, FaceOSC  
 
 **Homework**  
 `Mask` research, sketches, and work-in-progress  
+
+**Reading**  
+*Shape of Content* by Ben Shahn (in this week's `Readings` folder)  
 
 \- \- \-  
 
@@ -89,7 +92,7 @@ Creating GitHub repositories (we'll make them together), detecting faces, FaceOS
 
 \- \- \-
 
-### WEEK 8 (MARCH 23): MASK 2  
+### WEEK 8 (MARCH 23): [MASK 2](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week07_Mask.md)  
 **In class**  
 How the computer sees faces, images as vectors, demos as needed, work day  
 
