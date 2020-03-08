@@ -47,7 +47,7 @@ Finish your `Image Filter`, install OpenCV for Processing
 
 \- \- \-
 
-### WEEK 4 (FEB 18): TRACKING 1 (NO CLASS MEETING)  
+### WEEK 4 (FEB 18): [TRACKING 1](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week04_Tracking.md) (NO CLASS MEETING)  
 **Jeff out of town – we won't meet as a class!** Instead, please take a look at the examples in this week's `Code` folder and read the assignment  
 
 **In class**  
@@ -58,7 +58,7 @@ Camera input, extracting information from images, detecting colors and blobs
 
 \- \- \-
 
-### WEEK 5 (FEB 24): TRACKING 2  
+### WEEK 5 (FEB 24): [TRACKING 2](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week04_Tracking.md)  
 **In class**  
 Gesture detection, cameras for installations  
 
@@ -67,7 +67,7 @@ Continue working on `Tracking` project
 
 \- \- \-
 
-### WEEK 6 (MARCH 2): TRACKING 3  
+### WEEK 6 (MARCH 2): [TRACKING 3](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Assignments/Week04_Tracking.md)  
 **In class**  
 Demos as needed  
 
