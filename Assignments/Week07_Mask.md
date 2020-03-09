@@ -23,7 +23,7 @@ The approach you take is up to you: your mask might be made of shapes drawn in P
 	
 
 ## TIMELINE  
-* **March 10:** Project assigned, demos, work on research and drawings, read *Shape of Content*  
+* **March 10:** Project assigned, demos, work on research and drawings, read *Shape of Content* and *Introducing Myself*  
 * **March 17:** Spring break, no class!  
 * **March 23:** How computers see faces, images as vectors, finish `Mask` project  
 * **March 30:** Projects due, discussion of readings  
@@ -46,7 +46,7 @@ Take a look at the online collections from the [V&A](https://collections.vam.ac.
 
 After having done some research, start making drawings of what your mask might look like. You can do these digitally or using analog media, but each one should be at least `8.5x11"` and should show substantial time. Think about how the visual elements you want to include tell us something about your identity. Feel free to work on top of a photograph of your face and to use labels to explain your drawing ("this will be a looping video" or "covered in pine needles because I'm from Minnesota")
 
-Finally, please read "The Biography of a Painting" from *Shape of Content*, a collection of talks by painter Ben Shahn about the development of symbols in his work. You can find the PDF in this week's `Readings` folder. We'll discuss your drawings and the reading after break.
+Finally, please read "The Biography of a Painting" from *Shape of Content*, a collection of talks by painter Ben Shahn about the development of symbols in his work, and *Introducing Myself* by writer Ursula K Le Guin. You can find both PDFs in this week's `Readings` folder – we'll discuss your drawings and the readings after break.
 
 
 ## PROJECTS SHOWN  
