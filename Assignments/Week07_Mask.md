@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Images/Week07_Mask/PowerGoo_FaceSwapPredescessor.png)
 
 # MASK  
-**DUE: MONDAY, MARCH 30**  
+**DUE: MONDAY, APRIL 6**  
 
 > "Who sees the human face correctly: the photographer, the mirror, or the painter?" <br>– Picasso
 
@@ -26,7 +26,8 @@ The approach you take is up to you: your mask might be made of shapes drawn in P
 * **March 10:** Project assigned, demos, work on research and drawings, read *Shape of Content* and *Introducing Myself*  
 * **March 17:** Spring break, no class!  
 * **March 23:** How computers see faces, images as vectors, finish `Mask` project  
-* **March 30:** Projects due, discussion of readings  
+* **March 30:** Continue working on project, discussion of readings  
+* **April 6:** Projects due online  
 
 
 ## CODE EXAMPLES  
@@ -47,6 +48,10 @@ Take a look at the online collections from the [V&A](https://collections.vam.ac.
 After having done some research, start making drawings of what your mask might look like. You can do these digitally or using analog media, but each one should be at least `8.5x11"` and should show substantial time. Think about how the visual elements you want to include tell us something about your identity. Feel free to work on top of a photograph of your face and to use labels to explain your drawing ("this will be a looping video" or "covered in pine needles because I'm from Minnesota")
 
 Finally, please read "The Biography of a Painting" from *Shape of Content*, a collection of talks by painter Ben Shahn about the development of symbols in his work, and *Introducing Myself* by writer Ursula K Le Guin. You can find both PDFs in this week's `Readings` folder – we'll discuss your drawings and the readings after break.
+
+
+## FOR MONDAY, MARCH 30  
+For next week, keep working on your project. This is a difficult time, there is total information overload, and many of you are adjusting to trying to work in a new environment: be patient with yourself. We're recalibrating this semester with a focus less on mastery and finished work and more on experimentation. For next week, you should try to make some progress on your piece. Try to identify things you need help with or want to do but don't know how.
 
 
 ## PROJECTS SHOWN  

@@ -7,6 +7,8 @@
     Meeting times   Mondays 9.00am – 12.50pm
     Location        Visual Arts & Technology Studio
 
+**Please note!** Due to the coronavirus outbreak, the second half of the class has been significantly revised and may change as we all adapt to covering this material online.
+
 In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. You’ll complete a series of assignments examining simulation, images, cameras, computer vision, and interactivity, as well as continue building a personal creative practice. Like in `Creative Programming 1`, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
 
 For information about homework, grades, etc, please see `CoursePolicies.md`.
@@ -84,7 +86,7 @@ Creating GitHub repositories (we'll make them together), detecting faces, FaceOS
 `Mask` research, sketches, and work-in-progress  
 
 **Reading**  
-*Shape of Content* by Ben Shahn (in this week's `Readings` folder)  
+*Shape of Content* by Ben Shahn and *Introducing Myself* by Ursula Le Guin (in this week's `Readings` folder)  
 
 \- \- \-  
 
@@ -99,66 +101,55 @@ How the computer sees faces, images as vectors, demos as needed, work day
 **Homework**  
 Further iteration on `Mask` projects  
 
-**Readings**  
-TBD  
+\- \- \-
+
+### WEEK 9 (MARCH 30): MASK 3
+**Homework**  
+Finish `Mask` project for next week  
 
 \- \- \-
 
-### WEEK 9 (MARCH 30): ETHICS OF MACHINE SEEING, SIMULATION 1
-**In class**  
-Discussion of readings, object-oriented programming refresher, vectors and forces  
+### WEEK 10 (APRIL 6): SIMLUATION 1  
+**Demos**  
+Object-oriented programming refresher, vectors and forces  
 
 **Homework**  
 `Simulation` ideation, research, and sketches
 
 \- \- \-
 
-### WEEK 10 (APRIL 6): SIMLUATION 2  
-**In class**  
+### WEEK 11 (APRIL 13): SIMULATION 2/FINAL PROJECT 1  
+**Demos**  
 Programming movement, running apps fullscreen, further simulation demos  
 
 **Homework**  
 Create a rough version of your `Simulation` project, list MVP and stretch goals
+Write `Final Project` proposal and sketches
 
 \- \- \-
 
-### WEEK 11 (APRIL 13): SIMULATION 3/FINAL PROJECT 1  
-**In class**  
-Simulation demos as needed, screen recording and documenting projects (plus `ffmpeg`)  
+### WEEK 12 (APRIL 20): SIMULATION 3/FINAL PROJECT 2  
+**Demos**  
+Screen recording and documenting projects (plus `ffmpeg`)  
 
 **Homework**  
-Finish `Simulation` project, write `Final Project` proposal and sketches
-
-\- \- \-
-
-### WEEK 12 (APRIL 20): FINAL PROJECT 2  
-**In class**  
-Small-group feedback on final project ideas, building a model from a dataset    
-
-**Homework**  
-`Final Project` work-in-progress
+Finish `Simulation` project, `Final Project` work-in-progress
 
 \- \- \-
 
 ### WEEK 13 (APRIL 27): FINAL PROJECT 3  
-**In class**  
-Field trip TBA  
-
 **Homework**  
 Continue working on your `Final Project`
 
 \- \- \-
 
 ### WEEK 14 (MAY 4): FINAL PROJECT 4  
-**In class**  
-Group crit of `Final Projects`
-
 **Homework**  
-Make any final changes to your project, document and upload to Canvas  
+Finish your `Final Project`  
 
 \- \- \-
 
-### EXAM PERIOD (DATE TBA): DOCUMENTATION DUE  
-Note! We will not meet as a class; documentation is due online
+### EXAM PERIOD (DATE TBA): FINAL PROJECT DUE  
+Final projects and documentation due  
 
 
