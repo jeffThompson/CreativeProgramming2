@@ -59,6 +59,6 @@ When done, photograph all your sketches (if you're working analog) and put them 
 ## PROJECTS SHOWN  
 * Craig Reynolds' classic 1986 simulation program [*Boids*](https://en.wikipedia.org/wiki/Boids), which can create complex behavior with very simple rules  
 * [Valentino Braitenberg's vehicles](https://en.wikipedia.org/wiki/Braitenberg_vehicle), which use rules similar to Reynolds'  
-* Simulation games liek [*No Man's Sky*](https://www.youtube.com/watch?v=nLtmEjqzg7M), [*Sim City*](https://www.youtube.com/watch?v=wjxVci-fWj4), and the insanely-detailed [*Train Simulator*](https://www.youtube.com/watch?v=_ygMfRLjDag)  
+* Simulation games like [*No Man's Sky*](https://www.youtube.com/watch?v=nLtmEjqzg7M), [*Sim City*](https://www.youtube.com/watch?v=wjxVci-fWj4), and the insanely-detailed [*Train Simulator*](https://www.youtube.com/watch?v=_ygMfRLjDag)  
 * OpenAI's creepy [*Emergent Tool Use*](https://openai.com/blog/emergent-tool-use/) experiment  
 
