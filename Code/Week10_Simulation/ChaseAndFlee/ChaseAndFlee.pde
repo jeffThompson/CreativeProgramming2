@@ -15,7 +15,10 @@ For more ideas, see Valentino Braitenberg's "vehicles", which
 do things like seek light and hide from each other:
 http://en.wikipedia.org/wiki/Braitenberg_vehicle
 
-See also Daniel Shiffman's excellent book "Nature of Code".
+See also:
+https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732
+https://www.gamasutra.com/blogs/JuanBelonPerez/20140724/221421/Introduction_to_Steering_Behaviours.php
+https://natureofcode.com/book/chapter-6-autonomous-agents/
 
 CHALLENGE:
 +  Our chase ball bounces around when it hits you. Can you stop
@@ -36,7 +39,7 @@ PVector player, chase, flee;  // position of the 3 elements
 
 
 void setup() {
-  size(600, 600);
+  size(800, 800);
   noCursor();
 
   // set initial positions onscreen (x and y)

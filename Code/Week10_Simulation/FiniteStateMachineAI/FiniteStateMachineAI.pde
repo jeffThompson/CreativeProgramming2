@@ -65,7 +65,7 @@ PVector player, zombie;               // positions, set in setup()
 
 
 void setup() {
-  size(600,600);
+  size(800,800);
   cursor(CROSS);
   
   // initial positions, use the mouse to move
