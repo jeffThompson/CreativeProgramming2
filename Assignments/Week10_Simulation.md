@@ -39,7 +39,9 @@ Overall, your goal should be to include as many tiny details as possible. Keep i
 
 
 ## CODE EXAMPLES/VIDEO TUTORIALS  
-Video walkthroughs of the tutorials for this project can be found in this YouTube playlist. If you need other help, please pop into our open Zoom hours or send me a note! All code examples can be found in this project's `Code` folder.
+Video walkthroughs of the tutorials for this project can be found in this YouTube playlist: [https://www.youtube.com/playlist?list=PLsGCUnpinsDnfiHYpasqrFC5VNzqnXFeh](https://www.youtube.com/playlist?list=PLsGCUnpinsDnfiHYpasqrFC5VNzqnXFeh)
+
+If you need other help, please pop into our open Zoom hours or send me a note! All code examples can be found in this project's `Code` folder.
 
 
 ## FOR MONDAY, APRIL 13  
