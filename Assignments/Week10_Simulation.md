@@ -5,7 +5,7 @@
 
 > "I think that my job is to observe people and the world" – Haruki Murakami  
 
-> "You can observe a lot by just watching" – Yogi Berra  
+> "If you know everything about a given metropolis, from its plumbing standards to its parking requirements, its sewer capacity to the borders of its school districts, then you coud more or less accurately imagine the future form of that city from the ground up." – Michael Sorkin on the game *Sim City*  
 
 For our last regular project of the semester, we'll turn to the natural world for inpsiration. The goal is to bridge research, observation, and the "real world" with code. You should first pick a natural system of some kind and observe it very carefully. From there, you'll create a project in Processing (either the Java version or P5JS) that is inspired by your system. The output doesn't need to mimic or precisely simulate your chosen subject, but can either be a careful a reproduction of that system or a work that is inspired by its details.
 
@@ -53,14 +53,18 @@ When done, photograph all your sketches (if you're working analog) and put them 
 
 
 ## RESOURCES  
-* Jason Webb's list of [Moprhogenic Resources]() is a great place to start (however, copying a known algorithm like reaction-diffusion isn't enough here!)  
+* Jason Webb's list of [Moprhogenic Resources](https://github.com/jasonwebb/morphogenesis-resources) is a great place to start (however, copying a known algorithm like reaction-diffusion isn't enough here!)  
 * Daniel Shiffman's excellent online book [*The Nature of Code*](https://natureofcode.com/book/)  
 * D'arcy Wentworth Thompson's amazing 1917 book [*On Growth and Form*](https://archive.org/details/ongrowthform1917thom)  
+* [PROCJAM](http://www.procjam.com/), a game jam for projects made using procedural generation – their site includes some [great tutorials](http://www.procjam.com/tutorials/) and sample projects for inspiration  
 
 
 ## PROJECTS SHOWN  
 * Craig Reynolds' classic 1986 simulation program [*Boids*](https://en.wikipedia.org/wiki/Boids), which can create complex behavior with very simple rules  
 * [Valentino Braitenberg's vehicles](https://en.wikipedia.org/wiki/Braitenberg_vehicle), which use rules similar to Reynolds'  
-* Simulation games like [*No Man's Sky*](https://www.youtube.com/watch?v=nLtmEjqzg7M), [*Sim City*](https://www.youtube.com/watch?v=wjxVci-fWj4), and the insanely-detailed [*Train Simulator*](https://www.youtube.com/watch?v=_ygMfRLjDag)  
+* Simulation games like [*No Man's Sky*](https://www.youtube.com/watch?v=nLtmEjqzg7M), [*Sim City*](https://www.youtube.com/watch?v=wjxVci-fWj4), [*Roller Coaster Tycoon*](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon), and the insanely-detailed [*Train Simulator*](https://www.youtube.com/watch?v=_ygMfRLjDag)  
+* The insanely detailed software package [SpeedTree](http://www.speedtree.com), used for making hyper-realistic trees for games and animations (they offer a free trial, if you want to try it out) – a [few](https://www.youtube.com/watch?v=rucfLNcDnPM) different [examples](https://www.youtube.com/watch?v=r18c7QlWLBQ) of what it can do  
 * OpenAI's creepy [*Emergent Tool Use*](https://openai.com/blog/emergent-tool-use/) experiment  
+* Procedurally-generated landscape like Martin O'Leary's amazing [*Uncharted Atlas*](https://twitter.com/unchartedatlas) (see his great [writeup on the process](http://mewo2.com/notes/terrain/))  
+* Everest Pipkin's [*Moth Generator*](https://twitter.com/mothgenerator)  
 
