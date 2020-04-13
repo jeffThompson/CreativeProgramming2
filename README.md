@@ -124,7 +124,7 @@ Programming movement, running apps fullscreen, further simulation demos
 
 **Homework**  
 Create a rough version of your `Simulation` project, list MVP and stretch goals
-Write `Final Project` proposal and sketches
+`Final Project` ideation sketches
 
 \- \- \-
 
@@ -149,7 +149,7 @@ Finish your `Final Project`
 
 \- \- \-
 
-### EXAM PERIOD (DATE TBA): FINAL PROJECT DUE  
+### EXAM PERIOD (MAY 15 by 11:59pm): FINAL PROJECT DUE  
 Final projects and documentation due  
 
 
