@@ -51,6 +51,24 @@ You should also research your topic (Wikipedia and its "related articles" is a g
 
 When done, photograph all your sketches (if you're working analog) and put them into your notes file using Word, etc. Tidy everything up and arrange it so it feels cohesive, then save as a PDF and upload to Canvas.
 
+## FOR MONDAY, APRIL 20  
+Having researched your natural system, your goal for next week is to write up a Minimum Viable Product (MVP) document and to start prototyping your simulation in code. MVPs are part of the [Agile development approach](https://en.wikipedia.org/wiki/Agile_software_development) – as you might suspect, they list what is a baseline version of your project (what, at a minimum, it needs to be "viable" or finished). This might seem overly-simple, but it can be really helpful: an MVP articulates what you need to do first and helps avoid getting distracted by fun features at the expense of the core of your project. 
+
+We won't be following the format of MVPs as they are used for app or product development. Instead, you can think of this as a to-do list. What is the core functionality, features, and visual elements your project needs? You can also list "stretch goals," elements you want to add if time allows.
+
+For example, if we were building a snowfall simulator, our MVP might list:
+
+* Generate various snowflake shapes algorithmically  
+* Create realistic falling motion  
+* Respawn snowflakes when they hit the bottom of the screen  
+* Wind changes direction of snowfall  
+* Stretch goal: physics applied to larger/smaller snowflakes  
+* Stretch goal: let snowflakes pile up on the ground  
+
+A good MVP becomes a to-do list *and* is kind of like an outline for your code! Write up your MVP in list-form, like above but in as much detail as you can. When done, add it as a comment in the assignment.
+
+Once your MVP is written, start working on your simulation in code. The goal this week should be that you accomplish a few things in your MVP and have a better idea what questions and challenges you need help with.
+
 
 ## RESOURCES  
 * Jason Webb's list of [Moprhogenic Resources](https://github.com/jasonwebb/morphogenesis-resources) is a great place to start (however, copying a known algorithm like reaction-diffusion isn't enough here!)  
