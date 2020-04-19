@@ -17,6 +17,9 @@ generation too!
 SEE ALSO
 + A much more detailed paper that uses a similar approach:
   https://www.intechopen.com/books/forest-fire/forest-fire-model
++ Mathematician John Conway's "Game of Life"
+  http://pi.math.cornell.edu/~lipa/mec/lesson6.html
+  https://www.youtube.com/watch?v=C2vgICfQawE
 
 CHALLENGES
 + Can you keep track of the number of pixels burned each
