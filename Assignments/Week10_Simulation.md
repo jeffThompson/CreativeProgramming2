@@ -51,6 +51,7 @@ You should also research your topic (Wikipedia and its "related articles" is a g
 
 When done, photograph all your sketches (if you're working analog) and put them into your notes file using Word, etc. Tidy everything up and arrange it so it feels cohesive, then save as a PDF and upload to Canvas.
 
+
 ## FOR MONDAY, APRIL 20  
 Having researched your natural system, your goal for next week is to write up a Minimum Viable Product (MVP) document and to start prototyping your simulation in code. MVPs are part of the [Agile development approach](https://en.wikipedia.org/wiki/Agile_software_development) – as you might suspect, they list what is a baseline version of your project (what, at a minimum, it needs to be "viable" or finished). This might seem overly-simple, but it can be really helpful: an MVP articulates what you need to do first and helps avoid getting distracted by fun features at the expense of the core of your project. 
 
@@ -68,6 +69,12 @@ For example, if we were building a snowfall simulator, our MVP might list:
 A good MVP becomes a to-do list *and* is kind of like an outline for your code! Write up your MVP in list-form, like above but in as much detail as you can. When done, add it as a comment in the assignment.
 
 Once your MVP is written, start working on your simulation in code. The goal this week should be that you accomplish a few things in your MVP and have a better idea what questions and challenges you need help with.
+
+
+## FOR MONDAY, APRIL 27  
+This week, you should finish up your simulation project – either in its final state or as a check-in if you're extending this into your final project. Be sure to check the `Deliverables` section above for what to turn in (note this includes a screen recording of your piece running, see [this video](https://www.youtube.com/watch?v=RMulAbsNF9I) for doing this with Quicktime and similar software, and [this one](https://www.youtube.com/watch?v=kQDuBzXbUq4) for using FFMPEG).
+
+If you're planning to use this for your final project too, you should still have a working version done by next week. This will allow you to get feedback, then expand the project to be even more amazing.
 
 
 ## RESOURCES  
