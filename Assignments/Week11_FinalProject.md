@@ -29,3 +29,17 @@ Diagram out your ideas, make sketches, label things, add notes – the goal here
 
 When you're done, take a photo of your top 2–3 ideas and upload them to Canvas. I'll take a look and get you some feedback – we can also talk on Zoom if you want to discuss more.
 
+### FOR MONDAY, APRIL 27  
+This week, you should be finishing your `Simulation` projects and, as time allows, working on your final project. We'll have a check-in next week, so think about questions or things you need help with.
+
+### FOR MONDAY, MAY 4  
+For next week, you should start working on your final project in earnest. **I'd like everyone to upload to Canvas a screenshot of your work in progress with a short description of where you're at with the project and what you have left to do.** I'll leave comments for everyone and we can do in-progress crits via Zoom if you want – please drop into my Zoom hours or send me a note.
+
+Next week is our last "regular" class (though what is "regular" now anyway?) but I'll be available the week of May 11 for Zoom meetings too if you need help.
+
+
+
+
+
+
+
