@@ -37,9 +37,8 @@ For next week, you should start working on your final project in earnest. **I'd 
 
 Next week is our last "regular" class (though what is "regular" now anyway?) but I'll be available the week of May 11 for Zoom meetings too if you need help.
 
+### FOR FRIDAY, MAY 15  
+**NOTE! Projects are due by 11:59pm on Canvas.** This is right at the end of the exam period, so I have to input grades the next day – I can't accept any late submissions!
 
-
-
-
-
+For May 15, please finish your project – be sure to check the `Deliverables` section to make sure you have everything. Your documentation (the `REAMDE` in your repo and the screen recording) is really the only way the world will see your project (including me) so take time to explain and demonstrate your project well!
 
