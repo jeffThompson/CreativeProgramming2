@@ -1,13 +1,4 @@
+.DS_Store
 _Process/
-Code/_WIP/
-Code/_OLD/
-Images/_ToDealWith/
-Assignments/_InProgress/
-Resources/_WIP/
-Readings/_ToDealWith/
-
-.DS_Store 
-
-Code/Week07_Mask/ProcessingExamples/FaceImages/
-Code/Week07_Mask/ProcessingExamples/FlowerImages/
-Code/Week07_Mask/_InProgress/
+_Unpublished/
+_Resources/_WIP/
