@@ -42,7 +42,7 @@ Watching video tutorials, looking at code examples, and doing your homework will
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| FEB 4       | RAMP UP |
+| FEB 4       | [RAMP UP: HISTORICAL CODE RE-CREATIONS](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week00_RampUp) |
 | :---        | :--- |
 | Demos       | Hello, introductions, how to access course materials, `p5.js` refresher |
 | Watch       | Interview with Vera Molnar |
