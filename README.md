@@ -42,76 +42,76 @@ Watching video tutorials, looking at code examples, and doing your homework will
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| FEB 4      | RAMP UP |
-| :---       | :--- |
-| Demos      | Hello, introductions, how to access course materials, `p5.js` refresher |
-| Watch      | Interview with Vera Molnar |
-| Homework   | `Historical Code Re-creations` |
+| FEB 4       | RAMP UP |
+| :---        | :--- |
+| Demos       | Hello, introductions, how to access course materials, `p5.js` refresher |
+| Watch       | Interview with Vera Molnar |
+| Homework    | `Historical Code Re-creations` |
 
-| FEB 11     | INTERACTIVE TYPOGRAPHY 1 |
-| :---       | :--- |
-| Demos      | Fonts on the web, getting points from text |
-| Homework   | `Interactive Typography` sketches |
+| FEB 11      | INTERACTIVE TYPOGRAPHY 1 |
+| :---        | :--- |
+| Demos       | Fonts on the web, getting points from text |
+| Homework    | `Interactive Typography` sketches |
 
-| FEB 18     | INTERACTIVE TYPOGRAPHY 2 |
-| :---       | :--- |
-| Demos      | Screen recordings, touch input |
-| Homework   | Finish `Interactive Typography` project |
+| FEB 18      | INTERACTIVE TYPOGRAPHY 2 |
+| :---        | :--- |
+| Demos       | Screen recordings, touch input |
+| Homework    | Finish `Interactive Typography` project |
 
-| FEB 25     | IMAGE FILTERS |
-| :---       | :--- |
-| Demos      | Filters, accessing pixel values, kernels |
-| Homework   | `Image Filter` |
+| FEB 25      | IMAGE FILTERS |
+| :---        | :--- |
+| Demos       | Filters, accessing pixel values, kernels |
+| Homework    | `Image Filter` |
 
-| MAR 4      | TRACKING 1 |
-| :---       | :--- |
-| Demos      | Camera input, extracting information from images, detecting colors and blobs |
-| Homework   | `Tracking` project sketches and proof-of-concept |
+| MAR 4       | TRACKING 1 |
+| :---        | :--- |
+| Demos       | Camera input, extracting information from images, detecting colors and blobs |
+| Homework    | `Tracking` project sketches and proof-of-concept |
 
-| MAR 11     | TRACKING 2 |
-| :---       | :--- |
-| Demos      | Gesture detection, cameras for installations |
-| Homework   | Finish `Tracking` project |
+| MAR 11      | TRACKING 2 |
+| :---        | :--- |
+| Demos       | Gesture detection, cameras for installations |
+| Homework    | Finish `Tracking` project |
 
-| MAR 18     | MASK 1 |
-| :---       | :--- |
-| Demos      | Creating Github repositories, detecting faces and features |
-| Homework   | `Mask` research, sketches, and proof-of-concept |
-| Reading    | *Shape of Content* (Ben Shahn), *Introducing Myself* (Ursula Le Guin) |
+| MAR 18      | MASK 1 |
+| :---        | :--- |
+| Demos       | Creating Github repositories, detecting faces and features |
+| Homework    | `Mask` research, sketches, and proof-of-concept |
+| Reading     | *Shape of Content* (Ben Shahn), *Introducing Myself* (Ursula Le Guin) |
 
-| MAR 25     | MASK 2 |
-| :---       | :--- |
-| Demos      | Writing a `README`, updating a repository |
-| Homework   | Finish `Mask` project, create repository |
+| MAR 25      | MASK 2 |
+| :---        | :--- |
+| Demos       | Writing a `README`, updating a repository |
+| Homework    | Finish `Mask` project, create repository |
 
-| APR 1      | SIMULATION 1 |
-| :---       | :--- |
-| Demos      | Object-oriented programming refresher, vectors and forces |
-| Homework   | `Simulation` ideation, research, and sketches |
+| APR 1       | SIMULATION 1 |
+| :---        | :--- |
+| Demos       | Object-oriented programming refresher, vectors and forces |
+| Homework    | `Simulation` ideation, research, and sketches |
 
-| APR 8      | SIMULATION 2 |
-| :---       | :--- |
-| Demos      | Programming movement |
-| Homework   | Prototype of your `Simulation` project |
+| APR 8       | SIMULATION 2 |
+| :---        | :--- |
+| Demos       | Programming movement |
+| Homework    | Prototype of your `Simulation` project |
 
-| APR 15     | SIMULATION 3/FINAL PROJECT 1 |
-| :---       | :--- |
-| Demos      | Exporting frames, creating videos with `ffmpeg` |
-| Homework   | Finish `Simulation` project, `Final Project` ideation |
+| APR 15      | SIMULATION 3/FINAL PROJECT 1 |
+| :---        | :--- |
+| Demos       | Exporting frames, creating videos with `ffmpeg` |
+| Homework    | Finish `Simulation` project, `Final Project` ideation |
 
-| APR 22     | FINAL PROJECT 2 |
-| :---       | :--- |
-| Homework   | Proof-of-concept for `Final Project` |
+| APR 22      | FINAL PROJECT 2 |
+| :---        | :--- |
+| Homework    | Proof-of-concept for `Final Project` |
 
-| APR 29     | FINAL PROJECT 3 |
-| :---       | :--- |
-| Homework   | Continue working on `Final Project` |
+| APR 29      | FINAL PROJECT 3 |
+| :---        | :--- |
+| Homework    | Continue working on `Final Project` |
 
-| MAY 6      | FINAL PROJECT 4 |
-| :---       | :--- |
-| Homework   | Finish `Final Project` |
+| MAY 6       | FINAL PROJECT 4 |
+| :---        | :--- |
+| Homework    | Finish `Final Project` |
 
-| EXAM       | FINAL CRIT |
-| :---       | :--- |
-| In class   | Critique of `Final Projects` |
+| EXAM PERIOD | FINAL CRIT |
+| :---        | :--- |
+| In class    | Critique of `Final Projects` |
 
