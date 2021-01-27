@@ -7,14 +7,14 @@
 | Email          | jeff.thompson@stevens.edu |
 | Student hours  | On Zoom, Wed 10am–noon EST and by appointment |
 | Drop-in hours  | Thursdays 9–10.45am EST |
-| Weekly crits   | Thursdays 11am–12:30pm EST |
+| Weekly crits   | Thursdays 11am–12:50pm EST |
 | Zoom links     | Links for weekly class meetings on Canvas |
 
 In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. We'll also look at ways to document and publish code-based projects.
 
 > "The real challenge is to discover the intrinsic properties of the new medium and to find out how the stroke you draw via computation is one you could never draw, or even imagine without computation." – John Maeda
 
-We'll start with a quick ramp-up project re-creating historical artworks made with code. From there, we'll work on a series of two-week projects exploring interactive typography, image processing, computer vision and facial recognition, and simulation. The goal with all of these projects is for you to explore the kinds of projects that artists and designers working with code can do and continue building a personal creative practice. Like in `Creative Programming 1`, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
+We'll start with a quick ramp-up project re-creating historical artworks made with code. From there, we'll work on a series of two-week projects exploring interactive typography, image processing, computer vision and facial recognition, and simulation. The goal with all of these projects is for you to explore the kinds of projects that artists and designers working with code can do and continue building a personal creative practice. Like in [`Creative Programming 1`](https://github.com/jeffThompson/CreativeProgramming1), we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
 
 See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course policies, grading, etc.
 
