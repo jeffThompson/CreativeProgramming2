@@ -2,18 +2,18 @@
 
 # RAMP UP: HISTORICAL CODE RE-CREATIONS
 
-### TLDR  
-* Make a sketch that re-creates an early piece of code-based art  
-* Use `p5.js` Editor, running at any size in the browser  
-* Due Feb 11 by 11am EST  
-* Upload link to code in Canvas  
-* Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas  
+### TLDR
+* Make a sketch that re-creates an early piece of code-based art
+* Use `p5.js` Editor, running at any size in the browser
+* Due Feb 11 by 11am EST
+* Upload link to code in Canvas
+* Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas
 
 
-### ASSIGNMENT  
-This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. Your task is to find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`.
+### ASSIGNMENT
+This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. You should find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`. (If you have only used the Java version of Processing, check out the `Code` folder this week for a quickstart guide to `p5.js`. Nearly everything is the same with a few minor differences.)
 
-Think about this process as a mix between observational drawing, larping, and forensics: look super carefully at every detail, trying to make the closest possible re-creation you can. Get really picky about details like size, composition, spacing, line thickness, margins, and color. However, for pieces that involve randomness there's no need for your output to be identical, but your code should generate a very similar result.
+Think about this process as a mix between observational drawing, larping, and forensics: looking super carefully at every detail, trying to make the closest possible re-creation you can. Get really picky about details like size, composition, spacing, line thickness, margins, and color. However, for pieces that involve randomness there's no need for your output to be identical, but your code should generate a very similar result.
 
 (So, what is a code-generated artwork? In this case, it means a piece whose imagery was created using custom code. The final form of that work might be a film, a plotter drawing, etc but the primary tool for creating the piece should be code.)
 
@@ -21,24 +21,24 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 
 > This project is inspired by the [ReCode Project](http://recodeproject.com), a "community-driven effort to preserve computer art by translating it into a modern programming language." Their site includes an archive of new versions but please don't look at others' code before finishing your project, it spoils the fun!
 
-*Above: a screenshot from the ReCode Project website*  
+*Above: a screenshot from the ReCode Project website*
 
 
-### CODE EXAMPLES/VIDEOS  
-* Video tutorials for this week (coming soon)  
-* Code examples in the `p5.js` Editor (coming soon)  
+### CODE EXAMPLES/VIDEOS
+* Video tutorials for this week (coming soon)
+* Code examples in the `p5.js` Editor (coming soon)
 
 
-### DELIVERABLES  
-* Sketch that re-creates an early piece of code-based art  
-* Made in the `p5.js` Editor (or made offline and copy/pasted to the editor)  
+### DELIVERABLES
+* Sketch that re-creates an early piece of code-based art
+* Made in the `p5.js` Editor (or made offline and copy/pasted to the editor)
 * Include citation for the original piece in the comments at the top (see format for that below)
-* Submit a link to your piece on Canvas  
-* 1-paragraph response to [Vera Molnar interview](https://vimeo.com/273642211), posted as a comment on your assignment  
+* Submit a link to your piece on Canvas
+* 1-paragraph response to [Vera Molnar interview](https://vimeo.com/273642211), posted as a comment on your assignment
 
 
-### CITATION  
-At the top of your code, you should cite the work you're re-creating. Be sure to include at least the following:  
+### CITATION
+At the top of your code, you should cite the work you're re-creating. Be sure to include at least the following:
 
 ```
 "Title of the artwork"
@@ -49,8 +49,8 @@ URL to where you found the piece
 ```
 
 
-### RESOURCES  
-* [The ReCode Project](http://recodeproject.com), who inspired this assignment, has a website with lots of artworks from the 1970s, pulled from scans of the magazine *Computer Graphics and Art* (a PDF with all these can be found in this week's `Images` folder)  
-* [Rhizome's *compart* database](http://dada.compart-bremen.de/browse/artwork?filter_type=item_type&filter_value=drawing) – most of the images are pretty small, so this might be a good jumping-off point to search for a better version  
-* The V&A Museum in London has a great online collection – [this search should be a good starting point](http://collections.vam.ac.uk/search/?listing_type=list&offset=0&limit=15&narrow=1&extrasearch=&q=computer+art&quality=0&objectnamesearch=&placesearch=&after=&before=1980&namesearch=&materialsearch=&mnsearch=&locationsearch=) though you'll want to confirm the piece you're looking at was made with code  
+### RESOURCES
+* [The ReCode Project](http://recodeproject.com), who inspired this assignment, has a website with lots of artworks from the 1970s, pulled from scans of the magazine *Computer Graphics and Art* (a PDF with all these can be found in this week's `Images` folder)
+* [Rhizome's *compart* database](http://dada.compart-bremen.de/browse/artwork?filter_type=item_type&filter_value=drawing) – most of the images are pretty small, so this might be a good jumping-off point to search for a better version
+* The V&A Museum in London has a great online collection – [this search should be a good starting point](http://collections.vam.ac.uk/search/?listing_type=list&offset=0&limit=15&narrow=1&extrasearch=&q=computer+art&quality=0&objectnamesearch=&placesearch=&after=&before=1980&namesearch=&materialsearch=&mnsearch=&locationsearch=) though you'll want to confirm the piece you're looking at was made with code
 
