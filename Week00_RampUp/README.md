@@ -4,7 +4,7 @@
 
 ### TLDR
 * Make a sketch that re-creates an early piece of code-based art
-* Use `p5.js` Editor, running at any size in the browser
+* Use `p5.js` Editor, running full-size in the browser (see template in the `Code` folder)
 * Due Feb 11 by 11am EST
 * Upload link to code in Canvas
 * Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas
