@@ -1,42 +1,22 @@
-> "The real challenge is to discover the intrinsic properties of the new medium and to find out how the stroke you draw via computation is one you could never draw, or even imagine without computation."  
-> – John Maeda  
+# CREATIVE PROGRAMMING 2
 
+**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming2#course-calendar)**
 
-# CREATIVE PROGRAMMING 2  
+| Instructor     | Prof. Jeff Thompson (please call me Jeff) |
+| :---           | :--- |
+| Email          | jeff.thompson@stevens.edu |
+| Student hours  | On Zoom, Wed 10am–noon EST and by appointment |
+| Drop-in hours  | Thursdays 9–10.45am EST |
+| Weekly crits   | Thursdays 11am–12:30pm EST |
+| Zoom links     | Links for weekly class meetings on Canvas |
 
-**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming2#course-calendar)**  
+In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. We'll also look at ways to document and publish code-based projects.
 
-| Instructor     | Prof. Jeff Thompson (please call me Jeff) |  
-| :---           | :--- |  
-| Email          | jeff.thompson@stevens.edu |  
-| Student hours  | On Zoom, Wed 10am–noon EST and by appointment |  
-| Drop-in hours  | Thursdays 9–11am EST |  
-| Weekly crits   | Thursdays 11am–12:30pm EST |  
-| Zoom links     | Links for weekly class meetings on Canvas |  
+> "The real challenge is to discover the intrinsic properties of the new medium and to find out how the stroke you draw via computation is one you could never draw, or even imagine without computation." – John Maeda
 
-In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. You’ll complete a series of assignments examining simulation, images, cameras, computer vision, and interactivity, as well as continue building a personal creative practice. Like in `Creative Programming 1`, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
+We'll start with a quick ramp-up project re-creating historical artworks made with code. From there, we'll work on a series of two-week projects exploring interactive typography, image processing, computer vision and facial recognition, and simulation. The goal with all of these projects is for you to explore the kinds of projects that artists and designers working with code can do and continue building a personal creative practice. Like in `Creative Programming 1`, we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
 
 See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course policies, grading, etc.
-
-
-### FORMAT/ATTENDANCE  
-Of course, this semester is quite unusual! While normally we’d be hanging out in a classroom together, this semester our class will be all online. We lose some things in that process but we also gain some: an online class means you can learn at your own pace and on your schedule, review materials as much as you like, make projects that can be shared online, and we can find creative ways to make and discuss art together, even if we're not physically in the same room.
-
-Our main format will be:  
-* Weekly examples, available as code you can run online as well as video tutorials in a YouTube playlist  
-* Weekly homework projects that you’ll work on independently and turn in on Canvas  
-* Regular group critiques of projects on Zoom at 11am EST – attendance taken!    
-* Drop-in hours during class and office hours; this is so you can ask more detailed questions, get help with your homework, etc  
-
-Where to find everything:  
-* Canvas: a good starting point to find assignments, links to video tutorials, and where you’ll turn in homework  
-* Github: all course materials including detailed assignments, code examples, images, etc  
-
-Because of this format and the technical nature of this class, it’s really important that you stay on top of your coursework. 
-
-:warning: **Don’t hesitate to reach out if you have any questions at all! Better to ask a question than be unsure of something. I also really (truly!) want to hear from you all on what is working and what’s not in the online format. I can’t know what it’s like to be on your end of things unless you tell me, so please do!**  
-
-Watching video tutorials, looking at code examples, and doing your homework will be on your own schedule but attendance at critiques is mandatory and attendance will be taken.
 
 
 ### COURSE CALENDAR
