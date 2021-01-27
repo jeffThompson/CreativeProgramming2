@@ -19,8 +19,6 @@ Think about this process as a mix between observational drawing, larping, and fo
 
 Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/273642211) from Studio International. It's about 40 minutes and is such a wonderful insight into the early history of our medium. Write up a one-paragraph (minimum) response and post it as a comment on your assignment on Canvas.
 
-> This project is inspired by the [ReCode Project](http://recodeproject.com), a "community-driven effort to preserve computer art by translating it into a modern programming language." Their site includes an archive of new versions but please don't look at others' code before finishing your project, it spoils the fun!
-
 *Above: a screenshot from the ReCode Project website*
 
 
@@ -53,4 +51,8 @@ URL to where you found the piece
 * [The ReCode Project](http://recodeproject.com), who inspired this assignment, has a website with lots of artworks from the 1970s, pulled from scans of the magazine *Computer Graphics and Art* (a PDF with all these can be found in this week's `Images` folder)
 * [Rhizome's *compart* database](http://dada.compart-bremen.de/browse/artwork?filter_type=item_type&filter_value=drawing) – most of the images are pretty small, so this might be a good jumping-off point to search for a better version
 * The V&A Museum in London has a great online collection – [this search should be a good starting point](http://collections.vam.ac.uk/search/?listing_type=list&offset=0&limit=15&narrow=1&extrasearch=&q=computer+art&quality=0&objectnamesearch=&placesearch=&after=&before=1980&namesearch=&materialsearch=&mnsearch=&locationsearch=) though you'll want to confirm the piece you're looking at was made with code
+
+
+### NOTE
+This project is inspired by the [ReCode Project](http://recodeproject.com), a "community-driven effort to preserve computer art by translating it into a modern programming language." Their site includes an archive of new versions but please don't look at others' code before finishing your project, it spoils the fun!
 
