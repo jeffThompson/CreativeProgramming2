@@ -22,15 +22,9 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 *Above: a screenshot from the ReCode Project website*
 
 
-### CODE EXAMPLES/VIDEOS
-* Video tutorials for this week (coming soon)
-* Code template and examples in the `p5.js` Editor (coming soon)
-
-
 ### DELIVERABLES
 * Sketch that re-creates an early piece of code-based art
 * Should run full-size in the browser window
-* Includes a citation (see below)
 * Made in the `p5.js` Editor (or made offline and copy/pasted to the editor)
 * Include citation for the original piece in the comments at the top (see format for that below)
 * Submit a link to your piece on Canvas
