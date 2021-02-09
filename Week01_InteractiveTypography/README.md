@@ -5,8 +5,8 @@
 ### TLDR
 * Interactive typography for a brand/person/org's website
 * Should fill the screen automatically
-* Sketches/brand outline due Feb 18 by 11am EST
-  * Brand outline as PDF, uploaded to Canvas
+* Sketches/design brief due Feb 18 by 11am EST
+  * Design brief as PDF, uploaded to Canvas
   * One screenshot of each sketch running, also uploaded to Canvas
 * Final version due Feb 25 by 11am EST
   * Upload three screenshots to Canvas
@@ -20,7 +20,7 @@ Over the next two weeks, your assignment is to create a landing page for a brand
 
 Typography should be the key focus here: think about fun, creative, experimental, weird, engaging ways to play with letters, their shapes, and words. What fonts best suit your project? What kinds of visuals and interactions best suit the brand you're working with? Should the colors be muted and the shapes geometric? Or look cartoony with bright colors? While typography should be the central part of the project, feel free to add visual elements that make your piece engaging. You're also welcome to create additional assets for your piece, including shapes (perhaps in Illustrator), sounds, etc.
 
-We'll start with defining how the project's visuals should look, connecting them to the brand's existing identity (which you are welcom to push into new territory). This kind of ideation > presentation > refinement process is very common in client-based work. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
+We'll start with defining how the project's visuals should look, connecting them to the brand's existing identity (which you are welcome to push into new territory). This kind of ideation > presentation > refinement process is very common in client-based work. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
 
 *Above: an animation by [Cecilia Erlich](https://dribbble.com/shots/8974488-New-ideas). The text reads "boredom is your imagination calling to you"*
 
@@ -35,7 +35,7 @@ We'll start with defining how the project's visuals should look, connecting them
 * Automatically fill the width/height of the screen (use `screenWidth` and `screenHeight` variables)
 * At least three initial sketches in code, showing possible directions/variations
   * Upload a screenshot of each sketch to Canvas
-* Brand outline document, saved as a PDF and uploaded to Canvas
+* Design brief document, saved as a PDF and uploaded to Canvas
 * Finished project, ready to screen-share for critique
   * Upload three screenshots of the finished project to Canvas
 * No need to include link to code for any part of this project
@@ -46,8 +46,26 @@ We'll start with defining how the project's visuals should look, connecting them
 * If you've done HTML/CSS before, you can add additional items to the page so you have something to scroll down to!
 
 
-### FOR THURS, FEB 18: BRAND OUTLINE/CODE SKETCHES
-Coming soon :)
+### FOR THURS, FEB 18: DESIGN BRIEF/CODE SKETCHES
+There are two main things for you to do for next week: create a PDF "design brief" document and create three (or more) sketches in code.
+
+When starting a project like this, it can seem impossible to just sit down and start making. Instead, identifying the client's goals and pulling together lists, colors, typefaces, etc can be incredibly helpful, not just as a tool for pitching a project but also for you to generate ideas! This can take a variety of forms, but is often called a "design brief." Briefs can be super simple but can also become massive documents full of research and meticulously designed. In our case, your brief should include at least the following, though feel free to add more!
+
+* Name of the company/org/person you'll be working for
+* Brand's mission statement (go to their website, scroll all the way down and look for an "about" page)\*
+* Screenshot of their existing homepage
+* Their current logo and [wordmark](https://en.wikipedia.org/wiki/Wordmark) (that's a logo with their name next to it)\*
+* Audience: at least 10 words that describe the consumers, users, audience, etc for your chosen brand
+* Visual words: at least 10 words that describe the overall look, feel, style that you'll be going for in your project
+* Font samples: at least three different fonts that you might use; include a sample of the font, it's name, and 1–2 sentences on why it fits
+* Color schemes: at least three different color schemes you might use (these can be variations of each other), with a note below each on why they were chosen
+* Anything else: feel free to add any additional sections you like! This could be a mood board, their competition, sample products, etc. You can also dig around the company's website to see if they have a style guide, which can give you some ideas too
+
+\* If you can't find a mission statement, wordmark, etc no worry, just leave it off.
+
+You can make your brief in Word, Illustrator, etc. Save it as a PDF and upload to Canvas.
+
+When you're done, please make three (or more) sketches in code that explore possible directions for the project. These do not need to implement everything you want to do – in fact, you should avoid super complicated technical stuff for now! Instead, focus on the overall feel, interaction, etc. Take a screenshot of each and also upload to Canvas. We'll take a look at everything as a group and give you feedback.
 
 
 ### FOR THURS, FEB 25: FINAL VERSION
