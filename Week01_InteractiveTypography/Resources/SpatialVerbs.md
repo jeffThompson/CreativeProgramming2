@@ -1,7 +1,6 @@
 # OPERATIONS
 
-From ***Operative Design: A Catalog of Spatial Verbs***
-Anthony Di Mari and Nora Yoo
+From ***Operative Design: A Catalog of Spatial Verbs*** by Anthony Di Mari and Nora Yoo
 
 **List of operations**
 * Expand

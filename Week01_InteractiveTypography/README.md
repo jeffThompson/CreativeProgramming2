@@ -3,10 +3,11 @@
 # INTERACTIVE TYPOGRAPHY
 
 ### TLDR
-* Interactive typography for a brand's website
+* Interactive typography for a brand/person/org's website
 * Should fill the screen automatically
-* Sketches due Feb 18 by 11am EST
-  * Upload one screenshot of each to Canvas
+* Sketches/brand outline due Feb 18 by 11am EST
+  * Brand outline as PDF, uploaded to Canvas
+  * One screenshot of each sketch running, also uploaded to Canvas
 * Final version due Feb 25 by 11am EST
   * Upload three screenshots to Canvas
 * No need to turn in code for any part of this project
@@ -17,7 +18,9 @@
 
 Over the next two weeks, your assignment is to create a landing page for a brand's website, focusing on interactive typography. You'll need to think about stylistic choices in the context of a client-driven project and their brand (color, typefaces used, overall character) but are also encouraged to creatively/wildly experiment. Your choice of "brand" to work with is up to you: it can be a real company, one from film/TV/fiction, an organization, or a person.
 
-We'll start with defining the project's visuals and create some code sketches that explore possible approaches. The goal here is to connect the brand's identity (which you are welcome to push into new territory) with the visuals you create and to practice the kind of ideation > presentation > refinement process that happens with client-based work. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
+Typography should be the key focus here: think about fun, creative, experimental, weird, engaging ways to play with letters, their shapes, and words. What fonts best suit your project? What kinds of visuals and interactions best suit the brand you're working with? Should the colors be muted and the shapes geometric? Or look cartoony with bright colors? While typography should be the central part of the project, feel free to add visual elements that make your piece engaging. You're also welcome to create additional assets for your piece, including shapes (perhaps in Illustrator), sounds, etc.
+
+We'll start with defining how the project's visuals should look, connecting them to the brand's existing identity (which you are welcom to push into new territory). This kind of ideation > presentation > refinement process is very common in client-based work. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
 
 *Above: an animation by [Cecilia Erlich](https://dribbble.com/shots/8974488-New-ideas). The text reads "boredom is your imagination calling to you"*
 
@@ -29,9 +32,10 @@ We'll start with defining the project's visuals and create some code sketches th
 
 ### DELIVERABLES
 * Project experimenting with interactive typography for a brand
-* Automatically fill the width/height of the screen (use `screenWidth` and `screenHeigh` variables)
+* Automatically fill the width/height of the screen (use `screenWidth` and `screenHeight` variables)
 * At least three initial sketches in code, showing possible directions/variations
   * Upload a screenshot of each sketch to Canvas
+* Brand outline document, saved as a PDF and uploaded to Canvas
 * Finished project, ready to screen-share for critique
   * Upload three screenshots of the finished project to Canvas
 * No need to include link to code for any part of this project
@@ -42,11 +46,11 @@ We'll start with defining the project's visuals and create some code sketches th
 * If you've done HTML/CSS before, you can add additional items to the page so you have something to scroll down to!
 
 
-### FOR THURSDAY, FEBRUARY 18
+### FOR THURS, FEB 18: BRAND OUTLINE/CODE SKETCHES
 Coming soon :)
 
 
-### FOR THURSDAY, FEBRUARY 25
+### FOR THURS, FEB 25: FINAL VERSION
 Coming soon :)
 
 
