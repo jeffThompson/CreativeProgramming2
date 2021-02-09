@@ -28,12 +28,12 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Watch       | Interview with Vera Molnar |
 | Homework    | `Historical Code Re-creations` |
 
-| FEB 11      | INTERACTIVE TYPOGRAPHY 1 |
+| FEB 11      | [INTERACTIVE TYPOGRAPHY 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_InteractiveTypography) |
 | :---        | :--- |
 | Demos       | Fonts on the web, getting points from text |
 | Homework    | `Interactive Typography` sketches |
 
-| FEB 18      | INTERACTIVE TYPOGRAPHY 2 |
+| FEB 18      | [INTERACTIVE TYPOGRAPHY 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_InteractiveTypography) |
 | :---        | :--- |
 | Demos       | Screen recordings, touch input |
 | Homework    | Finish `Interactive Typography` project |
