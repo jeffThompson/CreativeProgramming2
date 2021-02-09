@@ -70,7 +70,9 @@ When you're done, please make two (or more) sketches in code that explore possib
 
 
 ### FOR THURS, FEB 25: FINAL VERSION
-Coming soon :)
+With the feedback you received in class, this week your job is to create a final version of your project. Be sure it runs fullscreen in the browser and adapts to different sizes. (This is part of a larger, much more complex process called [*responsive design*](https://www.w3schools.com/html/html_responsive.asp).)
+
+When it's ready, take three representative screenshots of your piece runnning. These are your documentation, so pick moments that really show the interaction and highlight the cool parts of your project. Upload the screenshots to Canvas – no need to submit code.
 
 
 ### INSPIRATION
