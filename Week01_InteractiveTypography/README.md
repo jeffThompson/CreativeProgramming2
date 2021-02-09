@@ -5,26 +5,36 @@
 ### TLDR
 * Interactive typography for a brand's website
 * Should fill the screen automatically
-* Due Feb 25 by 11am EST
-* Upload three screenshots to Canvas (no code)
+* Sketches due Feb 18 by 11am EST
+  * Upload one screenshot of each to Canvas
+* Final version due Feb 25 by 11am EST
+  * Upload three screenshots to Canvas
+* No need to turn in code for any part of this project
 
 
 ### ASSIGNMENT
-Over the next two weeks, your assignment is to create a landing page for a brand's website, focusing on interactive typography. You'll need to think about stylistic choices in the context of a client-driven project and their brand (color, typefaces used, overall character) but are also encouraged to creatively/wildly experiment. Your choice of "brand" to work with is up to you: it can be a real company, one from film/TV/fiction, an organization, or a person.
-
 > "Everything written symbols can say has already passed by. They are like tracks left by animals." – Kimura Kyūho, 1768
+
+Over the next two weeks, your assignment is to create a landing page for a brand's website, focusing on interactive typography. You'll need to think about stylistic choices in the context of a client-driven project and their brand (color, typefaces used, overall character) but are also encouraged to creatively/wildly experiment. Your choice of "brand" to work with is up to you: it can be a real company, one from film/TV/fiction, an organization, or a person.
 
 We'll start with defining the project's visuals and create some code sketches that explore possible approaches. The goal here is to connect the brand's identity (which you are welcome to push into new territory) with the visuals you create and to practice the kind of ideation > presentation > refinement process that happens with client-based work. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
 
 *Above: an animation by [Cecilia Erlich](https://dribbble.com/shots/8974488-New-ideas). The text reads "boredom is your imagination calling to you"*
 
 
+### CODE EXAMPLES/VIDEOS
+* Video tutorials for this week (coming soon)
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/XPqAUU6EI)
+
+
 ### DELIVERABLES
 * Project experimenting with interactive typography for a brand
 * Automatically fill the width/height of the screen (use `screenWidth` and `screenHeigh` variables)
-* At least three sketches in code, showing possible directions/variations
-* Upload three screenshots of the finished project to Canvas
-* No need to include link to code
+* At least three initial sketches in code, showing possible directions/variations
+  * Upload a screenshot of each sketch to Canvas
+* Finished project, ready to screen-share for critique
+  * Upload three screenshots of the finished project to Canvas
+* No need to include link to code for any part of this project
 
 
 ### STRETCH GOALS
@@ -33,20 +43,11 @@ We'll start with defining the project's visuals and create some code sketches th
 
 
 ### FOR THURSDAY, FEBRUARY 18
-
+Coming soon :)
 
 
 ### FOR THURSDAY, FEBRUARY 25
 Coming soon :)
-
-
-DEMOS
-+ image of text, pixel color to draw shapes
-  - base on 'aggregate darwing' by amnon owed
-+ points in text to wiggly shapes?
-  - based on 'waves' by amnon
-
-
 
 
 ### INSPIRATION
@@ -69,7 +70,7 @@ DEMOS
   * [*Hover Animation*](https://www.awwwards.com/inspiration/decorative-typography-style-hover-animation-bruno-tome) by Bruno Tomé
   * [*Liquid*](https://www.instagram.com/p/CKJphmjh371/?igshid=yn66i6cfspg2) by André Burnier (lots more on their Instagram)
 * [Concrete poetry](https://en.wikipedia.org/wiki/Concrete_poetry) in general, but especially:
-  * *Forsythia* by Mary Ellen Solt (1965)
+  * *Forsythia* by Mary Ellen Solt (1965, in the `Images` folder)
   * [*Eyes*](https://www.ubu.com/historical/nichol/nichol2.html) and [*Untitled*](https://www.ubu.com/historical/nichol/nichol1.html) by bpNichol (both from the mid 1960s)
   * [*yes, and?*](https://yesand.glitch.me/index.html) by Emma Winston (2019)
   * [*Calligrammes*](https://publicdomainreview.org/collection/apollinaire-s-calligrammes-1918) by Guillaume Apollinaire (not exactly concrete poetry but a precursor)
@@ -82,10 +83,10 @@ DEMOS
 
 ### RESOURCES
 * List of "operations" from the amazing book *Operative Design: A Catalog of Spatial Verbs* by Anthony Di Mari and Nora Yoo, the `Resources` folder
-* Great [interactive typography cheat-sheet](https://codepo8.github.io/typography-cheatsheet/), if you're interested in the names of the parts of letters (and [this site](https://typesoftype.com/) which offers an even deeper dive)
-* [Tim Rodenbroeker's Youtube channel](https://www.youtube.com/c/timrodenbr%C3%B6kercreativecoding/videos)) has lots of cool tutorials, including some type-related ones
+* Great [interactive typography cheat-sheet](https://codepo8.github.io/typography-cheatsheet/) if you're interested in the names of the parts of letters (and [this site](https://typesoftype.com/) which offers an even deeper dive)
+* [Tim Rodenbroeker's Youtube channel](https://www.youtube.com/c/timrodenbr%C3%B6kercreativecoding/videos) has lots of cool tutorials, including some type-related ones
 * Fun [sphere-packing tutorial using type](https://www.youtube.com/watch?v=QHEQuoIKgNE) by Daniel Shiffman
 * Really wonderful breakdowns from [*Art of the Title*](https://www.artofthetitle.com/title/the-silence-of-the-lambs/) on how movie titles affect the tone of a film
-* Some [really fun demos](https://github.com/AmnonOwed/CAN_GenerativeTypography) from Amnon Owed (made in the Java version of Processing)
+* Some [really fun demos](https://github.com/AmnonOwed/CAN_GenerativeTypography) from Amnon Owed (made in the Java version of Processing, they don't all run correctly)
 * [Tons of bonkers historical type examples](https://publicdomainreview.org/search/?q=typography) from Public Domain Review
 
