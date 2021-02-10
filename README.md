@@ -35,7 +35,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | FEB 18      | [INTERACTIVE TYPOGRAPHY 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_InteractiveTypography) |
 | :---        | :--- |
-| Demos       | Screen recordings, touch input |
+| Demos       | Touch input, prototyping on mobile devices |
 | Homework    | Finish `Interactive Typography` project |
 
 | FEB 25      | IMAGE FILTERS |
@@ -50,7 +50,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | MAR 11      | TRACKING 2 |
 | :---        | :--- |
-| Demos       | Gesture detection, cameras for installations |
+| Demos       | Gesture detection, cameras for installations, screen recordings |
 | Homework    | Finish `Tracking` project |
 
 | MAR 18      | MASK 1 |
