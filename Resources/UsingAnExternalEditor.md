@@ -61,7 +61,7 @@ You should see something similar to what you saw for `npm`:
 
 
 ### PROJECT SETUP
-To use `browser-sync`, you'll need to have your project set up on your computer. The easiest way to do this is to grab a blank `p5.js` project here:
+To use `browser-sync`, you'll need to have your project set up on your computer. The easiest way to do this is to grab a blank `p5.js` project here: https://github.com/jeffThompson/CreativeProgramming2/raw/master/Resources/BlankSketch.zip
 
 Unzip it, then move the folder to wherever you're working! I suggest keeping a blank project ready and duplicating it, so you don't have to go through these steps every time.
 
