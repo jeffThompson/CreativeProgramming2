@@ -16,11 +16,11 @@
 ### ASSIGNMENT
 > "Everything written symbols can say has already passed by. They are like tracks left by animals." – Kimura Kyūho, 1768
 
-Over the next two weeks, your assignment is to create a landing page for a brand's website, focusing on interactive typography. You'll need to think about stylistic choices in the context of a client-driven project and their brand (color, typefaces used, overall character) but are also encouraged to creatively/wildly experiment. Your choice of "brand" to work with is up to you: it can be a real company, one from film/TV/fiction, an organization, or a person.
+Over the next two weeks, your assignment is to create a landing page for a brand's website, focusing on interactive typography. You'll need to think about stylistic choices in the context of a client-driven project and their brand (color, typefaces used, overall feel) but are also encouraged to creatively/wildly experiment. The goal here is something visually engaging and super awesome! Your choice of "brand" to work with is up to you: it can be a real company; one from film, television, fiction, comics, etc; an organization; or a person.
 
-Typography and interaction should be the key focus here: think about fun, creative, experimental, weird, engaging ways to play with letters, their shapes, and words. What fonts best fit your project? What kinds of visuals and interactions best suit the brand you're working with? Should the colors be muted and the shapes geometric? Or look cartoony with bright colors? While typography should be the central part of the project, feel free to add visual elements that make your piece engaging. You're also welcome to create additional assets for your piece, including shapes (perhaps in Illustrator), sounds, etc.
+Typography and interaction should be the key focus here: think about fun, creative, experimental, weird, engaging ways to play with letters, their shapes, and words. What fonts best fit your project? What kinds of visuals and interactions best suit the brand you're working with? Should the colors be muted and the shapes geometric? Or look cartoony with bright colors? While typography should be the central part of the project, feel free to add visual elements that make your piece engaging. You're also welcome to create assets for your piece, including shapes (perhaps in Illustrator), sounds, etc.
 
-We'll start with defining how the project's visuals should look, connecting them to the brand's existing identity (which you are welcome to push into new territory). This kind of ideation &rarr; presentation &rarr; refinement process is very common in client-based work. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
+We'll start with defining how the project's visuals should look, connecting them to the brand's existing identity (which you are welcome to push into new territory). This kind of ideation &rarr; presentation &rarr; refinement process is very common in client-based work and is another form of iterative development. After a round of feedback on your sketches, you'll turn one of those ideas into a finished project.
 
 *Above: an animation by [Cecilia Erlich](https://dribbble.com/shots/8974488-New-ideas); the text reads "boredom is your imagination calling to you".*
 
@@ -33,10 +33,12 @@ We'll start with defining how the project's visuals should look, connecting them
 ### DELIVERABLES
 * Project experimenting with interactive typography for a brand
 * Automatically fill the width/height of the screen (use `screenWidth` and `screenHeight` variables)
-* At least two initial sketches in code, showing possible directions/variations
+* For Feb 18:
+  * At least two initial sketches in code, showing possible directions/variations
   * Upload a screenshot of each sketch to Canvas
-* Design brief document, saved as a `pdf` and uploaded to Canvas
-* Finished project, ready to screen-share for critique
+  * Design brief document, saved as a `pdf` and uploaded to Canvas
+* For Feb 25:
+  * Finished project, ready to screen-share for critique
   * Upload three screenshots of the finished project to Canvas
 * No need to include link to code for any part of this project
 
@@ -47,32 +49,40 @@ We'll start with defining how the project's visuals should look, connecting them
 
 
 ### FOR THURS, FEB 18: DESIGN BRIEF/CODE SKETCHES
-There are two main things for you to do this week: create a PDF "design brief" document and make two (or more) rough sketches in code.
+There are two main things for you to do this week: create a `pdf` design brief document and make two (or more) rough sketches in code.
 
-When starting a project like this, it can seem impossible to just sit down and start making. Instead, identifying the client's goals and pulling together lists, colors, typefaces, etc can be incredibly helpful, not just as a tool for pitching a project but also for you to generate ideas! This can take a variety of forms, but is often called a "design brief." Briefs can be super simple but can also become massive documents full of research and meticulously designed. In our case, your brief should include at least the following, though feel free to add more!
+When starting a project like this, it can seem impossible to just sit down and start making. Instead, identifying the client's goals and pulling together lists, colors, typefaces, etc can be incredibly helpful, not just as a tool for pitching a project but also for you to generate ideas! This can take a variety of forms, but is often called a "design brief." Briefs can be super simple but can also become massive, meticulously designed documents full of research. In our case, your brief should include at least the following, though feel free to add more:
 
 * Name of the company/org/person you'll be working for
-* Brand's mission statement (go to their website, scroll all the way down and look for an "about" page)\*
 * Screenshot of their existing homepage
-* Their current logo and [wordmark](https://en.wikipedia.org/wiki/Wordmark) (that's a logo with their name next to it), ideally in `svg` format but screenshot is ok too\*
 * Audience: at least 10 words that describe the consumers, users, etc for your chosen brand
 * Visual words: at least 10 words that describe the overall look, feel, style that you'll be going for in your project
 * Motion words: at least 5 words that describe the motion and interaction you are after
-* Font samples: at least three different fonts that you might use; include a sample of the font, it's name, and 1–2 sentences on why it fits
+* Font samples: at least three different fonts that you might use; for each font, include:
+  * A sample of the font
+  * It's name
+  * 1–2 sentences on why it fits
 * Color schemes: at least three different color schemes you might use (these can be variations of each other), with a note below each on why they were chosen
-* Anything else: feel free to add any additional sections you like! This could be a mood board, their competition, sample products, etc. You can also dig around the company's website to see if they have a style guide, which can give you some ideas too
 
-\* If you can't find a mission statement, wordmark, etc no worry, just leave it off.
+Optional, if you can find them:
 
-You can make your brief in Word, Illustrator, etc. Save it as a `pdf` and upload to Canvas. This isn't a design class, but try to make your brief look professional and clean – often, this is the first contact between you and a client.
+* What font the company currently uses (Google will often get you the info, but you can also look for a style guide on the company's site)
+* Current logo and [wordmark](https://en.wikipedia.org/wiki/Wordmark) (that's a logo with their name next to it), ideally in a vector format like `svg` but screenshot is ok too
+* Brand's mission statement (go to their website, scroll all the way down and look for an "about" page)
+* Anything else: feel free to add any additional sections you like! This could include:
+  * Mood board
+  * Their competition
+  * Sample products
 
-When you're done, please make two (or more) sketches in code that explore possible directions for the project. These do not need to implement everything you want to do – in fact, you should avoid super complicated technical stuff for now! Instead, focus on the overall feel, interaction, etc. Take a screenshot of each and also upload to Canvas. We'll take a look at everything as a group and give you feedback.
+You can make your brief in Word, Illustrator, etc. Save it as a `pdf` and upload to Canvas. This isn't a design class, but try to make your brief look professional and clean – often, this is the first contact between you and a client, so think about this as a pitch for their business.
+
+When you're done, please make two (or more) sketches in code that explore possible directions for the project. These do not need to implement everything you want to do – in fact, you should avoid super complicated technical stuff for now! Instead, focus on the overall feel, interaction, etc. Take a screenshot of each sketch and upload them to Canvas too. We'll take a look at everything as a group and give you feedback.
 
 
 ### FOR THURS, FEB 25: FINAL VERSION
-With the feedback you received in class, this week your job is to create a final version of your project. Be sure it runs fullscreen in the browser and adapts to different sizes. (This is part of a larger, much more complex process called [*responsive design*](https://www.w3schools.com/html/html_responsive.asp).)
+With the feedback you received in class, this week your job is to create a final version of your project. Be sure it runs fullscreen in the browser and adapts to different sizes. (This is part of a larger, much more complex process called ["responsive design."](https://www.w3schools.com/html/html_responsive.asp))
 
-When it's ready, take three representative screenshots of your piece runnning. These are your documentation, so pick moments that really show the interaction and highlight the cool parts of your project. Upload the screenshots to Canvas – no need to submit code.
+When it's done, take three representative screenshots of your piece runnning. These are your documentation, so pick moments that really show the interaction and highlight the cool parts of your project. Upload the screenshots to Canvas – no need to submit code.
 
 
 ### INSPIRATION
