@@ -7,6 +7,7 @@
 * Should fill the screen automatically
 * Sketches/design brief due Feb 18 by 11am EST
   * Design brief as `pdf`, uploaded to Canvas
+  * Two sketches in code showing possible directions
   * One screenshot of each sketch running, also uploaded to Canvas
 * Final version due Feb 25 by 11am EST
   * Upload three screenshots to Canvas
