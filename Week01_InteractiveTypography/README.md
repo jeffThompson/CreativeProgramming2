@@ -15,7 +15,7 @@
 
 
 ### ASSIGNMENT
-> "Everything written symbols can say has already passed by. They are like tracks left by animals." – Kimura Kyūho, 1768
+> "Everything written symbols can say has already passed by. They are like tracks left by animals." – [Kimura Kyūho](https://crashinglybeautiful.tumblr.com/post/235327100/everything-written-symbols-can-say-has-already), 1768
 
 Over the next two weeks, your assignment is to create a landing page for a brand's website, focusing on interactive typography. You'll need to think about stylistic choices in the context of a client-driven project and their brand (color, typefaces used, overall feel) but are also encouraged to creatively/wildly experiment. The goal here is something visually engaging and super awesome! Your choice of "brand" to work with is up to you: it can be a real company; one from film, television, fiction, comics, etc; an organization; or a person.
 
