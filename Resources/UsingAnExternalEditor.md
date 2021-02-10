@@ -117,7 +117,7 @@ There is one major flaw here: we can't see the Javascript console on the mobile 
 
 
 ### FAQ
-**Why bother with all this?**
+**Why bother with all this?**  
 Two reasons! First, this makes local development easier, since it opens your project, auto-reloads, etc.
 
 But, maybe more importantly, it solves the dreaded *cross-origin* error. Web browsers try their best to keep average users safe online, which is great. But recently, they have gotten super strict and don't allow you to load files from your own computer! Your sketch will run ok, but if you try to load an image or sound file, you get an annoying error.
@@ -125,7 +125,7 @@ But, maybe more importantly, it solves the dreaded *cross-origin* error. Web bro
 There are a few ways around this (like disabling the feature in your browser) but they are risky when you're doing other things online. By using `browser-sync`, your browser sees everything like a normal website and won't give you any errors!
 
 
-**What are those words after the `browser-sync` command?**
+**What are those words after the `browser-sync` command?**  
 These are arguments, just like a function!
 
 * `start` gets everything going
@@ -135,14 +135,14 @@ These are arguments, just like a function!
 There are a ton more options when running `browser-sync`, but this is all we need to do our work! You can read about them all here: https://browsersync.io/docs/command-line
 
 
-**What other tweaks to `browser-sync` might be helpful?**
+**What other tweaks to `browser-sync` might be helpful?**  
 I would suggest adding the following:
 
 * `--no-notify` removes the little popup in the upper-lefthand corner
 * `--browser` lets you choose which browser to open
 
 
-**What is that weird URL in my browser?**
+**What is that weird URL in my browser?**  
 That's the address to files on your computer! In this case, `browser-sync` creates a local web server that behaves just like one online. This enables us to test stuff that requires a server and avoids some common pitfalls when working locally.
 
 As covered in the mobile section above, there are other ways of accessing your project. All the URLs listed when you start `browser-sync` will work too.
