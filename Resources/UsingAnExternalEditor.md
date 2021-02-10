@@ -6,18 +6,17 @@ The `p5.js` online editor is awesome: it's a quick and easy way to start coding,
 ### CONTENTS
 Jump ahead using these links or start from the beginning:
 
-* Text editor
-* Web browser
-* Install Node and `npm`
-* Install `browser-sync`
-* Project setup
-* Basic usage
-* Mobile testing
-* FAQ
+* [Text editor](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#text-editor)
+* [Install Node and `npm`](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#node-and-npm)
+* [Install `browser-sync`](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#install-browser-sync)
+* [Project setup](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#project-setup)
+* [Basic usage](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#basic-usage)
+* [Mobile testing](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#mobile-testing)
+* [FAQ](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md#faq)
 
 
 ### TEXT EDITOR
-First, you'll need a text editor. These can range from super simple, built-in programs like Text Edit or Notepad to incredibly complex development tools like Visual Studio or XCode. Between those options are solid, clean text editors that are designed for programming.
+First, you'll need a text editor. These can range from super simple, built-in programs like Text Edit or Notepad to incredibly complex development tools like Visual Studio or XCode. Between those extremes are solid, clean text editors that are designed for programming.
 
 * [Sublime Text](https://www.sublimetext.com/3): free, lots of add-ons
 * [Brackets](http://brackets.io/): open source, made by Adobe
@@ -25,30 +24,22 @@ First, you'll need a text editor. These can range from super simple, built-in pr
 If you don't already have a text editor, download either Sublime or Brackets; if you do have a preferred editor, just use that!
 
 
-### WEB BROWSER
-If you're reading this, you of course already have a browser installed 😜. However, for our purposes you should be using one of these:
-
-* Firefox: open source
-* Chrome: developed by Google
-
-Both allow for lots of tweaking to settings and adding extensions, making Javascript development a lot nicer. If you're doing web-based projects, you really should have all major browsers installed so you can test them.
-
-
 ### NODE AND `npm`
 Next, we need to install `node.js`. Node is based on Google's V8 Javascript engine, allowing you to do really cool things both online and offline! But we need Node so we can install it's "package manager" called `npm` (more on that in a sec).
 
-1. Download [Node](https://nodejs.org/en/)
+1. Download [Node](https://nodejs.org/en/) for your operating system
 2. Install on your computer
 
 Now we need to check that `npm` is properly installed. Open your command line program:
 * Mac: Applications &rarr; Utilities &rarr; Terminal (keep it in your dock too)
 * Windows: Start &rarr; Windows System &rarr; Command Prompt
+* Linux: you already know how to do this 😜
 
 Type `npm` and hit return – you should see something like this:
 
 ![](Images/npm-install.png)
 
-`npm`, which stands for `Node Package Manager`, lets you install packages, which are tools and code libraries that extend the functionality of Node. Similar tools, like `pip` and `homebrew` exist for other programming languages.
+`npm`, which stands for `Node Package Manager`, lets you install packages. Packages are tools and code libraries that extend the functionality of Node. Similar tools, like `pip` and `homebrew`, exist for other programming languages.
 
 If the `npm` command worked, you're all set!
 
@@ -70,9 +61,11 @@ You should see something similar to what you saw for `npm`:
 
 
 ### PROJECT SETUP
-To use `browser-sync`, you'll need to have your project set up on your computer. The easiest way to do this is to go to the `p5.js` Editor, create an empty sketch, save it, and go to File &rarr; Download... and save it to your computer.
+To use `browser-sync`, you'll need to have your project set up on your computer. The easiest way to do this is to grab a blank `p5.js` project here:
 
-![](Images/sketch-folder.png)
+Unzip it, then move the folder to wherever you're working! I suggest keeping a blank project ready and duplicating it, so you don't have to go through these steps every time.
+
+You can also go to the `p5.js` Editor, create an empty sketch, save it, and go to File &rarr; Download... and save it to your computer.
 
 The folder contains a few files:
 * `sketch.js`: really the only file we care about – this is your project!
@@ -80,6 +73,8 @@ The folder contains a few files:
 * `p5.js`: a local copy of the `p5.js` library
 * `p5.sound.min.js`: the sound library; small but you can delete if your project doesn't have sound
 * `style.css`: minimal stylesheet that controls how your webpage looks
+
+![](Images/sketch-folder.png)
 
 If you have images, fonts, or other Javascript files, you can place them in your sketch folder too.
 
