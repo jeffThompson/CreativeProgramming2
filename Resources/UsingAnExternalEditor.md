@@ -31,8 +31,8 @@ Next, we need to install `node.js`. Node is based on Google's V8 Javascript engi
 2. Install on your computer
 
 Now we need to check that `npm` is properly installed. Open your command line program:
-* Mac: Applications &rarr; Utilities &rarr; Terminal (keep it in your dock too)
-* Windows: Start &rarr; Windows System &rarr; Command Prompt
+* Mac: `Applications → Utilities → Terminal` (keep it in your dock too)
+* Windows: `Start → Windows System → Command Prompt`
 * Linux: you already know how to do this 😜
 
 Type `npm` and hit return – you should see something like this:
@@ -65,7 +65,7 @@ To use `browser-sync`, you'll need to have your project set up on your computer.
 
 Unzip it, then move the folder to wherever you're working! I suggest keeping a blank project ready and duplicating it, so you don't have to go through these steps every time.
 
-You can also go to the `p5.js` Editor, create an empty sketch, save it, and go to File &rarr; Download... and save it to your computer.
+You can also go to the `p5.js` Editor, create an empty sketch, save it, and go to `File → Download...` and save it to your computer.
 
 The folder contains a few files:
 * `sketch.js`: really the only file we care about – this is your project!
