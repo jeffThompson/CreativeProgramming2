@@ -115,6 +115,7 @@ When it's done, take three representative screenshots of your piece runnning. Th
 * [*Re:MARK*](http://www.flong.com/archive/projects/remark/index.html) by Golan Levin and Zach Lieberman
 * Some great projects from Ceci Erlich: [*Zero and One*](https://www.behance.net/gallery/86592629/Zero-and-One), [*Butters*](https://dribbble.com/shots/5616633-Butters), and [*Cool*](https://dribbble.com/shots/5485560-Cool)
 * [*Letters from my Mother*](https://digitalartmuseum.org/molnar/lettersfrommother.html) by Vera Molnar
+* [*Decomposed Ritual Symbols*](https://www.seditionart.com/zhang-zhan/collection/decomposed-ritual-symbols) by Zhang Zhan (on the platform *Sedition*, which sells digital artworks)
 * Beautiful [book of choreographic notation](https://publicdomainreview.org/collection/collection-of-dances-in-choreography-notation-1700) from 1700
 
 
