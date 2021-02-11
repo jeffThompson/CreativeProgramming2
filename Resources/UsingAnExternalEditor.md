@@ -142,7 +142,7 @@ I would suggest adding the following:
 * `--browser` lets you choose which browser to open
 
 
-**What is the `-g` for when installing `browser-sync`?**
+**What is the `-g` for when installing `browser-sync`?**  
 It means that `browser-sync` will be installed globally on your computer. Some developers like to keep separate installs for different projects. This can avoid problems like one tool requiring an older version of another. Unless you're already doing this, it will be easiest to just install `browser-sync` globally.
 
 
@@ -152,5 +152,6 @@ That's the address to files on your computer! In this case, `browser-sync` creat
 As covered in the mobile section above, there are other ways of accessing your project. All the URLs listed when you start `browser-sync` will work too.
 
 
-**Have other questions? Let me know (by email or by creating an "issue" on this repository) and I can add them here!**
+### OTHER QUESTIONS?  
+Have other questions? Let me know (by email or by creating an ["issue"](https://github.com/jeffThompson/CreativeProgramming2/issues/new) on this repository) and I can add them here!
 
