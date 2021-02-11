@@ -120,16 +120,16 @@ When it's done, take three representative screenshots of your piece runnning. Th
 ### RESOURCES
 * Where to find fonts? These are good places to start:
   * If you're a VA&T major, you can [download unlimited fonts through Adobe Creative Cloud](https://fonts.adobe.com/)
-  * [Google Fonts](https://fonts.google.com/) has a ton, but some aren't available for download (just use online)
+  * [Google Fonts](https://fonts.google.com/) has a ton, but some aren't available for download
   * [Font Squirrel](https://www.fontsquirrel.com/) has lots!
-  * Slightly dated site, but [dafont](https://www.dafont.com/) also has tons of fonts
-  * Lots more sites out there too: if you find a great one, please let me know!
+  * Slightly dated site, but [dafont](https://www.dafont.com/) also has tons of fonts too
+  * Lots more sites out there: if you find a great one, please let me know!
 * List of "operations" from the amazing book *Operative Design: A Catalog of Spatial Verbs* by Anthony Di Mari and Nora Yoo, the `Resources` folder
 * Great [interactive typography cheat-sheet](https://codepo8.github.io/typography-cheatsheet/) if you're interested in the names of the parts of letters (and [this site](https://typesoftype.com/) which offers an even deeper dive)
 * [Tim Rodenbroeker's Youtube channel](https://www.youtube.com/c/timrodenbr%C3%B6kercreativecoding/videos) has lots of cool tutorials, including some type-related ones
 * Fun [sphere-packing tutorial using type](https://www.youtube.com/watch?v=QHEQuoIKgNE) by Daniel Shiffman
 * Really wonderful breakdowns from [*Art of the Title*](https://www.artofthetitle.com/title/the-silence-of-the-lambs/) on how movie titles affect the tone of a film
 * Some [really fun demos](https://github.com/AmnonOwed/CAN_GenerativeTypography) from Amnon Owed (made in the Java version of Processing, they don't all run correctly)
-* Want to nerd out more about the future of fonts? [This great article](https://web.dev/variable-fonts/) talks about 'variable' fonts
+* Want to nerd out more about the future of fonts? [This great article](https://web.dev/variable-fonts/) talks about "variable" fonts
 * [Tons of bonkers historical type examples](https://publicdomainreview.org/search/?q=typography) from Public Domain Review
 
