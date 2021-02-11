@@ -34,11 +34,11 @@ We'll start with defining how the project's visuals should look, connecting them
 ### DELIVERABLES
 * Project experimenting with interactive typography for a brand
 * Automatically fill the width/height of the screen (use `screenWidth` and `screenHeight` variables)
-* For Feb 18:
+* For February 18:
   * At least two initial sketches in code, showing possible directions/variations
   * Upload a screenshot of each sketch to Canvas
   * Design brief document, saved as a `pdf` and uploaded to Canvas
-* For Feb 25:
+* For February 25:
   * Finished project, ready to screen-share for critique
   * Upload three screenshots of the finished project to Canvas
 * No need to include link to code for any part of this project
