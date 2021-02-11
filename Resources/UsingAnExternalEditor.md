@@ -139,7 +139,7 @@ There are a ton more options when running `browser-sync`, but this is all we nee
 I would suggest adding the following:
 
 * `--no-notify` removes the little popup in the upper-lefthand corner
-* `--browser` lets you choose which browser to open
+* `--browser` lets you choose which browser to open, which is nice if you want to test with a browser other than your default
 
 
 **What is the `-g` for when installing `browser-sync`?**  
