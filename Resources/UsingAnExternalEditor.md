@@ -105,24 +105,31 @@ While `browser-sync` is running you can work on your project in your text editor
 
 
 ### MOBILE TESTING
-Ok, but what if you want to test your project on a mobile device? You could upload it to a server and open the page on your phone, refreshing every time you make a change. But what a pain! Luckily, there's another way:
+Ok, but what if you want to test your project on a mobile device? You could upload it to a server and open the page on your phone, refreshing every time you make a change. But what a pain! 
 
+Luckily, there's another way:  
 1. Make sure your mobile device and laptop are on the same wifi network
 2. When launching `browser-sync`, notice the different urls that appear
-3. The one labeled `External` should look something like this: `http://192.168.1.151:3000` &larr; notice it doesn't have `localhost` in it
-4. Type that into your mobile browser – you should see your sketch
+3. The one labeled `External` should look something like this: `http://192.168.1.151:3000` &larr; notice it doesn't have `localhost` in it (this is an IP address, so it's more like a regular url than `localhost` which is accessible only to your computer)
+4. Type that into your mobile browser (or send the tab via Airplay) – you should see your sketch
 5. When you save your sketch, `browser-sync` will not only refresh the page on your computer but also your device!
 
-There is one major flaw here: we can't see the Javascript console on the mobile device.
+There is one major flaw here: we can't see the Javascript console on the mobile device. This is super frustrating, I know. One way around it is to display whatever you would print in the console using `text()` in your sketch.
 
 
 ### FAQ
 **Why bother with all this?**  
 Two reasons! First, this makes local development easier, since it opens your project, auto-reloads, etc.
 
-But, maybe more importantly, it solves the dreaded *cross-origin* error. Web browsers try their best to keep average users safe online, which is great. But recently, they have gotten super strict and don't allow you to load files from your own computer! Your sketch will run ok, but if you try to load an image or sound file, you get an annoying error.
+But, maybe more importantly, it solves the dreaded [*cross-origin* error](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors). Web browsers try their best to keep average users safe online, which is great. But recently, they have gotten super strict and don't allow you to load files from your own computer! Your sketch will run ok, but if you try to load an image or sound file, you get an annoying error.
 
 There are a few ways around this (like disabling the feature in your browser) but they are risky when you're doing other things online. By using `browser-sync`, your browser sees everything like a normal website and won't give you any errors!
+
+
+**What is that weird URL in my browser?**  
+That's the address to files on your computer! In this case, `browser-sync` creates a local web server that behaves just like one online. This enables us to test stuff that requires a server and avoids some common pitfalls when working locally (see above).
+
+As covered in the *Mobile Testing* section above, there are other ways of accessing your project.
 
 
 **What are those words after the `browser-sync` command?**  
@@ -139,17 +146,11 @@ There are a ton more options when running `browser-sync`, but this is all we nee
 I would suggest adding the following:
 
 * `--no-notify` removes the little popup in the upper-lefthand corner
-* `--browser` lets you choose which browser to open, which is nice if you want to test with a browser other than your default
+* ~`--browser` lets you choose which browser to open, which is nice if you want to test with a browser other than your default~ I couldn't get this working, but maybe you can?
 
 
 **What is the `-g` for when installing `browser-sync`?**  
-It means that `browser-sync` will be installed globally on your computer. Some developers like to keep separate installs for different projects. This can avoid problems like one tool requiring an older version of another. Unless you're already doing this, it will be easiest to just install `browser-sync` globally.
-
-
-**What is that weird URL in my browser?**  
-That's the address to files on your computer! In this case, `browser-sync` creates a local web server that behaves just like one online. This enables us to test stuff that requires a server and avoids some common pitfalls when working locally.
-
-As covered in the mobile section above, there are other ways of accessing your project. All the URLs listed when you start `browser-sync` will work too.
+It means that `browser-sync` will be installed globally on your computer. Some developers like to keep separate installs for different projects. This can avoid problems like one tool requiring an older version of another. Unless you're already doing this, it will be easiest to just install `browser-sync` globally and not worry about it.
 
 
 ### OTHER QUESTIONS?  
