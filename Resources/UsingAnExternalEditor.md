@@ -1,6 +1,6 @@
 # USING AN EXTERNAL EDITOR
 
-The `p5.js` online editor is awesome: it's a quick and easy way to start coding, it lets you share your projects easily, and it takes no effort to get it working. But it has some serious limitations too: everything has to fit on one screen, no auto-complete or color themes, and upload limits. Using an external editor, locally on your computer, does take some extra work but is well worth the time. Finding a workflow that's right for you can be an endless rabbit hole and this is just one way of working, but if you're just transitioning from the onilne editor this should help you get started.
+The `p5.js` online editor is awesome: it's a quick and easy way to start coding, it lets you share your projects easily, and it takes no effort to get it working. But it has some serious limitations too: everything has to fit on one screen, no auto-complete or color themes, and upload limits. Using a code editor locally on your computer does take some extra work but is well worth the time. Finding a workflow that's right for you can be an endless rabbit hole and this is just one way of working, but if you're just transitioning from the online editor this should help you get started. Experiment and see what works for you!
 
 
 ### CONTENTS
@@ -25,7 +25,7 @@ If you don't already have a text editor, download either Sublime or Brackets; if
 
 
 ### NODE AND `npm`
-Next, we need to install `node.js`. Node is based on Google's V8 Javascript engine, allowing you to do really cool things both online and offline! But we need Node so we can install it's "package manager" called `npm` (more on that in a sec).
+Next, we need to install `node.js`. Node is based on Google's V8 Javascript engine, allowing you to do really cool things both online and offline! (It runs sites you probably use all the time like Netflix, Uber, and Paypal.) But we need Node so we can install it's "package manager" called `npm` (more on that in a sec).
 
 1. Download [Node](https://nodejs.org/en/) for your operating system
 2. Install on your computer
@@ -45,13 +45,13 @@ If the `npm` command worked, you're all set!
 
 
 ### INSTALL `browser-sync`
-Next, we need to use `npm` to install [`browser-sync`](https://browsersync.io). All the word with Node was so we could install this tool; more on what it does next.
+Next, we need to use `npm` to install [`browser-sync`](https://browsersync.io). All the work with Node was so we could install this tool; more on what it does next.
 
 In your command line, type:
 
     npm install -g browser-sync
 
-A bunch of text will go by. When it's done, test that it worked by typing:
+Some animated text will go by. When it's done, test that it worked by typing:
 
     browser-sync
 
@@ -140,6 +140,10 @@ I would suggest adding the following:
 
 * `--no-notify` removes the little popup in the upper-lefthand corner
 * `--browser` lets you choose which browser to open
+
+
+**What is the `-g` for when installing `browser-sync`?**
+It means that `browser-sync` will be installed globally on your computer. Some developers like to keep separate installs for different projects. This can avoid problems like one tool requiring an older version of another. Unless you're already doing this, it will be easiest to just install `browser-sync` globally.
 
 
 **What is that weird URL in my browser?**  
