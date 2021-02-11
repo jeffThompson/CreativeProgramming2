@@ -29,6 +29,7 @@ We'll start with defining how the project's visuals should look, connecting them
 ### CODE EXAMPLES/VIDEOS
 * Video tutorials for this week (coming soon)
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/XPqAUU6EI)
+* [Written tutorial on setting up an external editor](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md)
 
 
 ### DELIVERABLES
