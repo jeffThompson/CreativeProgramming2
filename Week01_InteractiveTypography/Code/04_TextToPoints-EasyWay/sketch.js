@@ -13,6 +13,8 @@ Use the mouseX position to make the letters spread into
 a cloud and back again.
 
 SEE ALSO
++ ZXX, the font used here, is by Sang Mun – read more here!
+  https://walkerart.org/magazine/sang-mun-defiant-typeface-nsa-privacy
 + The next example (the 'hard way') shows how to get points
   from the outline of a text!
 

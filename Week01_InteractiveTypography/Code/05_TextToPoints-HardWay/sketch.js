@@ -58,7 +58,6 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   
   // text setup, then convert into shapes
-  textFont('Georgia');
   let options = {          // optional, but very useful!
     x: 50,                 // start of text (default 0,0)
     y: 250, 
