@@ -122,10 +122,10 @@ When it's done, take three representative screenshots of your piece runnning. Th
 ### RESOURCES
 * Where to find fonts? These are good places to start:
   * If you're a VA&T major, you can [download unlimited fonts through Adobe Creative Cloud](https://fonts.adobe.com/)
-  * [Google Fonts](https://fonts.google.com/) has a ton, but some aren't available for download
-  * [Font Squirrel](https://www.fontsquirrel.com/) has lots!
-  * Slightly dated site, but [dafont](https://www.dafont.com/) also has tons of fonts too
-  * Lots more sites out there: if you find a great one, please let me know!
+  * [Google Fonts](https://fonts.google.com/) has a ton, but some aren't available for download  
+  * [Font Library](https://fontlibrary.org), [Font Squirrel](https://www.fontsquirrel.com), and [The League of Moveable Type](https://www.theleagueofmoveabletype.com) all have lots!  
+  * Slightly dated site, but [dafont](https://www.dafont.com/) also has tons of fonts too  
+  * Lots more sites out there: if you find a great one, please let me know!  
 * List of "operations" from the amazing book *Operative Design: A Catalog of Spatial Verbs* by Anthony Di Mari and Nora Yoo, the `Resources` folder
 * Great [interactive typography cheat-sheet](https://codepo8.github.io/typography-cheatsheet/) if you're interested in the names of the parts of letters (and [this site](https://typesoftype.com/) which offers an even deeper dive)
 * [Tim Rodenbroeker's Youtube channel](https://www.youtube.com/c/timrodenbr%C3%B6kercreativecoding/videos) has lots of cool tutorials, including some type-related ones
