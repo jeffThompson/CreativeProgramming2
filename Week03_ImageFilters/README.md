@@ -1,4 +1,4 @@
-![A "liquify" example from the Adobe blog by Şakir Yildirim from his "Crawler" series](Images/LiquifyFilter_SakirYikdirim.jpg)
+![A "liquify" example from the Adobe blog by Şakir Yildirim from his "Crawler" series](Images/SakirYikdirim-LiquifyFilter-2017.jpg)
 
 # IMAGE FILTERS
 
