@@ -5,6 +5,7 @@
 ### TLDR  
 * Create an image filter, focusing on pixel manipulation  
 * Formatted for Instagram stories and/or TikTok  
+  * Add UI overlay on top of your output images  
 * Due March 4 by 11am EST  
   * Upload three images manipulated by your filter to Canvas  
 * No need to turn in code for this project  
