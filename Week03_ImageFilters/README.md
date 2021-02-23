@@ -34,12 +34,7 @@ In order to create projects for specific platforms, a good first step is to find
   * Dimensions: `1080x1920 pixels`  
   * Safe zone: more complicated 😜
 
-It would also be common to add sample UI on top of your images, so that clients and others can see your work in context. The quickest way to do this would be to buy a PNG or Illustrator overlay or take an hour or two and make one yourself – I've gone ahead and made them for you!
-
-In the `Resources` folder, you'll find:  
-* Instagram overlay  
-* TikTok overlay  
-* Illustrator file for both, so you can modify the text, add profile images, etc!  
+It would also be common to add sample UI on top of your images, so that clients and others can see your work in context. The quickest way to do this would be to buy a PNG or Illustrator overlay or take an hour or two and make one yourself – I've gone ahead and made them for you! You can find them in the `Resources` folder, including the Illustrator file they were made with so you can modify the text, add profile images, etc!
 
 
 ### INSPIRATION  
@@ -47,6 +42,7 @@ In the `Resources` folder, you'll find:
 * [*Civil Rather Than Military*](https://www.pacegallery.com/exhibitions/li-songsong-8) by Li Songsong  
 * [*Liquify Filter*](https://helpx.adobe.com/photoshop/how-to/liquify-filter-motion-effects.html) by Sakir Yikdirim  
 * [*Filler*](https://pixlpa.com/filler) by Andrew Benson, created using [WebGL](https://en.wikipedia.org/wiki/WebGL)  
+* [*s8-grn-1a*](https://vimeo.com/305185958) and [*Flexible Pixels*](https://bengrosser.com/projects/flexible-pixels) by Ben Grosser  
 * [Some cool examples of glitchy videos](https://glitchart.com/bpmc-players-ball-08-17) from Glitchart.com  
 
 
