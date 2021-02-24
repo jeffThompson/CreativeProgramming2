@@ -1,6 +1,0 @@
-- rec some video together, playing with materials, etc
-- then process frames, ffmpeg to put together
-
-after threshold, do false colored image
-- white = another color, black too
-- then three colors (try blue, dark gray, black)
