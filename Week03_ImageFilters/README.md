@@ -39,6 +39,7 @@ It would also be common to add sample UI on top of your images, so that clients 
 
 ### INSPIRATION  
 * The early-20th-century painting movement [*Pointillism*](https://en.wikipedia.org/wiki/Pointillism), such as [this amazing painting by Paul Signac](https://en.wikipedia.org/wiki/Paul_Signac#/media/File:Paul_Signac,_1893,_Femme_%C3%A0_l'ombrelle,_oil_on_canvas,_81_x_65_cm,_Mus%C3%A9e_d'Orsay.jpg)  
+* [Chuck Close's](https://www.pacegallery.com/artists/chuck-close) decades-long exploration of portraiture and fragmentation (note: in 2017, [several women claimed](https://hyperallergic.com/420538/four-more-women-allege-sexual-misconduct-by-chuck-close/) Close sexually harassed them, [see also](https://www.theguardian.com/artanddesign/2018/feb/15/chuck-close-art-sexual-harassment-pafa))  
 * [*Civil Rather Than Military*](https://www.pacegallery.com/exhibitions/li-songsong-8) by Li Songsong  
 * [*Liquify Filter*](https://helpx.adobe.com/photoshop/how-to/liquify-filter-motion-effects.html) by Sakir Yikdirim  
 * [*Filler*](https://pixlpa.com/filler) by Andrew Benson, created using [WebGL](https://en.wikipedia.org/wiki/WebGL)  
@@ -48,6 +49,7 @@ It would also be common to add sample UI on top of your images, so that clients 
 
 ### RESOURCES  
 * In this week's `Readings` folder, there is a PDF of Harley Mylser and Arthur Weeks' *The Pocket Handbook of Image Processing Algorithms in C* – not super easy to read but a great resource for seeing how common image processing tasks is accomplished  
+* For a deep, mathy take, see [*An Interdisciplinary Introduction to Image Processing: Pixels, Numbers, and Programs*](https://mitpress.mit.edu/books/interdisciplinary-introduction-image-processing) by Steven L. Tanimoto  
 * [Interesting video on computational photography](https://www.youtube.com/watch?v=PIbeiddq_CQ) from Nat and Friends  
 * [More image filter tutorials](https://idmnyu.github.io/p5.js-image/Filters/index.html) from Crystal Chen and Paolla Bruno Dutra  
 * You can [view the source code of the original Photoshop release](https://web.archive.org/web/20140507131754/http://www.computerhistory.org/atchm/adobe-photoshop-source-code/)  
