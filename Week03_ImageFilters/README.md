@@ -48,7 +48,7 @@ It would also be common to add sample UI on top of your images, so that clients 
 
 
 ### RESOURCES  
-* In this week's `Readings` folder, there is a PDF of Harley Mylser and Arthur Weeks' *The Pocket Handbook of Image Processing Algorithms in C* – not super easy to read but a great resource for seeing how common image processing tasks is accomplished  
+* PDF of *The Pocket Handbook of Image Processing Algorithms in C* by Harley Mylser and Arthur Weeks in the `Readings` folder – not super easy to read but a great resource (Ling Dong has created an [amazing port of this book to Processing!](https://github.com/LingDong-/Processing-Demos-for-The-Pocket-Handbook-of-Image-Processing-Algorithms))  
 * For a deep, mathy take, see [*An Interdisciplinary Introduction to Image Processing: Pixels, Numbers, and Programs*](https://mitpress.mit.edu/books/interdisciplinary-introduction-image-processing) by Steven L. Tanimoto  
 * [Interesting video on computational photography](https://www.youtube.com/watch?v=PIbeiddq_CQ) from Nat and Friends  
 * [More image filter tutorials](https://idmnyu.github.io/p5.js-image/Filters/index.html) from Crystal Chen and Paolla Bruno Dutra  
