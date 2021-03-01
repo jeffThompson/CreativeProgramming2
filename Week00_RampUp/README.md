@@ -9,6 +9,7 @@
 * Upload link to code in Canvas
 * Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas
 
+***
 
 ### ASSIGNMENT
 This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. You should find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`. (If you have only used the Java version of Processing, check out the tutorials link below for a quickstart guide to `p5.js`. Nearly everything is the same with a few minor differences.)
@@ -21,6 +22,7 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 
 *Above: a screenshot from the ReCode Project website*
 
+***
 
 ### DELIVERABLES
 * Sketch that re-creates an early piece of code-based art
@@ -30,6 +32,7 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 * Submit a link to your piece on Canvas
 * 1-paragraph response to [Vera Molnar interview](https://vimeo.com/273642211), posted as a comment on your assignment
 
+***
 
 ### CITATION
 At the top of your code, you should cite the work you're re-creating. Be sure to include at least the following:
@@ -42,12 +45,14 @@ Original media, if you have that information
 URL to where you found the piece
 ```
 
+***
 
 ### RESOURCES
 * [The ReCode Project](http://recodeproject.com), who inspired this assignment, has a website with lots of artworks from the 1970s, pulled from scans of the magazine *Computer Graphics and Art* (a PDF with all these can be found in this week's `Images` folder)
 * [Rhizome's *compart* database](http://dada.compart-bremen.de/browse/artwork?filter_type=item_type&filter_value=drawing) – most of the images are pretty small, so this might be a good jumping-off point to search for a better version
 * The V&A Museum in London has a great online collection – [this search should be a good starting point](http://collections.vam.ac.uk/search/?listing_type=list&offset=0&limit=15&narrow=1&extrasearch=&q=computer+art&quality=0&objectnamesearch=&placesearch=&after=&before=1980&namesearch=&materialsearch=&mnsearch=&locationsearch=) though you'll want to confirm the piece you're looking at was made with code
 
+***
 
 ### NOTE
 This project is inspired by the [ReCode Project](http://recodeproject.com), a "community-driven effort to preserve computer art by translating it into a modern programming language." Their site includes an archive of new versions but please don't look at others' code before finishing your project, it spoils the fun!

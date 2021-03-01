@@ -13,6 +13,7 @@
   * Upload three screenshots to Canvas
 * No need to turn in code for any part of this project
 
+***
 
 ### ASSIGNMENT
 > "Everything written symbols can say has already passed by. They are like tracks left by animals." – [Kimura Kyūho](https://crashinglybeautiful.tumblr.com/post/235327100/everything-written-symbols-can-say-has-already), 1768
@@ -25,12 +26,14 @@ We'll start with defining how the project's visuals should look, connecting them
 
 *Above: an animation by [Cecilia Erlich](https://dribbble.com/shots/8974488-New-ideas); the text reads "boredom is your imagination calling to you".*
 
+***
 
 ### CODE EXAMPLES/VIDEOS
 * [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDktRKA-93U6OXNqEKX8wuyN)
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/XPqAUU6EI)
 * [Written tutorial on setting up an external editor](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Resources/UsingAnExternalEditor.md) (there's a video for this too, if you want)
 
+***
 
 ### DELIVERABLES
 * Project experimenting with interactive typography for a brand
@@ -44,11 +47,13 @@ We'll start with defining how the project's visuals should look, connecting them
   * Upload three screenshots of the finished project to Canvas
 * No need to include link to code for any part of this project
 
+***
 
 ### STRETCH GOALS
 * Have your sketch auto-resize if the window size is changed
 * If you've done HTML/CSS before, you can add additional items to the page so you have something to scroll down to. Or even insert your sketch into the existing page!
 
+***
 
 ### FOR THURS, FEB 18: DESIGN BRIEF/CODE SKETCHES
 There are two main things for you to do this week: create a `pdf` design brief document and make two (or more) rough sketches in code.
@@ -80,12 +85,14 @@ You can make your brief in Word, Illustrator, etc. Save it as a `pdf` and upload
 
 When you're done, please make two (or more) sketches in code that explore possible directions for the project. These do not need to implement everything you want to do – in fact, you should avoid super complicated technical stuff for now! Instead, focus on the overall feel, interaction, etc. Take a screenshot of each sketch and upload them to Canvas too. We'll take a look at everything as a group and give you feedback.
 
+***
 
 ### FOR THURS, FEB 25: FINAL VERSION
 With the feedback you received in class, this week your job is to create a final version of your project. Be sure it runs fullscreen in the browser and adapts to different sizes. (This is part of a larger, much more complex process called ["responsive design."](https://www.w3schools.com/html/html_responsive.asp))
 
 When it's done, take three representative screenshots of your piece runnning. These are your documentation, so pick moments that really show the interaction and highlight the cool parts of your project. Upload the screenshots to Canvas – no need to submit code.
 
+***
 
 ### INSPIRATION
 * Everything made by [DIA Studio](https://dia.tv/toc/)
@@ -118,6 +125,7 @@ When it's done, take three representative screenshots of your piece runnning. Th
 * [*Decomposed Ritual Symbols*](https://www.seditionart.com/zhang-zhan/collection/decomposed-ritual-symbols) by Zhang Zhan (on the platform *Sedition*, which sells digital artworks)
 * Beautiful [book of choreographic notation](https://publicdomainreview.org/collection/collection-of-dances-in-choreography-notation-1700) from 1700
 
+***
 
 ### RESOURCES
 * Where to find fonts? These are good places to start:

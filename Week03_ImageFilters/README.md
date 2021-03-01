@@ -10,6 +10,7 @@
   * Upload three images manipulated by your filter to Canvas  
 * No need to turn in code for this project  
 
+***
 
 ### ASSIGNMENT  
 In 1990, Adobe released version 1.0 of Photoshop, a new image-manipulation software that would become so ubiquitous that its name would is used as a verb. In that first official release, Photoshop included filters, algorithms that could go beyond adjusting a photograph and do fun things like blur and image or make it look like a pencil drawing. (Or you could just [run all of the filters](https://www.mentalfloss.com/article/19616/every-photoshop-filter) on one image.) Later, platforms like Instagram, Snapchat, and Tiktok would employ more complex filters (also called "effects") to make a photo look vintage, smoosh your face, and make super weird images with [slit scanning](https://en.wikipedia.org/wiki/Slit-scan_photography). This week, we'll explore images "under the hood," looking at how to view  the pixel values of an image, then find creative ways to manipulate those pixels to make our own filters.
@@ -18,11 +19,13 @@ For this project, your assignment is to create the weirdest, most interesting, f
 
 *Above: a "liquify" example from the Adobe blog by Şakir Yildirim from his "Crawler" series*
 
+***
 
 ### CODE EXAMPLES/VIDEOS  
 * [Video tutorials for this week]()  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/lImWSKT1-)  
 
+***
 
 ### PROJECT TEMPLATE  
 In order to create projects for specific platforms, a good first step is to find the ideal format and understand the restrictions that platform has. Usually Googling "Instagram story format 2021" will get you an article with up-to-date info. I've put together some basics for you to get started:
@@ -36,6 +39,7 @@ In order to create projects for specific platforms, a good first step is to find
 
 It would also be common to add sample UI on top of your images, so that clients and others can see your work in context. The quickest way to do this would be to buy a PNG or Illustrator overlay or take an hour or two and make one yourself – I've gone ahead and made them for you! You can find them in the `Resources` folder, including the Illustrator file they were made with so you can modify the text, add profile images, etc!
 
+***
 
 ### INSPIRATION  
 * The early-20th-century painting movement [*Pointillism*](https://en.wikipedia.org/wiki/Pointillism), such as [this amazing painting by Paul Signac](https://en.wikipedia.org/wiki/Paul_Signac#/media/File:Paul_Signac,_1893,_Femme_%C3%A0_l'ombrelle,_oil_on_canvas,_81_x_65_cm,_Mus%C3%A9e_d'Orsay.jpg)  
@@ -46,6 +50,7 @@ It would also be common to add sample UI on top of your images, so that clients 
 * [*s8-grn-1a*](https://vimeo.com/305185958) and [*Flexible Pixels*](https://bengrosser.com/projects/flexible-pixels) by Ben Grosser  
 * [Some cool examples of glitchy videos](https://glitchart.com/bpmc-players-ball-08-17) from Glitchart.com  
 
+***
 
 ### RESOURCES  
 * PDF of *The Pocket Handbook of Image Processing Algorithms in C* by Harley Mylser and Arthur Weeks in the `Readings` folder – not super easy to read but a great resource (Ling Dong has created an [amazing port of this book to Processing!](https://github.com/LingDong-/Processing-Demos-for-The-Pocket-Handbook-of-Image-Processing-Algorithms))  

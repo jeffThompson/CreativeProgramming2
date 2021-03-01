@@ -18,6 +18,7 @@ We'll start with a quick ramp-up project re-creating historical artworks made wi
 
 See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course policies, grading, etc.
 
+***
 
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
