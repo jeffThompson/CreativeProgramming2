@@ -39,30 +39,30 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Demos       | Touch input, prototyping on mobile devices |
 | Homework    | Finish `Interactive Typography` project |
 
-| FEB 25      | IMAGE FILTERS |
+| FEB 25      | [IMAGE FILTERS](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters) |
 | :---        | :--- |
 | Demos       | Filters, accessing pixel values, kernels |
 | Homework    | `Image Filter` |
 
-| MAR 4       | TRACKING 1 |
+| MAR 4       | [TRACKING 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week04_Tracking) |
 | :---        | :--- |
-| Demos       | Camera input, extracting information from images, detecting colors and blobs |
+| Demos       | Camera input, extracting information from images, detecting colors and objects |
 | Homework    | `Tracking` project sketches and proof-of-concept |
 
-| MAR 11      | TRACKING 2 |
+| MAR 11      | [TRACKING 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week04_Tracking) |
 | :---        | :--- |
-| Demos       | Gesture detection, cameras for installations, screen recordings |
+| Demos       | Cameras for installations, creating Github repositories, `readme` files and Markdown |
 | Homework    | Finish `Tracking` project |
 
 | MAR 18      | MASK 1 |
 | :---        | :--- |
-| Demos       | Creating Github repositories, detecting faces and features |
+| Demos       | Detecting faces and features |
 | Homework    | `Mask` research, sketches, and proof-of-concept |
 | Reading     | *Shape of Content* (Ben Shahn), *Introducing Myself* (Ursula Le Guin) |
 
 | MAR 25      | MASK 2 |
 | :---        | :--- |
-| Demos       | Writing a `README`, updating a repository |
+| Demos       | Screen recordings, frame export, `ffmpeg` |
 | Homework    | Finish `Mask` project, create repository |
 
 | APR 1       | SIMULATION 1 |
