@@ -22,7 +22,7 @@ For this project, your assignment is to create the weirdest, most interesting, f
 ***
 
 ### CODE EXAMPLES/VIDEOS  
-* [Video tutorials for this week]()  
+* [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDkDT1Kr4oy5tmpd2N3LP9qJ)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/lImWSKT1-)  
 
 ***
