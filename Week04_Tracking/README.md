@@ -4,20 +4,19 @@
 
 ### TLDR  
 * Project that uses tracking to create an interactive experience  
-* For Thurs, March 11:  
+* [For Thurs, March 11](#for-thursday-march-11):  
   * At least 10 project sketches (digital or in your sketchbook)  
   * Rough version of your code with tracking working  
-* For Thurs, March 18:  
+* [For Thurs, March 18](#for-thursday-march-18):  
   * A repository with your project's code  
   * A `README` file in your repo, including:  
     * A description of your project  
     * Three screenshots of it running  
-  * Upload link to repo in Canvas
+  * Upload link to repo in Canvas (no need to upload screenshots or code)  
 
 ***
 
-### ASSIGNMENT 
-
+### ASSIGNMENT  
 We've now looked at how to traverse the pixels in an image and manipulate them in different ways. The field of [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) all about using those pixels to extract information from images, whether that be the location of faces, analysis of a person's [gait](https://books.google.com/books?id=uClKDwAAQBAJ&pg=PT226&lpg=PT226&dq=computer+vision+identification+gait+stone+in+shoe&source=bl&ots=NBR0nFC6DL&sig=ZdH74-NGOj-sWCbV9MBM8tbFkmQ&hl=en&sa=X&ved=0ahUKEwjD_-mbnqPZAhVJwlkKHeBABcMQ6AEIKTAA#v=onepage&q=computer%20vision%20identification%20gait%20stone%20in%20shoe&f=false) or [emotional state](https://www.affectiva.com/emotion-ai-overview/), [identifying objects](https://www.kaggle.com/c/cifar-10) in a scene, and [self-driving cars](https://media.giphy.com/media/GQZ0ajY3o5tS/giphy.gif). These technologies are increasingly embedded (and often unseen) in our devices and tools, and are used in contexts ranging from taking better selfies to surveillance and military technologies... and can be used to make interactive art!
 
 Your assignment is to explore computer vision in a way that is visual, creative, poetic, and/or critical of those tools. You can use color tracking, optical flow, or object detection (we'll get to face and skeleton tracking next, so please hold off on that for now!). 
@@ -30,6 +29,32 @@ Some things to think about:
 * Or non-code processes: hand-drawn images, graphics created in Illustrator, photographs  
 
 A technical aside: our brains are really good at seeing patterns and extracting objects using data from our eyes (about 30% of the cortex is used for visual processing, while only 8% for touch and 3% for hearing). You may at times find yourself frustrated that the computer glitches while tracking colors or identifying objects: remember how bananas it is that it can do this at all!
+
+***
+
+### CODE EXAMPLES/VIDEOS  
+* [Video tutorials for this week]()  
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/lImWSKT1-)  
+
+***
+
+### FOR THURSDAY, MARCH 11  
+This week you should start ideating and prototyping your project.
+
+**IDEATION DRAWINGS**  
+Spend at least an hour making at least 10 drawings of ideas in your sketchbook (or digitally). Try to come up with as many ideas as possible and iterate on the ones you get excited about. What will you track? What visuals will we see? How will the piece evolve over time? Consider using diagrammatic marks (arrows, annotations) too.
+
+**ROUGH PROTOTYPE**  
+After you're done drawing, look over everything and figure out what is most exciting to you. Start building a rough prototype in code, with a focus on the core interaction rather than visual fluff. For example, if you want to make one-player pong by tracking a banana, get the COCO model working and figure out the basic mechanics. You can work on the visuals too, but be sure the main tech is working first (you'll refine the visuals next week).
+
+No need to turn in anything on Canvas this week – bring your sketchbook/drawings and rough code to class.
+
+***
+
+### FOR THURSDAY, MARCH 18  
+For next week, please finish your project and create a Github repository with a `README` file and three screenshots of your piece running. (See the `Resources` folder for more info on creating a repo and working with Markdown files.)
+
+When you're done, submit a link to your repo on Canvas.
 
 ***
 
@@ -49,11 +74,6 @@ A technical aside: our brains are really good at seeing patterns and extracting 
 - paul pfeiffer basketball piece
 https://www.npr.org/sections/allsongs/2017/10/13/557324946/how-dan-deacon-collaborated-with-rats-to-make-his-latest-film-score
 https://projectfoyer.com/kadewe/
-
-cams for tracking
-- https://www.sparkfun.com/products/14392
-- https://www.sparkfun.com/products/14632
-
 
 ***
 
