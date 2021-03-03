@@ -78,9 +78,7 @@ When you're done, submit a link to your repo on Canvas.
 ***
 
 ### RESOURCES  
-* Writeup on [computer vision in art](http://www.flong.com/texts/essays/essay_cvad/), including some sample code, from Golan Levin  
+* Writeup on [computer vision in art](http://www.flong.com/archive/texts/essays/essay_cvad/index.html) from Golan Levin  
 * A nice, simple [tutorial that explains one method for blob detection](https://www.learnopencv.com/blob-detection-using-opencv-python-c/) using several thresholded versions of the input image  
-* Lots more (mathy) explanations on [Wikipedia](https://en.wikipedia.org/wiki/Blob_detection)  
-* And some (mathy) ways to do [better blob-centroid finding](https://blog.mapbox.com/a-new-algorithm-for-finding-a-visual-center-of-a-polygon-7c77e6492fbc)  
 * Get yourself ready for blobs by watching the [1958 movie of the same name](https://en.wikipedia.org/wiki/The_Blob)  
 
