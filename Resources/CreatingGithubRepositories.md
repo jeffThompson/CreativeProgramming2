@@ -1,14 +1,13 @@
 # CREATING GITHUB REPOSITORIES  
-
-### TLDR  
+ 
 * [Install Github Desktop](#install-the-github-desktop-app)  
 * [Minimal repository](#a-minimal-repository)  
 * [Create a repository](#create-your-repo)  
-* [Writing Markdown files](#writing-markdown-files)  
+* [Writing Markdown files](#readme-and-markdown)  
 * [Publish your repository](#publishing-your-repo)  
 * [Update your repository](#update-your-repo)  
 
-Github is a popular site for sharing code projects. It allows you to share your work with others, participate in open-source projects, and can be a great professional tool. (It's also fantastic for version control and collaboration on larger projects!)
+Github is a popular site for sharing code projects. It allows you to share your work with others, participate in open-source projects, and can be a [great professional tool](https://happygitwithr.com/big-picture.html#what-is-the-payoff). (It's also fantastic for version control and collaboration on larger projects!)
 
 In Creative Programming 1, you used Github to access course materials. This semester, you'll become more familiar with the platform by turning in your remaining projects as Github repositories. While Github has a ton of complex functions and can even be accessed through the command line, for our purposes we'll just be creating and updating repos.
 
@@ -22,18 +21,18 @@ First, download and install the [Github Desktop app](https://desktop.github.com/
 
 ### A MINIMAL REPOSITORY  
 
-A [*repository*](https://en.wikipedia.org/wiki/Repository_(version_control)) is a place (local on your computer or with a service like Github) that not only keeps all your files but allows others to view and download your project (if you've enabled that) and keeps previous versions of files too.
+A [*repository*](https://en.wikipedia.org/wiki/Repository_(version_control)) is a place (local on your computer or with a service like Github) that not only keeps all your files but allows others to view and download your project (if you've enabled that) and keeps previous versions of files too. Or, as [Jenny Bryan and Jim Hester put it](https://happygitwithr.com/big-picture.html): think of Github as Microsoft Word's `Track Changes` on steroids.
 
 Any repository you create should include at least the following:  
 
 * Your code (which should be clean and commented)  
-* Any supporting files required for your project  
+* Any supporting files required for your project such as images, fonts, and other Javascript files  
 * A `README` file explaining what the project is (more details below)  
 * For creative projects, at least one screenshot of the piece running  
 
 Optionally, you may want to include:  
 
-* Link to a video of the piece running  
+* Link to a video of the piece running and/or more images  
 * A license for your project (Github lets you create them in the app!)  
 * Tutorial (in the `README` or a separate file) explaining how to install and run the piece and/or how it works  
 * Citations to projects that inspired yours, code or tutorials that you used, etc  
@@ -52,10 +51,7 @@ Optionally, you may want to include:
 3. Click `Create Repository`  
 4. Move your files to the folder that Github creates  
 
-Your repo is technically ready, but you'll want to do a few more things before publishing it.
-
-**UPDATE `README` file**  
-The `README.md` file that was created when you made the repo is super minimal, so you'll want to add more to it. See the [next section for more info on editing Markdown](#writing-markdown-files).
+Your repo is technically ready, but you'll want to do a few more things before publishing it...
 
 **IGNORED FILES**  
 There may be files/folders in your project that you don't want included in the repo. You can change what files are ignored by going to `Repository > Repository Settings > Ignored Files...`.
@@ -66,9 +62,8 @@ There may be files/folders in your project that you don't want included in the r
 
 ***
 
-### WRITING MARKDOWN FILES  
-
-Github's default `README` format uses Markdown, an amazing and straightforward way of creating rich text in a simple text file. Originally created by [John Gruber](https://en.wikipedia.org/wiki/John_Gruber), Markdown lets you include text, headers, links, images, tables, and even images and YouTube videos!
+### `README` AND MARKDOWN  
+One thing every repository needs is a [`README` file](https://en.wikipedia.org/wiki/README): this document, usually a simple text file of some kind, outlines the project's details. Github's default `README` format uses Markdown, an amazing and straightforward way of creating rich text in a simple text file. Originally created by [John Gruber](https://en.wikipedia.org/wiki/John_Gruber), Markdown lets you include text, headers, links, images, tables, and even images and YouTube videos!
 
 [For a full explanation of the Markdown syntax, see this page.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) You can also view the syntax of any Markdown file on Github (including this one and all our assignments!) by clicking on the `Raw` button in the upper-right corner when viewing the file.
 
@@ -76,11 +71,11 @@ A basic template might look like this:
 
     ![Alt text for the screenshot](https://www.github.com/url/to/a/screenshot/in/your/repo)  
 
-    # REPO NAME  
-    A paragraph explaining the project, what it does, etc.
+    # PROJECT NAME  
+    A paragraph or two explaining the project, what it does, etc
 
-    ### INSTRUCTIONS  
-    Optionally, include sections like instructions to run the piece, install diagrams, required code libraries, etc.
+    ### INSTRUCTIONS, ETC  
+    Optionally, include sections like instructions to run the piece, install diagrams, required code libraries, etc
 
 You can edit Markdown files in any text editor or directly on the Github website, which gives a nice realtime preview and is great for beginners. Remember that your repo is the public-facing version of your project: spell-check your work and take time to make everything look nice, it counts for a lot!
 
@@ -90,8 +85,6 @@ You can edit Markdown files in any text editor or directly on the Github website
 When everything is ready, click the `Publish Repo` button in the upper-right corner of the Github Desktop app. This may take a while the first time, especially if you have any large files in the repo.
 
 Once everything is uploaded, check that it appears online correctly. Update the `README`, filenames, etc so it's ready for the public to view. Don't worry if something looks wrong! In the next section we'll look at how to update your repository.
-
-You can change settings for your repo, such as its name and visibility, on the repo's site.
 
 ***
 
@@ -107,5 +100,5 @@ As you make changes to your project, you will want to update the repo online:
 	* Don't include generic commit messages like "update"  
 	* Be specific! Things like "fixed image loading problem" or "cleaned up readme" is much better  
 
-Creating great repos is an art and takes practice!
+You can change settings for your repo, such as its name and visibility, on the repo's site.
 
