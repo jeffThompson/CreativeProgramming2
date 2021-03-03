@@ -1,4 +1,4 @@
-![Image segmentation of a figure skater](Images/ImageSegmentation2.png)
+![Grid of images of a figure skater, processed using "image segmentation," where the computer is able to do something your brain can do so easily: tell objects apart](Images/ImageSegmentation2.png)
 
 # TRACKING
 
@@ -17,7 +17,7 @@
 ***
 
 ### ASSIGNMENT  
-We've now looked at how to traverse the pixels in an image and manipulate them in different ways. The field of [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) all about using those pixels to extract information from images, whether that be the location of faces, analysis of a person's [gait](https://books.google.com/books?id=uClKDwAAQBAJ&pg=PT226&lpg=PT226&dq=computer+vision+identification+gait+stone+in+shoe&source=bl&ots=NBR0nFC6DL&sig=ZdH74-NGOj-sWCbV9MBM8tbFkmQ&hl=en&sa=X&ved=0ahUKEwjD_-mbnqPZAhVJwlkKHeBABcMQ6AEIKTAA#v=onepage&q=computer%20vision%20identification%20gait%20stone%20in%20shoe&f=false) or [emotional state](https://www.affectiva.com/emotion-ai-overview/), [identifying objects](https://www.kaggle.com/c/cifar-10) in a scene, and [self-driving cars](https://media.giphy.com/media/GQZ0ajY3o5tS/giphy.gif). These technologies are increasingly embedded (and often unseen) in our devices and tools, and are used in contexts ranging from taking better selfies to surveillance and military technologies... and can be used to make interactive art!
+We've now looked at how to traverse the pixels in an image and manipulate them in different ways. The field of [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (CV) all about using those pixels to extract information from images, whether that be the location of faces, analysis of a person's [gait](https://books.google.com/books?id=uClKDwAAQBAJ&pg=PT226&lpg=PT226&dq=computer+vision+identification+gait+stone+in+shoe&source=bl&ots=NBR0nFC6DL&sig=ZdH74-NGOj-sWCbV9MBM8tbFkmQ&hl=en&sa=X&ved=0ahUKEwjD_-mbnqPZAhVJwlkKHeBABcMQ6AEIKTAA#v=onepage&q=computer%20vision%20identification%20gait%20stone%20in%20shoe&f=false) or [emotional state](https://www.affectiva.com/emotion-ai-overview/), [identifying objects](https://www.kaggle.com/c/cifar-10) in a scene, and [self-driving cars](https://giphy.com/gifs/producthunt-self-driving-cars-l0Ex7BYYtv4NXR6z6/fullscreen). These technologies are increasingly embedded (and often unseen) in our devices and tools, and are used in contexts ranging from taking better selfies to surveillance and military technologies... and can be used to make interactive art!
 
 Your assignment is to explore computer vision in a way that is visual, creative, poetic, and/or critical of those tools. You can use color tracking, optical flow, or object detection (we'll get to face and skeleton tracking next, so please hold off on that for now!). 
 
@@ -29,6 +29,8 @@ Some things to think about:
 * Or non-code processes: hand-drawn images, graphics created in Illustrator, photographs  
 
 A technical aside: our brains are really good at seeing patterns and extracting objects using data from our eyes (about 30% of the cortex is used for visual processing, while only 8% for touch and 3% for hearing). You may at times find yourself frustrated that the computer glitches while tracking colors or identifying objects: remember how bananas it is that it can do this at all!
+
+*Above: "image segmentation," a process where the computer is able to do something your brain can do so easily: tell objects apart*
 
 ***
 
