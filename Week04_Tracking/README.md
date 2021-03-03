@@ -82,5 +82,6 @@ When you're done, submit a link to your repo on Canvas.
 * Writeup on [computer vision in art](http://www.flong.com/archive/texts/essays/essay_cvad/index.html) from Golan Levin  
 * A nice, simple [tutorial that explains one method for blob detection](https://www.learnopencv.com/blob-detection-using-opencv-python-c/) using several thresholded versions of the input image  
 * If your project is a game or otherwise involves collision, I [built a whole tutorial site on the topic](http://www.jeffreythompson.org/collision-detection) that might be helpful!  
+* Detailed article on [why dilation and erosion are helpful for computer vision](https://docs.opencv.org/2.4/doc/tutorials/imgproc/erosion_dilatation/erosion_dilatation.html)  
 * Get yourself ready for blobs by watching the [1958 movie of the same name](https://www.youtube.com/watch?v=TdUsyXQ8Wrs)  
 
