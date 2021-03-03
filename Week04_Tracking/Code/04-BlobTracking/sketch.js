@@ -140,15 +140,16 @@ class Blob {
     this.w;
     this.h;
     this.outline;     // outline of the blob
-    this.convexHull;  // convex hull (outline with no concave)
+    this.convexHull;  // convex hull (outline with no concavity)
     this.bbox;        // bounding box too
 
     // find the blobs!
     this.getOutline(src);
     
-    // calculate centroid using the convex hull
-    // (also calculates the bounding box)
+    // calculate centroid and bounding box using
+    // the convex hull points
     this.getCentroid(this.convexHull)
+    this.getBoundingBox(this.convexHull);
 
     // calculate the area
     // (using either the outline or convex hull)
@@ -184,11 +185,36 @@ class Blob {
     }
   }
 
-  // calculate the bounding box and center of the blob
-  // (note: this is a super simple way to find the 
-  // center and doesn't take into account the shape/
-  // visual weight of the blob)
+  // calculate the center of the blob
+  // via: https://bell0bytes.eu/centroid-convex
   getCentroid(pts) {
+    let centroidX =   0;
+    let centroidY =   0;
+    let determinant = 0;
+    let j = 0;
+    for (let i=0; i<pts.length; i++) {
+      if (i+1 === pts.length) {
+        j = 0;
+      }
+      else {
+        j = i+1;
+      }
+
+      let tempDeterminant = pts[i].x * pts[j].y - pts[j].x * pts[i].y;
+      determinant += tempDeterminant;
+
+      centroidX += (pts[i].x + pts[j].x) * tempDeterminant;
+      centroidY += (pts[i].y + pts[j].y) * tempDeterminant;
+    }
+
+    centroidX /= 3 * determinant;
+    centroidY /= 3 * determinant;
+
+    this.centroid = createVector(centroidX, centroidY);
+  }
+
+  // calculate the bounding box of the blob
+  getBoundingBox(pts) {
     let minX = Number.MAX_VALUE;
     let maxX = Number.MIN_VALUE;
     let minY = Number.MAX_VALUE;
@@ -207,15 +233,12 @@ class Blob {
         maxY = pt.y;
       }
     }
-    let w = maxX - minX;
-    let h = maxY - minY;
     this.bbox = {
       x: minX,
       y: minY,
-      w: w,
-      h: h
+      w: maxX - minX,
+      h: maxY - minY
     };
-    this.centroid = createVector(minX+w/2, minY+h/2);
   }
 
   // calculate area using the shoelace formula

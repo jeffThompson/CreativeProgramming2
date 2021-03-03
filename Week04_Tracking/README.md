@@ -34,7 +34,7 @@ A technical aside: our brains are really good at seeing patterns and extracting 
 
 ### CODE EXAMPLES/VIDEOS  
 * [Video tutorials for this week]()  
-* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/lImWSKT1-)  
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/sw-DMai_t)  
 
 ***
 
@@ -67,13 +67,11 @@ When you're done, submit a link to your repo on Canvas.
 * [*Messa di Voce*](http://www.flong.com/projects/messa/), a performance by Jaap Blink with interactive visualizations by Golan Levin, Zach Lieberman, and Joan La Barbara  
 * Golan Levin and Kyle McDonald's [*Eyeshine*](http://www.flong.com/projects/eyeshine/) and [*Augmented Hand Series*](http://www.flong.com/projects/augmented-hand-series/) (with Chris Sugrue)  
 * David Rokeby's [*Giver of Names*](http://www.davidrokeby.com/gon.html)  
+* Dan Deacon's score for [*Rat Film*](https://www.npr.org/sections/allsongs/2017/10/13/557324946/how-dan-deacon-collaborated-with-rats-to-make-his-latest-film-score)  
+* Samsung's [*Windows into the Future*](https://projectfoyer.com/kadewe/), which includes some great behind-the-scenes info  
 * This pretty fun [Harry Potter World wand](https://www.youtube.com/watch?v=iKUC0EbHw20), which lets you control things around the park (using infrared blob tracking!)  
 * Adam Harvey's [visualization of how face detection in OpenCV sees a face](https://vimeo.com/12774628) 
 
-
-- paul pfeiffer basketball piece
-https://www.npr.org/sections/allsongs/2017/10/13/557324946/how-dan-deacon-collaborated-with-rats-to-make-his-latest-film-score
-https://projectfoyer.com/kadewe/
 
 ***
 
