@@ -2,6 +2,10 @@
 BLOB DETECTION
 Jeff Thompson | 2021 | jeffreythompson.org
 
+Note! This example doesn't run super well in the
+p5.js Editor – you may have a better experience
+downloading and running this example locally.
+
 Color detection is super simple with basic p5.js
 commands; object detection is really complicated
 and uses neural networks trained on hundreds of

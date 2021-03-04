@@ -2,6 +2,10 @@
 OBJECT DETECTION (with TensorFlow.js)
 Jeff Thompson | 2021 | jeffreythompson.org
 
+Note! This example doesn't run super well in the
+p5.js Editor – you may have a better experience
+downloading and running this example locally.
+
 In the past few years, we've seen a huge jump in
 performance and availability of new tools for
 helping computers see and identify objects in the
