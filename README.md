@@ -51,7 +51,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | MAR 11      | [TRACKING 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week04_Tracking) |
 | :---        | :--- |
-| Demos       | Cameras for installations, creating Github repositories, `readme` files and Markdown |
+| Demos       | Creating Github repositories, `readme` files and Markdown |
 | Homework    | Finish `Tracking` project |
 
 | MAR 18      | MASK 1 |
