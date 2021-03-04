@@ -67,13 +67,15 @@ One thing every repository needs is a [`README` file](https://en.wikipedia.org/w
 
 A basic template might look like this:  
 
-    ![Alt text for the screenshot](https://www.github.com/url/to/a/screenshot/in/your/repo)  
+```markdown
+![Alt text for the screenshot](https://www.github.com/url/to/a/screenshot/in/your/repo)  
 
-    # PROJECT NAME  
-    A paragraph or two explaining the project, what it does, etc
+# PROJECT NAME  
+A paragraph or two explaining the project, what it does, etc
 
-    ### INSTRUCTIONS, ETC  
-    Optionally, include sections like instructions to run the piece, install diagrams, required code libraries, etc
+### INSTRUCTIONS, ETC  
+Optionally, include sections like instructions to run the piece, install diagrams, required code libraries, etc
+```
 
 You can edit Markdown files in any text editor or directly on the Github website, which gives a nice realtime preview and is great for beginners. Remember that your repo is the public-facing version of your project: spell-check your work and take time to make everything look nice, it counts for a lot!
 
