@@ -36,7 +36,7 @@ Our brains are really good at seeing patterns and extracting objects using data 
 ***
 
 ### CODE EXAMPLES/VIDEOS  
-* [Video tutorials for this week]()  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDmghIwGww77MRn1vvKjPVqV)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/sw-DMai_t)  
 
 ***
