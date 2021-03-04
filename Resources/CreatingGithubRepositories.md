@@ -100,7 +100,10 @@ As you make changes to your project, you will want to update the repo on Github 
 	* Don't include generic commit messages like "update"  
 	* Be specific! Things like "fixed image loading problem" or "cleaned up readme" is much better  
 
-If you change a file on the Github website (for example, if you edit your `README` file), you'll want to `pull` those changes to your computer. In the Github app, click the `Fetch origin` button, which syncs the list of files between your computer and Github. Then click `Pull origin` to download the changed files.
+If you change a file on the Github website (for example, if you edit your `README` file), you'll want to `pull` those changes to your computer: 
+
+* In the Github app, click the `Fetch origin` button, which syncs the list of files between your computer and Github  
+* Click `Pull origin` to download the changed files  
 
 You can change settings for your repo, such as its name and visibility, on the repo's site.
 
