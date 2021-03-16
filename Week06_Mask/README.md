@@ -1,0 +1,88 @@
+![](Images/PowerGoo_FaceSwapPredescessor.png)
+
+# MASK  
+
+### TLDR  
+* Create a mask that explores your identity  
+* Use face tracking (and, optionally, skeleton tracking)  
+* [For Thurs, March 25](#for-thurs-march-25):  
+  * List 30 things your mask might show    
+  * Pick at least three things from that list, come up with ways to add them to your mask  
+  * Make a drawing of your mask, using annotations as needed  
+  * Read *Shape of Content* and *Introducing Myself*  
+* [For Thurs, April 1](#for-thurs-april-1):  
+  * Finish project  
+  * Screen recording of you project running  
+  * Create Github repo with `README`, screenshot, link to your recording, and description of the project and imagery used  
+
+***
+
+### ASSIGNMENT  
+
+> "Who sees the human face correctly: the photographer, the mirror, or the painter?" <br>– Picasso
+
+> "Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes.)" <br> – [Walt Whitman](https://poets.org/poem/song-myself-51)  
+
+For our next project, we'll use face tracking to create a digital mask that is a self-portrait. Overlaid in realtime using `tensorflow.js` and `p5.js`, your mask should talk about your identity while being a visually rich experience. You'll think about who you are and what things are core to your identity: your personality, background, interests, values, and anything else that you want to share.
+
+The approach you take is up to you: your mask might be made of shapes drawn in code, a collage of images (or even videos!) on top of your face, typography, or some combination. Elements can be static or respond to your movements or even be interactive using your face. You might cover portions of your face or reveal others. The goal here is to not just think about making a visually cool project but one where your aesthetic decisions come together to tell a story about how you see and present yourself to the world.
+
+***
+
+### CODE EXAMPLES/VIDEOS  
+* [Video tutorials for this week]()  
+* [Code examples in the `p5.js` Editor]()
+
+***
+
+### FOR THURS, MARCH 25  
+This week, you should spend time thinking about what parts of your identity you want to show us and how you will do so. We are all complicated, made of many interconnected (and sometimes contradictory) parts. One of the beautiful things about art is that it can contain all those things.
+
+Start by listing everything you can about yourself, aiming for at least 30 things – we won't share these lists with the group. From this list, identify at least three things you want your mask to show and, for each one, come up with ways you can display them as part of your mask. What you choose to tell us about your identity is up to you as is the extent to which those things are clear to us: symbols, metaphors, and oblique references are all options if you prefer not to be entirely direct with the viewer. Think too about ways that these things might move, change, or interact as your face moves.
+
+With your symbols/objects figured out, make a drawing of what you want your mask to look like. Be as detailed as possible – this is a great way to work out your ideas before diving into code. Annotations like arrows, labels, etc can help explain your ideas. When you're done, photograph your drawing (if it's analog) and upload to Canvas. If you have time, you can also start prototyping your mask in code.
+
+Please also read *Shape of Content* by Ben Shahn (1957) and *Introducing Myself* by Ursula Le Guin (ca 1980s). Both pieces talk about developing imagery, symbols, and ideas in ones' work.
+
+***
+
+### FOR THURS, APRIL 1  
+\[ coming soon \]
+
+***
+
+### INSPIRATION  
+* Nick Cave's [*Soundsuits*](https://art21.org/artist/nick-cave/) series  
+* Tony Oursler's many works involving video and faces, including [*A\*gR_3*](https://tonyoursler.com/agr_3-madrid), his [show at Lehman Maupin in 2015 (includes some videos of the pieces running)](https://tonyoursler.com/lehmann-maupin-new-york), and [*Classifier Cascades*](https://tonyoursler.com/classifier-cascades-greece)   
+* [*Human Traits*](http://patricktresset.com/new/project/human-traits-2015/) by Patrick Tresset  
+* Lorna Simpson's [*Easy to Remember*](https://vimeo.com/91549843)  
+* Andrea Gagliano's [*Madam President*](https://andrea-gagliano.com/madam_president.html)  
+* Coralie Vogelaar's [*Emotions from an Algorithmic Point of View*](https://www.coralievogelaar.com/performance.html) and [*Random String of Emotions*](https://www.coralievogelaar.com/Random.html)  
+* Some really great projects by Rafael Lozano-Hemmer, including [*Blow Up*](http://www.lozano-hemmer.com/blow_up.php) and [*Zoom Pavilion*](http://www.lozano-hemmer.com/zoom_pavilion.php)  
+* [*MegaPixels: Face Database Query*](https://ahprojects.com/notebook/2017/megapixels/) and [*CV Dazzle*](https://cvdazzle.com/) by Adam Harvey
+* [*Facial Weaponization Suite*](http://www.zachblas.info/works/facial-weaponization-suite/) and [*Face Cages*](http://www.zachblas.info/works/face-cages/) by Zach Blas  
+* Matthew Plummer-Fernandez's eerie [*Unique Visitors*](http://unique-visitors.tumblr.com/) breeds random 3D faces until they are recognized by OpenCV  
+* Jason Salavon's [*The Class of 1988 & The Class of 1967*](http://www.salavon.com/work/Class/) and [*Portrait*](http://www.salavon.com/work/Portrait/)  
+* Heather Dewey-Hagborg's [*Stranger Visions*](http://deweyhagborg.com/projects/stranger-visions), where she collected gum and other trash from public spaces in NYC, extracted the DNA, and reconstructed 3D faces  
+* [*People Staring at Computers*](https://vimeo.com/25958231) by Kyle McDonald  
+* [*Face Maker* app](http://prostheticknowledge.tumblr.com/post/169232693186/face-maker-ios-app-by-tim-sears-for-iphone-x-lets) by Tim Sears  
+* Using only darkroom technology, Nancy Burson's [*Composite Silver Prints*](http://nancyburson.com/composite-silver-prints/)  
+* [*Cheese*](http://christianmoeller.com/Cheese) by Christian Moeller, which asks viewers to smile as long as possible  
+* Daito Manabe's [*Face Projection*](http://www.daito.ws/en/work/face-projection.html#5) experiments  
+* One of Mario Klingemann's [many neural network face experiments](https://www.youtube.com/watch?v=5h4R959O0cY&feature=youtu.be) (see also his [Flickr feed](https://www.flickr.com/photos/quasimondo/albums))  
+* The super weird painting [*The Jurist*](https://www.giuseppe-arcimboldo.org/The-Jurist-1566.html) from 1566 by Guiseppe Arcimboldo, which shows a figure made out of raw chicken, fish, and a pile of books  
+* Some examples from my own practice, using my blog as a digital sketchbook to record random experiments: [photo-merging eight faces in Photoshop](http://www.jeffreythompson.org/blog/2013/12/17/photomerged-faces/) and [degrading a photo of a face until OpenCV no longer recognizes it](http://www.jeffreythompson.org/blog/2012/05/22/no-longer-a-face/)  
+* Find lots of other face-related projects by [searching Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
+* And [another great list](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Faces-in-Media-Art) from Kyle McDonald  
+
+***
+
+### RESOURCES  
+* Lots of online face and emotion recognition tools, like [this one from Amazon](https://console.aws.amazon.com/rekognition), [this one from Google](https://cloud.google.com/vision/docs/detecting-faces)  
+* Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
+* [Chernoff faces](https://en.wikipedia.org/wiki/Chernoff_face) are an interesting model for data visualization involving faces  
+* A lot of vision research points to our sight being driven by contrast, much like the edges in neural networks. For example, [this article on toad vision](https://en.wikipedia.org/wiki/Feature_detection_%28nervous_system%29#In_toad_vision), which links to [this crazy video](https://av.tib.eu/media/15148#t=0,00:25)  
+* Do you see faces in random objects? It's a phenomenon called [pareidolia](https://en.wikipedia.org/wiki/Pareidolia)  
+* [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System), a system to numerically encode facial expressions  
+* Face recognition can be [tricked by invisible infrared light](https://boingboing.net/2018/03/26/the-threaten-from-infrared.html), making the computer think you're someone else  
+

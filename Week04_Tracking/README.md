@@ -73,8 +73,7 @@ When you're done, submit a link to your repo on Canvas.
 * Dan Deacon's score for [*Rat Film*](https://www.npr.org/sections/allsongs/2017/10/13/557324946/how-dan-deacon-collaborated-with-rats-to-make-his-latest-film-score)  
 * Samsung's [*Windows into the Future*](https://projectfoyer.com/kadewe/), which includes some great behind-the-scenes info  
 * This pretty fun [Harry Potter World wand](https://www.youtube.com/watch?v=iKUC0EbHw20), which lets you control things around the park (using infrared blob tracking!)  
-* Adam Harvey's [visualization of how face detection in OpenCV sees a face](https://vimeo.com/12774628) 
-
+* Adam Harvey's [visualization of how face detection in OpenCV sees a face](https://vimeo.com/12774628)  
 
 ***
 
