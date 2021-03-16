@@ -57,12 +57,12 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | MAR 18      | MASK 1 |
 | :---        | :--- |
 | Demos       | Detecting faces and features |
-| Homework    | `Mask` research, sketches, and proof-of-concept |
-| Reading     | *Shape of Content* (Ben Shahn), *Introducing Myself* (Ursula Le Guin) |
+| Homework    | `Mask` ideation and sketches |
+| Reading     | *The Biography of a Painting* (Ben Shahn), *Introducing Myself* (Ursula Le Guin) |
 
 | MAR 25      | MASK 2 |
 | :---        | :--- |
-| Demos       | Screen recordings, frame export, `ffmpeg` |
+| Demos       | Screen recordings |
 | Homework    | Finish `Mask` project, create repository |
 
 | APR 1       | SIMULATION 1 |
