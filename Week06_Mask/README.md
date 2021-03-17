@@ -32,8 +32,8 @@ The approach you take is up to you: your mask might be made of shapes drawn in c
 ***
 
 ### CODE EXAMPLES/VIDEOS  
-* [Video tutorials for this week]()  
-* [Code examples in the `p5.js` Editor]()
+* [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDn5WMcmiicRyOlCgU3agqwN)  
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/VskQ3eqyz)
 
 ***
 
