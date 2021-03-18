@@ -25,7 +25,7 @@
 
 For our next project, we'll use face tracking to create a digital mask that is a self-portrait. Overlaid in realtime using [`tensorflow.js`](https://www.tensorflow.org/js) and `p5.js`, your mask should talk about your identity while being a visually rich experience. You'll think about who you are and what things are core to your identity: your personality, background, interests, values, gender/sexuality, and/or anything else that you want to share.
 
-The approach you take is up to you: your mask might be made of shapes drawn in code, a collage of images (or even videos!) on top of your face, typography, or some combination. Elements can be static or respond to your movements or even be interactive using your face. You might cover portions of your face or reveal others. The goal here is to not just think about making a visually cool project but one where your aesthetic decisions come together to tell a story about how you see and present yourself to the world.
+The approach you take is up to you: your mask might be made of shapes drawn in code, a collage of images (or even videos!) on top of your face, typography, some combination, or another cool approach you come up with. Elements can be static or respond to your movements or even be interactive using your face (think: position, scale, angle, speed of motion, position onscreen, etc). You might cover portions of your face or reveal others. The goal here is to not just think about making a visually cool project but one where your aesthetic decisions come together to tell a story about how you see and present yourself to the world.
 
 *Above: a selection of masks from different cultures in the [Smithsonian collection](https://www.si.edu/search?edan_q=mask&)*
 
@@ -40,11 +40,11 @@ The approach you take is up to you: your mask might be made of shapes drawn in c
 ### FOR THURS, MARCH 25  
 This week, you should spend time thinking about what parts of your identity you want to show us and how you will do so. We are all complicated, made of many interconnected (and sometimes contradictory) parts. One of the beautiful things about art is that it can contain all those things.
 
-Start by listing everything you can about yourself, aiming for at least 30 things – we won't share these lists with the group. From this list, identify at least three things you want your mask to show and, for each one, come up with ways you can display them as part of your mask. What you choose to tell us about your identity is up to you as is the extent to which those things are clear to us: symbols, metaphors, and oblique references are all options if you prefer not to be entirely direct with the viewer. Think too about ways that these things might move, change, or interact as your face moves.
+Start by listing everything you can about yourself, aiming for at least 30 things (**we won't share these lists with the group**). From this list, identify at least three things you want your mask to show (you will be asked to talk about these) and, for each one, come up with ways you can display them as part of your mask. What you choose to tell us about your identity is up to you as is the extent to which those things are clear to us: symbols, metaphors, and oblique references are all options if you prefer not to be entirely direct with the viewer. Think too about ways that these things might move, change, or interact as your face moves.
 
-With your symbols/objects figured out, make a drawing of what you want your mask to look like. Be as detailed as possible – this is a great way to work out your ideas before diving into code. Annotations like arrows, labels, etc can help explain your ideas. When you're done, photograph your drawing (if it's analog) and upload to Canvas. If you have time, you can also start prototyping your mask in code.
+With your symbols/objects figured out, make a drawing of what you want your mask to look like. Be as detailed as possible – this is a great way to think through your ideas before diving into code. Annotations like arrows, labels, etc can help explain your ideas. When you're done, upload it to Canvas. If you have time, you can also start prototyping your mask in code.
 
-Please also read *The Biography of a Painting* by Ben Shahn (1957) and *Introducing Myself* by Ursula Le Guin (ca 1980s). Both pieces talk about developing imagery, symbols, and ideas in ones' work.
+Lastly, please read *The Biography of a Painting* by Ben Shahn (1957) and *Introducing Myself* by Ursula Le Guin (1992). Both pieces talk about developing imagery, symbols, and ideas in ones' work.
 
 ***
 
