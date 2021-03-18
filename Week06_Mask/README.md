@@ -103,5 +103,5 @@ No tools are neutral, but AI and machine-learning are particularly frought: they
 * [*What a Machine Learning Tool that Turns Obama White Can (and Can't) Tell Us About AI Bias*](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) by James Vincent  
 * [A post on Twitter's auto-cropping algorithm](https://hackaday.com/2020/09/23/community-testing-suggests-bias-in-twitters-cropping-algorithm)  
 
-If you find others, please share them!  
+If you find others, [please create an issue with the URL](https://github.com/jeffThompson/CreativeProgramming2/issues) and I'll add them here!  
 
