@@ -23,7 +23,7 @@
 
 > "Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes.)" <br> – [Walt Whitman](https://poets.org/poem/song-myself-51)  
 
-For our next project, we'll use face tracking to create a digital mask that is a self-portrait. Overlaid in realtime using `tensorflow.js` and `p5.js`, your mask should talk about your identity while being a visually rich experience. You'll think about who you are and what things are core to your identity: your personality, background, interests, values, gender/sexuality, and/or anything else that you want to share.
+For our next project, we'll use face tracking to create a digital mask that is a self-portrait. Overlaid in realtime using [`tensorflow.js`](https://www.tensorflow.org/js) and `p5.js`, your mask should talk about your identity while being a visually rich experience. You'll think about who you are and what things are core to your identity: your personality, background, interests, values, gender/sexuality, and/or anything else that you want to share.
 
 The approach you take is up to you: your mask might be made of shapes drawn in code, a collage of images (or even videos!) on top of your face, typography, or some combination. Elements can be static or respond to your movements or even be interactive using your face. You might cover portions of your face or reveal others. The goal here is to not just think about making a visually cool project but one where your aesthetic decisions come together to tell a story about how you see and present yourself to the world.
 
@@ -74,16 +74,31 @@ Please also read *The Biography of a Painting* by Ben Shahn (1957) and *Introduc
 * Using only darkroom technology, Nancy Burson's [*Composite Silver Prints*](http://nancyburson.com/composite-silver-prints/)  
 * [*Cheese*](http://christianmoeller.com/Cheese) by Christian Moeller, which asks viewers to smile as long as possible  
 * Daito Manabe's [*Face Projection*](http://www.daito.ws/en/work/face-projection.html#5) experiments  
-* One of Mario Klingemann's [many neural network face experiments](https://www.youtube.com/watch?v=5h4R959O0cY&feature=youtu.be) (see also his [Flickr feed](https://www.flickr.com/photos/quasimondo/albums))  
+* Google Creative Lab's [*Move Mirror*](https://experiments.withgoogle.com/move-mirror)  
 * The super weird painting [*The Jurist*](https://en.wikipedia.org/wiki/The_Jurist_(painting)) from 1566 by Guiseppe Arcimboldo, which shows a figure made out of raw chicken, fish, and a pile of books  
 * More in this week's `Images` folder!  
 
 ***
 
 ### RESOURCES  
+* Webcams are great, but other cameras offer different forms of interaction:  
+  * [Pixy2, a camera with built-in object detection](https://www.sparkfun.com/products/14392)  
+  * [OpenMV, another camera with computer vision capabilities](https://www.sparkfun.com/products/14632)  
+  * [An amazing guide to cameras for installations from Blair Neal](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations)  
 * Find lots of other face-related projects by [searching Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
 * And [another great list](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Faces-in-Media-Art) from Kyle McDonald  
 * Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
 * A lot of vision research points to our sight being driven by contrast, much like the edges in neural networks. For example, [this article on toad vision](https://en.wikipedia.org/wiki/Feature_detection_%28nervous_system%29#In_toad_vision), which links to [this bananas video](https://av.tib.eu/media/15148#t=0,00:25)  
 * Do you see faces in random objects? It's a phenomenon called [pareidolia](https://en.wikipedia.org/wiki/Pareidolia)  
+
+***
+
+### BIAS AND AI  
+An important conversation 
+
+* [*Artificial Intelligence's White Guy Problem*](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) by AI Now Institute/Microsoft Research's Kate Crawford  
+* [*Mathwashing, Facebook, and the Zeitgeist of Data Worship*](https://technical.ly/brooklyn/2016/06/08/fred-benenson-mathwashing-facebook-data-worship/), an interview with former Kickstarter data scientist Fred Benenson  
+* [*The Unreasonable Effectiveness of Recurrent Neural Networks*](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by machine learning guru Andrej Karpathy  
+* [*What a Machine Learning Tool that Turns Obama White Can (and Can't) Tell Us About AI Bias*](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) by James Vincent  
+* [A post on Twitter's auto-cropping algorithm](https://hackaday.com/2020/09/23/community-testing-suggests-bias-in-twitters-cropping-algorithm)  
 
