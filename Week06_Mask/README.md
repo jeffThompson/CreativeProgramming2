@@ -85,19 +85,23 @@ Please also read *The Biography of a Painting* by Ben Shahn (1957) and *Introduc
   * [Pixy2, a camera with built-in object detection](https://www.sparkfun.com/products/14392)  
   * [OpenMV, another camera with computer vision capabilities](https://www.sparkfun.com/products/14632)  
   * [An amazing guide to cameras for installations from Blair Neal](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations)  
-* Find lots of other face-related projects by [searching Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
-* And [another great list](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Faces-in-Media-Art) from Kyle McDonald  
-* Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
+* Some lists of face-related projects and resources:  
+  * [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/tagged/face)  
+  * [Another great list](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Faces-in-Media-Art) from Kyle McDonald  
+  * Some of these references are a bit out of date, but [Daniel Shiffman's workshop Face It](https://github.com/shiffman/Face-It) has some great resources and examples  
 * A lot of vision research points to our sight being driven by contrast, much like the edges in neural networks. For example, [this article on toad vision](https://en.wikipedia.org/wiki/Feature_detection_%28nervous_system%29#In_toad_vision), which links to [this bananas video](https://av.tib.eu/media/15148#t=0,00:25)  
 * Do you see faces in random objects? It's a phenomenon called [pareidolia](https://en.wikipedia.org/wiki/Pareidolia)  
 
 ***
 
 ### BIAS AND AI  
+No tools are neutral, but AI and machine-learning are particularly frought: they are increasingly ubiquitous, are making decisions that impact people's lives, and are trained on data created by humans. AI, bias, and ethics is a massive conversation, but here are some articles that are a good starting point, especially as they relate to our project:
 
-* [*Artificial Intelligence's White Guy Problem*](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) by AI Now Institute/Microsoft Research's Kate Crawford  
-* [*Mathwashing, Facebook, and the Zeitgeist of Data Worship*](https://technical.ly/brooklyn/2016/06/08/fred-benenson-mathwashing-facebook-data-worship/), an interview with former Kickstarter data scientist Fred Benenson  
-* [*The Unreasonable Effectiveness of Recurrent Neural Networks*](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by machine learning guru Andrej Karpathy  
+* [*Artificial Intelligence's White Guy Problem*](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) by Kate Crawford  
+* [*Mathwashing, Facebook, and the Zeitgeist of Data Worship*](https://technical.ly/brooklyn/2016/06/08/fred-benenson-mathwashing-facebook-data-worship/), an interview with Fred Benenson  
+* [*The Unreasonable Effectiveness of Recurrent Neural Networks*](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy  
 * [*What a Machine Learning Tool that Turns Obama White Can (and Can't) Tell Us About AI Bias*](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) by James Vincent  
 * [A post on Twitter's auto-cropping algorithm](https://hackaday.com/2020/09/23/community-testing-suggests-bias-in-twitters-cropping-algorithm)  
+
+If you find others, please share them!  
 
