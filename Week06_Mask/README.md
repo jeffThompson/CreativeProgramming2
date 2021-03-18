@@ -94,7 +94,6 @@ Please also read *The Biography of a Painting* by Ben Shahn (1957) and *Introduc
 ***
 
 ### BIAS AND AI  
-An important conversation 
 
 * [*Artificial Intelligence's White Guy Problem*](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) by AI Now Institute/Microsoft Research's Kate Crawford  
 * [*Mathwashing, Facebook, and the Zeitgeist of Data Worship*](https://technical.ly/brooklyn/2016/06/08/fred-benenson-mathwashing-facebook-data-worship/), an interview with former Kickstarter data scientist Fred Benenson  
