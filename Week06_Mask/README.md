@@ -27,6 +27,8 @@ For our next project, we'll use face tracking to create a digital mask that is a
 
 The approach you take is up to you: your mask might be made of shapes drawn in code, a collage of images (or even videos!) on top of your face, typography, some combination, or another cool approach you come up with. Elements can be static or respond to your movements or even be interactive using your face (think: position, scale, angle, speed of motion, position onscreen, etc). You might cover portions of your face or reveal others. The goal here is to not just think about making a visually cool project but one where your aesthetic decisions come together to tell a story about how you see and present yourself to the world.
 
+**Note! Because this assignment is about you and overlays on your own face, you'll need to turn on your camera for the critique so you can demo your project. If that's something you feel uncomfortable doing, please let me know and we can discuss alternatives.**
+
 *Above: a selection of masks from different cultures in the [Smithsonian collection](https://www.si.edu/search?edan_q=mask&)*
 
 ***
