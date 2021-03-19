@@ -51,7 +51,23 @@ Lastly, please read *The Biography of a Painting* by Ben Shahn (1957) and *Intro
 ***
 
 ### FOR THURS, APRIL 1  
-\[ coming soon \]
+For next week, your main work will be finishing your project. Think about the feedback you received on your drawing and start writing code. You'll definitely come up with additional ideas as you work but, with a solid plan in place, the code should mostly be about realizing your vision and tweaking the appearance.
+
+When your mask is done, please make a short screen recording of it running. You can use any tool you like for this, but here are a few free suggestions:  
+* Mac: [Quicktime](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac) or [Kap](https://getkap.co)  
+* Windows: [screen recorder](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility) (haven't been able to test this)  
+* All platforms: [OBS](https://obsproject.com/) (though it's a bit tricky to set up)  
+
+You can upload your recording to YouTube, Vimeo, etc – it's fine if you make the video private, just make sure folks with the link can view it.
+
+Finally, please create a Github repository that includes:  
+* Your code  
+* A `README` file that includes:
+  * A description of your project  
+  * Outlines the imagery, symbols, etc you chose  
+  * Link to your screen recording  
+
+Upload a link to your repo to Canvas. 
 
 ***
 
