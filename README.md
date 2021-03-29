@@ -1,6 +1,6 @@
 # CREATIVE PROGRAMMING 2
 
-**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming2#course-calendar)**
+**[:arrow_down: Jump right to the Course Calendar :arrow_down:](#course-calendar)**
 
 | Instructor     | Prof. Jeff Thompson (please call me Jeff) |
 | :---           | :--- |
@@ -23,33 +23,33 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| FEB 4       | [RAMP UP: HISTORICAL CODE RE-CREATIONS](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week00_RampUp) |
+| FEB 4       | [RAMP UP: HISTORICAL CODE RE-CREATIONS](Week00_RampUp) |
 | :---        | :--- |
 | Demos       | Hello, introductions, how to access course materials, `p5.js` refresher |
 | Watch       | Interview with Vera Molnar |
 | Homework    | `Historical Code Re-creations` |
 
-| FEB 11      | [INTERACTIVE TYPOGRAPHY 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_InteractiveTypography) |
+| FEB 11      | [INTERACTIVE TYPOGRAPHY 1](Week01_InteractiveTypography) |
 | :---        | :--- |
 | Demos       | Fonts on the web, getting points from text |
 | Homework    | `Interactive Typography` sketches |
 
-| FEB 18      | [INTERACTIVE TYPOGRAPHY 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_InteractiveTypography) |
+| FEB 18      | [INTERACTIVE TYPOGRAPHY 2](Week01_InteractiveTypography) |
 | :---        | :--- |
 | Demos       | Touch input, prototyping on mobile devices |
 | Homework    | Finish `Interactive Typography` project |
 
-| FEB 25      | [IMAGE FILTERS](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters) |
+| FEB 25      | [IMAGE FILTERS](Week03_ImageFilters) |
 | :---        | :--- |
 | Demos       | Filters, accessing pixel values, kernels |
 | Homework    | `Image Filter` |
 
-| MAR 4       | [TRACKING 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week04_Tracking) |
+| MAR 4       | [TRACKING 1](Week04_Tracking) |
 | :---        | :--- |
 | Demos       | Camera input, extracting information from images, detecting colors and objects |
 | Homework    | `Tracking` project sketches and proof-of-concept |
 
-| MAR 11      | [TRACKING 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week04_Tracking) |
+| MAR 11      | [TRACKING 2](Week04_Tracking) |
 | :---        | :--- |
 | Demos       | Creating Github repositories, `readme` files and Markdown |
 | Homework    | Finish `Tracking` project |
