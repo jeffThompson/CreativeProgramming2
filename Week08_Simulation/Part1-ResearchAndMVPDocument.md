@@ -26,7 +26,7 @@ See also:
 * [Drawings of jellyfish](https://publicdomainreview.org/collection/ernst-haeckels-jellyfish) by Ernst Haeckel (ca 1870s)  
 * [Watercolors of medicinal herbs](https://publicdomainreview.org/collection/watercolours-from-a-16th-century-de-materia-medica) by Gherardo Cibo (ca 1564–84)  
 
-([Public Domain Review](https://publicdomainreview.org), where many of these examples are from, as well as the [Internet Archive](https://archive.org), are amazing resources for this kind of research!)
+*([Public Domain Review](https://publicdomainreview.org), where many of these examples are from, as well as the [Internet Archive](https://archive.org), are amazing resources for this kind of research!)*
 
 ***
 
