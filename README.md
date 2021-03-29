@@ -54,28 +54,28 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Demos       | Creating Github repositories, `readme` files and Markdown |
 | Homework    | Finish `Tracking` project |
 
-| MAR 18      | MASK 1 |
+| MAR 18      | [MASK 1](Week06_Mask) |
 | :---        | :--- |
 | Demos       | Detecting faces and features |
 | Homework    | `Mask` ideation and sketches |
 | Reading     | *The Biography of a Painting* (Ben Shahn), *Introducing Myself* (Ursula Le Guin) |
 
-| MAR 25      | MASK 2 |
+| MAR 25      | [MASK 2](Week06_Mask) |
 | :---        | :--- |
 | Demos       | Screen recordings |
 | Homework    | Finish `Mask` project, create repository |
 
-| APR 1       | SIMULATION 1 |
+| APR 1       | [SIMULATION 1](Week08_Simulation) |
 | :---        | :--- |
 | Demos       | Object-oriented programming refresher, vectors and forces |
 | Homework    | `Simulation` ideation, research, and sketches |
 
-| APR 8       | SIMULATION 2 |
+| APR 8       | [SIMULATION 2](Week08_Simulation) |
 | :---        | :--- |
 | Demos       | Programming movement |
 | Homework    | Prototype of your `Simulation` project |
 
-| APR 15      | SIMULATION 3/FINAL PROJECT 1 |
+| APR 15      | [SIMULATION 3](Week08_Simulation)/FINAL PROJECT 1 |
 | :---        | :--- |
 | Demos       | Exporting frames, creating videos with `ffmpeg` |
 | Homework    | Finish `Simulation` project, `Final Project` ideation |
