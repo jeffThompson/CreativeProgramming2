@@ -21,7 +21,7 @@
 For our last regular project of the semester, we'll turn to the natural world for inpsiration. The goal is to bridge research, observation, and the "real world" (aka things outside the computer) with code. You should first pick a natural system of some kind (an animal, plant, environmental process, weather, etc) and observe it very carefully. From there, you'll think about how to translate that to code, adding as many little details as you can. The output doesn't need to mimic or precisely simulate your chosen subject, but can either be a careful a reproduction of that system as best you can or a work that is inspired by its details.
 
 Some examples:  
-* Observe the way snow falls in the breeze and ways snowflakes form &rarr;create a piece that generates a never-ending snowfall  
+* Observe the way snow falls in the breeze and ways snowflakes form &rarr; create a piece that generates a never-ending snowfall  
 * Research flower parts &rarr; create a flower generator that includes dozens of options that mix-and-match from existing plants  
 * Observe the way ants move and interact with each other &rarr; build a simulator that creates drawings you can save and print  
 
