@@ -61,7 +61,7 @@ function draw() {
   // draw the ball
   fill(255);
   noStroke();
-  ellipse(x, y, dia, dia);
+  circle(x, y, dia);
 }
 
 

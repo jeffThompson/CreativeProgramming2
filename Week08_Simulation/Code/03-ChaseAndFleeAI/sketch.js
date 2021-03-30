@@ -60,7 +60,7 @@ function draw() {
   player.y = mouseY;
   fill(255, 0, 0);
   noStroke();
-  ellipse(player.x, player.y, 30, 30);
+  circle(player.x, player.y, 30);
 
   // now for the AI!
   
@@ -72,7 +72,7 @@ function draw() {
   dir.mult(chaseSpeed);                    // scale by the speed
   chase.add(dir);                          // add the direction to the chaser's position
   fill(0);
-  ellipse(chase.x, chase.y, 30, 30);
+  circle(chase.x, chase.y, 30);
   
   // flee is basically like chase, except we subtract
   // the direction instead of add!
@@ -86,6 +86,6 @@ function draw() {
     flee.sub(dir);                      // ...except subtract instead of add
   }
   fill(0,150,255);
-  ellipse(flee.x, flee.y, 30,30);
+  circle(flee.x, flee.y, 30);
 }
 

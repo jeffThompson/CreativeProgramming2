@@ -56,14 +56,14 @@ function draw() {
   rectMode(CORNER);
   
   // you
-  fill(255,0,0);
-  ellipse(you.x, you.y, 50,50);
   you.x = mouseX;
   you.y = mouseY;
+  fill(255,0,0);
+  circle(you.x, you.y, 50);
   
   // other
   fill(0,150,255);
-  ellipse(other.x, other.y, 50,50);
+  circle(other.x, other.y, 50);
   
   // line between the two
   // (not necessary, just for visualizing)

@@ -34,8 +34,8 @@ Overall, your goal should be to include as many tiny details as possible. Keep i
 ***
 
 ### CODE EXAMPLES/VIDEOS  
-* [Video tutorials for this week]()  
-* [Code examples in the `p5.js` Editor]()  
+* [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDkhWlWYUdMC1R2yOLO2Xmqd)  
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/1tyijLIYW) (includes some examples that don't have videos)  
 
 ***
 

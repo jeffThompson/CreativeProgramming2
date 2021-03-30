@@ -13,11 +13,14 @@ Our "tree" is really just a line and a circle: a fancier version,
 commented out, using a recursive function to draw a Pythagoras 
 Tree instead of a line-and-circle.
 
-CHALLENGES:
-+  How might you visualize the wind onscreen?
-+  Can you draw grass or other elements that are effected by the
+SEE ALSO
++ https://en.wikipedia.org/wiki/Pythagoras_tree_(fractal)
+
+CHALLENGES
+1. How might you visualize the wind onscreen?
+2. Can you draw grass or other elements that are effected by the
    same global wind value?
-+  Can you draw a leaf at the end of each branch? What about just
+3. Can you draw a leaf at the end of each branch? What about just
    the branches where recursion reaches the minimum length?
 
 */
@@ -52,7 +55,7 @@ function draw() {
   line(0,0, 0,-trunkLen);
   fill(255, 100);
   noStroke();
-  ellipse(0,-trunkLen, trunkLen,trunkLen); 
+  circle(0,-trunkLen, trunkLen); 
   pop();
   
   // or a fancier "Pythagoras Tree" - a kind

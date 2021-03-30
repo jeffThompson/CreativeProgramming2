@@ -1,5 +1,5 @@
 /*
-RANDOM GROWTH
+PUTTING IT ALL TOGETHER (with random growth)
 Jeff Thompson | 2019/21 | jeffreythompson.org
 
 The simulating of natural systems is a perfect fit

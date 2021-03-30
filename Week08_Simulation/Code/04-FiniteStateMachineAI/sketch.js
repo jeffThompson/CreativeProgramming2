@@ -1,4 +1,4 @@
- /*
+/*
 FINITE STATE MACHINE AI
 Jeff Thompson | 2015/21 | www.jeffreythompson.org
 
@@ -22,7 +22,7 @@ FLEEING       runs away from the player
 DEAD          no longer aware, but may be revived (depending on the game)
 
 Let's simplify our system a bit. By combining triggers with the resulting
-action, we have what's called a State/Even Table:
+action, we have what's called a State/Event Table:
 
 1. idle until player is within a certain range
 2. if within range, moves towards the player
@@ -42,7 +42,7 @@ SEE ALSO
    theory-and-implementation--gamedev-11867
 
 CHALLENGES
-1. Can you trigger the "flee" state to be triggered when the player
+1. Can you have the "flee" state to be triggered when the player
    attacks, maybe by clicking or hitting the spacebar?
 2. Can you give the zombie a better "idle" state? Hint: try "sin()"
 3. Can you make lots of zombies who all "listen" to each other and change
@@ -80,22 +80,30 @@ function draw() {
   background(230);
   
   // draw player and update the position
-  fill(0,150,255);
-  noStroke();
-  ellipse(player.x, player.y, 40,40);
   player.x = mouseX;
   player.y = mouseY;
+  fill(0,150,255);
+  noStroke();
+  circle(player.x, player.y, 40);
   
   // set the zombie's state depending on distance
   let dist = player.dist(zombie);
-  if (dist > 300)     state = idle;  // further than 300px, wander
-  else if (dist < 20) state = flee;  // close enough to touch you, run away
+  if (dist > 300) {       // further than 300px, wander
+    state = idle;
+  }
+  else if (dist < 20) {   // close enough to touch you, run away
+    state = flee;  
+  }
   
   // if we're not currently fleeing but we're within range,
   // either seek or attack
   if (state != flee) {
-    if (dist <= 300 && dist > 100) state = seek;
-    else if (dist <= 100)          state = attack;
+    if (dist <= 300 && dist > 100) {
+      state = seek;
+    }
+    else if (dist <= 100) {
+      state = attack;
+    }
   }
   
   // based on current state of the zombie, exhibit different
@@ -133,11 +141,11 @@ function draw() {
     direction.normalize();
     direction.mult(zombieRunSpeed);
     zombie.sub(direction);
-    zombieColor = color(100);        // a cowardly blue-green
+    zombieColor = color(0, 0, 100);        // a cowardly blue-green
   }
   
   // draw the zombie
   fill(zombieColor);
-  ellipse(zombie.x, zombie.y, 40,40);
+  circle(zombie.x, zombie.y, 40);
 }
 
