@@ -5,7 +5,7 @@
 ### TLDR  
 * Create a project that simulates or is inspired by a natural system  
 * [April 8](Part1-ResearchAndMVPDocument.md): research, drawings, MVP document  
-* April 15: prototype your project in code  
+* [April 15](Part2-Prototypes.md): prototype your project in code  
 * April 22: finish project, record video, `Final Project` ideation  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the TLDR section above ⚠️
