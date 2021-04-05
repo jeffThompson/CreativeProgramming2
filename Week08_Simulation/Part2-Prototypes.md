@@ -13,10 +13,11 @@ For next week, your goal should be a working prototype that can be rough around 
 Last week, we discussed the example snowfall simulator whose MVP document included the following, which can then be broken down into things we need to build:
 
 * *Generate various snowflake shapes algorithmically*  
-  * How to draw a snowflake shape in code?  
-  * What parameters should this have?  
+  * How to draw a snowflake shape in code? How complex should this be?  
+  * What parameters should each snowflake have?  
   * How to structure this as a class?  
 * *Create realistic falling motion*  
+  * Look at your notes and see how snowflakes fall  
   * Use a speed vector to make the snowflake move  
   * Add rotation or "wiggle"  
 * *Respawn snowflakes when they hit the bottom of the screen*  
@@ -25,8 +26,9 @@ Last week, we discussed the example snowfall simulator whose MVP document includ
 * *Wind changes the direction of snowfall*  
   * How should a "wind" variable be stored?  
   * How should it affect the snowflakes?  
+  * Should we see anything visual to indicate the wind?  
 
-It's ok if the elements aren't all working perfectly, but they should be present so you can see how they interact and so we can give you feedback.
+It's ok if the elements aren't all working perfectly, but they should all be present so you can see how they interact, so we can give you helpful feedback, and so you can identify technical questions you need help with.
 
 A few other things to consider:  
 * If your MVP document has a list of "stretch goals," see how many of those you can get to as well (if it doesn't start keeping track of some!)  
