@@ -10,22 +10,22 @@
 ***
 
 ### Finish your project  
-With your prototypes working, the last step is to finish your simulations! Refer to your MVP document for a list of things you haven't finished yet and, if time, any stretch goals you want to incorporate. Overall, the goal of this project is to cram as much detail in as possible!
+With your prototype working, the last step is to finish your simulation! Refer to your MVP document for a list of things you haven't finished yet and, if you have time, any stretch goals you want to incorporate. Overall, the goal of this project is to cram as much detail in as possible!
 
 Some helpful things you might want to include to make refining your code easier:
-* A way to reset/restart your simulation  
-* Debug mode that displays info onscreen  
+* A way to reset/restart your simulation (maybe the spacebar calls `setup()`)  
+* Debug mode that displays info onscreen (I like using the `d` key for this, which flips a boolean variable)  
+* Screenshot keyboard shortcut (maybe the `s` key and auto-generated filenames with your simulation parameters)  
 * Options that can be changed via global variables and/or keyboard input  
-* Screenshot keyboard shortcut  
 
-Be sure to document any commands in the comments at the top of your code.
+Be sure to document any commands in the comments at the top of your code!
 
 ***
 
 ### Create a screen recording  
-When your project is done, please take a 1–2 minute screen recording of it running. Think of this as the documentation people see: capture the essence of the piece so we can understand the basics without needing to run your code.
+When your project is done, please take a 1–2 minute screen recording of it running. Think of this as the public documentation people see: capture the essence of the piece so we can understand the basics without needing to run your code.
 
-Alternatively, you can export individual frames and combine them into a video using `ffmpeg` (see this tutorial) or software like After Effects. This is particularly helpful for projects that run too slow for real-time recording, but is definitely a more complicated option.
+Alternatively, you can export individual frames and combine them into a video using `ffmpeg` (see [this tutorial](https://www.youtube.com/watch?v=FgR6PNwj80A)) or software like After Effects. This is particularly helpful for projects that run too slow for real-time recording, but is definitely a more complicated option.
 
 Upload the recording to YouTube or Vimeo; unlisted is fine but please make sure I can view it.
 
