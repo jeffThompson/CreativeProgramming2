@@ -94,5 +94,6 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | EXAM PERIOD | FINAL CRIT |
 | :---        | :--- |
+| **Date/time**   | **May 17, 1–4pm EST** |
 | In class    | Critique of `Final Projects` |
 
