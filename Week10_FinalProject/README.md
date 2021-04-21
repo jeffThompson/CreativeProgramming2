@@ -7,7 +7,7 @@
   * Is polished and ready for your portfolio    
 * April 15: finish `Simulation` project, start thinking about what you want to do for your final project  
 * [April 22](Part1-ProofOfConcept.md): proof of concept  
-* April 29: continue working on project  
+* [April 29](Part2-ContinueWorking.md): continue working on project  
 * May 6: finish final project  
 * **May 17 from 1–4pm EST: final critique**
 
