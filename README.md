@@ -75,20 +75,20 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Demos       | Programming movement |
 | Homework    | Prototype of your `Simulation` project |
 
-| APR 15      | [SIMULATION 3](Week08_Simulation)/FINAL PROJECT 1 |
+| APR 15      | [SIMULATION 3](Week08_Simulation) / [FINAL PROJECT 1](Week10_FinalProject) |
 | :---        | :--- |
 | Demos       | Exporting frames, creating videos with `ffmpeg` |
 | Homework    | Finish `Simulation` project, `Final Project` ideation |
 
-| APR 22      | FINAL PROJECT 2 |
+| APR 22      | [FINAL PROJECT 2](Week10_FinalProject) |
 | :---        | :--- |
 | Homework    | Proof-of-concept for `Final Project` |
 
-| APR 29      | FINAL PROJECT 3 |
+| APR 29      | [FINAL PROJECT 3](Week10_FinalProject) |
 | :---        | :--- |
 | Homework    | Continue working on `Final Project` |
 
-| MAY 6       | FINAL PROJECT 4 |
+| MAY 6       | [FINAL PROJECT 4](Week10_FinalProject) |
 | :---        | :--- |
 | Homework    | Finish `Final Project` |
 
