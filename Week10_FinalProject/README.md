@@ -8,8 +8,8 @@
 * April 15: finish `Simulation` project, start thinking about what you want to do for your final project  
 * [April 22](Part1-ProofOfConcept.md): proof of concept  
 * [April 29](Part2-ContinueWorking.md): continue working on project  
-* May 6: finish final project  
-* **May 17 from 1–4pm EST: final critique**
+* [May 6](Part3-FinishProject.md): finish final project  
+* **Monday, May 17 from 1–4pm EST: final critique**
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the TLDR section above ⚠️
 

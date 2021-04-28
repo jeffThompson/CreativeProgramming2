@@ -10,5 +10,5 @@
 ### KEEP WORKING ON YOUR PROJECT  
 This week, your assingment is simple: keep working on your project! The details will vary depending on what you're working on, but try to keep focused on getting the big-picture parts done first before diving into little details.
 
-Next week will be work time, so keep a running list of stuff you know you'll need help with or want feedback on.
+Our regular class meetings will be work time, so keep a running list of stuff you know you'll need help with or want feedback on.
 
