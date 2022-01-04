@@ -33,9 +33,7 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 ***
 
 ### SVG EXPORT  
-Exporting images with `p5.js` is super easy, but raster formats are limited by their resolution. Vector formats, like `PDF` or `SVG`, allow for your work to be scaled up and down without any loss of quality!
-
-For this assignment, you'll be exporting your work in the Scaleable Vector Graphics (SVG) format. In order to do so, however, you'll need to add a code library to your project.
+Exporting images with `p5.js` is super easy, but raster formats are limited by their resolution. Vector formats, like `PDF` or `SVG`, allow for your work to be scaled up and down without any loss of quality! For this assignment, you'll be exporting your work in the [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (`SVG`) format. In order to do so, however, you'll need to add a code library to your project.
 
 We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-svg) library for this. There is a simple example for setting this up in Zeng's Github repository, but I've set up a template for you here: https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd
 
