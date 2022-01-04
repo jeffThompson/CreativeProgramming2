@@ -11,10 +11,10 @@
 ***
 
 ### REQUIRED MATERIALS
-Required and suggested readings will be provided as PDFs on GitHub – there is no required textbook.
+Required and suggested readings will be provided as PDFs on GitHub – there is no required textbook. However, all students will need:
 
-* A reliable webcam, either built into your computer or an external one. You may want to consider purchasing an external webcam for class projects anyway. I suggest the Logitech C920 (though at $80 it’s kinda spendy). Logitech also offers their BRIO camera, which does 4k video (but is $200). For a barebones but manual focus model, the ELP camera is a good choice though the picture quality is not as good.
-* A notebook or sketchbook for taking notes, figuring things out, and ideation.
+* A reliable webcam, either built into your computer or an external one. You may want to consider purchasing an external webcam for class projects anyway. I suggest the [Logitech C920](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html) (though at $80 it’s kinda spendy). Logitech also offers their [BRIO camera](https://www.logitech.com/en-us/products/webcams/brio-4k-hdr-webcam.960-001105.html), which does 4k video (but is $200). For a barebones but manual focus model, the ELP camera is a good choice though the picture quality is not as good.
+* A notebook or sketchbook for taking notes, figuring things out, and ideation. Find (or make!) one you really like. I particularly love Moleskine sketchbooks with gridded paper but use whatever makes you want to draw in it!  
 
 ***
 
