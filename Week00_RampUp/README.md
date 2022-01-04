@@ -6,13 +6,13 @@
 * Due January 26 at the start of class  
 * Make a sketch that re-creates an early piece of code-based art
 * Export as a `SVG` using [this template](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd)
-* Laser print at 7x7" along with a print of the original (we'll do this in class)  
+* Laser print at along with a print of the original and bind into a zine (we'll do this in class)  
 * Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas  
 
 ***
 
 ### ASSIGNMENT
-This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. You should find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`. We'll be printing these, so if you pick an animation or interactive piece, have your sketch output a representative frame.
+This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. You should find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`. We'll be printing these and binding them into zines, so if you pick an animation or interactive piece, have your sketch output a representative frame.
 
 Think about this process as a mix between observational drawing, cosplay, and forensics: looking super carefully at every detail, trying to make the closest possible re-creation you can. Get really picky about things like size, composition, spacing, line thickness, margins, and color. There will be places where you have to make best-guess decisions. For pieces that involve randomness there's no need for your output to be identical to the original, but your code should generate a very similar result. Try to include comments in your code where you've had to make difficult decisions or to note things you figured out in the original.
 
@@ -35,7 +35,10 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 ### SVG EXPORT  
 Exporting images with `p5.js` is super easy, but raster formats are limited by their resolution. Vector formats, like `PDF` or `SVG`, allow for your work to be scaled up and down without any loss of quality! For this assignment, you'll be exporting your work in the [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (`SVG`) format. In order to do so, however, you'll need to add a code library to your project.
 
-We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-svg) library for this. There is a simple example for setting this up in Zeng's Github repository, but I've set up a template for you here: https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd
+We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-svg) library for this. There is a simple example for setting this up in Zeng's Github repository, but I've set up a template for you too.
+
+* [Template](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd)  
+* [Example, re-creating Vera Molnar's *Interruptions*](https://editor.p5js.org/jeffThompson/sketches/e8VXP_buk)
 
 ***
 
