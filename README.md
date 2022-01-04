@@ -23,7 +23,7 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly.
 
-* Jan 19: Historical Code Re-creations  
+* Jan 19: [Historical Code Re-creations](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week00_RampUp)  
 * Jan 26: Animated Typography 1  
 * Feb 2: Animated Typography 2  
 * Feb 9: Image Filters 1  
