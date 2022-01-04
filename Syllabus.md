@@ -23,8 +23,6 @@ Our class time will be spent together critiquing your homework projects, coverin
 
 Because we will cover a lot of material this semester and because this course will be both rigorous and thorough, it’s really important that you stay on top of your coursework.
 
-> :warning: Don't hestitate to reach out if you have any questions at all! Better to ask a question than be unsure of something
-
 Attendance will be taken at the start of class every week. You are allowed two absences per semester to use at your discretion – each additional absence will result in your final grade being lowered by 1⁄2-letter. Late arrivals will be marked tardy, with 3 tardies equaling one absence. The only exception is severe illness – if this is the case, please let me know as soon as possible and we can work something out.
 
 ***
