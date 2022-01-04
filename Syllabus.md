@@ -6,7 +6,7 @@
 * [Grading](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#grading)  
 * [Learning accommodations](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#learning-accommodations)  
 * [Pronouns](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#pronouns)  
-* [Inclusion statement](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#inclusiong-statement)  
+* [Inclusion statement](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#inclusion-statement)  
 
 ***
 
