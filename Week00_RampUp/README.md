@@ -2,19 +2,18 @@
 
 # RAMP UP: HISTORICAL CODE RE-CREATIONS
 
-### TLDR
+### TLDR  
+* Due January 26 at the start of class  
 * Make a sketch that re-creates an early piece of code-based art
-* Use `p5.js` Editor, running full-size in the browser, with a citation to the original
-* Due Feb 11 by 11am EST
-* Upload link to code in Canvas
-* Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas
+* Export as a `PDF`, laser print at 7x7" along with a print of the original  
+* Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas  
 
 ***
 
 ### ASSIGNMENT
-This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. You should find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`. (If you have only used the Java version of Processing, check out the tutorials link below for a quickstart guide to `p5.js`. Nearly everything is the same with a few minor differences.)
+This week's assignment is a way to get us started writing code again as well as connect with early practitioners in the field of creative computation. You should find a piece of code-generated artwork made prior to 1980 (see below for some artists/places to look) and make a re-creation of that piece using `p5.js`. We'll be printing these, so if you pick an animation or interactive piece, have your sketch output a representative frame.
 
-Think about this process as a mix between observational drawing, cosplay, and forensics: looking super carefully at every detail, trying to make the closest possible re-creation you can. Get really picky about details like size, composition, spacing, line thickness, margins, and color. There will be places where you have to make best-guess decisions. For pieces that involve randomness there's no need for your output to be identical to the original, but your code should generate a very similar result. Try to include comments in your code where you've had to make difficult decisions or to note things you figured out in the original.
+Think about this process as a mix between observational drawing, cosplay, and forensics: looking super carefully at every detail, trying to make the closest possible re-creation you can. Get really picky about things like size, composition, spacing, line thickness, margins, and color. There will be places where you have to make best-guess decisions. For pieces that involve randomness there's no need for your output to be identical to the original, but your code should generate a very similar result. Try to include comments in your code where you've had to make difficult decisions or to note things you figured out in the original.
 
 > So, what is a code-generated artwork? In this case, it means a piece whose imagery was created using custom code. The final form of that work might be a film, a plotter drawing, etc but the primary tool for creating the piece should be code. If you find a piece you like and aren't sure, just send me a note.
 
@@ -25,12 +24,10 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 ***
 
 ### DELIVERABLES
-* Sketch that re-creates an early piece of code-based art
-* Should run full-size in the browser window
-* Made in the `p5.js` Editor (or made offline and copy/pasted to the editor)
-* Include citation for the original piece in the comments at the top (see format for that below)
-* Submit a link to your piece on Canvas
-* 1-paragraph response to [Vera Molnar interview](https://vimeo.com/273642211), posted as a comment on your assignment
+* Sketch that re-creates an early piece of code-based art  
+* Export as a `PDF` (we'll print them in class next week along with the original piece)  
+* Include a citation for the original piece in the comments at the top of your code (see format for that below)  
+* 1-paragraph response to [Vera Molnar interview](https://vimeo.com/273642211), posted to Canvas (no need to turn in your code)  
 
 ***
 
