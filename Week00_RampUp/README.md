@@ -37,7 +37,7 @@ Exporting images with `p5.js` is super easy, but raster formats are limited by t
 
 We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-svg) library for this. There is a simple example for setting this up in Zeng's Github repository, but I've set up a template for you too.
 
-* [Template](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd)  
+* [Template code with SVG library](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd)  
 * [Example, re-creating Vera Molnar's *Interruptions*](https://editor.p5js.org/jeffThompson/sketches/e8VXP_buk)
 
 ***
