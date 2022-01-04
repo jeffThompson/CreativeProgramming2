@@ -5,7 +5,7 @@
 ### TLDR  
 * Due January 26 at the start of class  
 * Make a sketch that re-creates an early piece of code-based art
-* Export as a `SVG` using [this template](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd)
+* Export as a `SVG` (see template code below)  
 * Laser print at along with a print of the original and bind into a zine (we'll do this in class)  
 * Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas  
 
@@ -32,7 +32,7 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 
 ***
 
-### SVG EXPORT  
+### SVG EXPORT/EXAMPLE  
 Exporting images with `p5.js` is super easy, but raster formats are limited by their resolution. Vector formats, like `PDF` or `SVG`, allow for your work to be scaled up and down without any loss of quality! For this assignment, you'll be exporting your work in the [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (`SVG`) format. In order to do so, however, you'll need to add a code library to your project.
 
 We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-svg) library for this. There is a simple example for setting this up in Zeng's Github repository, but I've set up a template for you too.
