@@ -5,7 +5,8 @@
 ### TLDR  
 * Due January 26 at the start of class  
 * Make a sketch that re-creates an early piece of code-based art
-* Export as a `PDF`, laser print at 7x7" along with a print of the original  
+* Export as a `SVG` using [this template](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd)
+* Laser print at 7x7" along with a print of the original (we'll do this in class)  
 * Watch the [Vera Molnar interview](https://vimeo.com/273642211) and post a response to Canvas  
 
 ***
@@ -25,22 +26,18 @@ Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/2
 
 ### DELIVERABLES
 * Sketch that re-creates an early piece of code-based art  
-* Export as a `PDF` (we'll print them in class next week along with the original piece)  
-* Include a citation for the original piece in the comments at the top of your code (see format for that below)  
+* Export as a `SVG` (we'll print them in class next week along with the original piece)  
+* Include a citation for the original piece in the comments at the top of your code (see the [template](https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd) for more info)  
 * 1-paragraph response to [Vera Molnar interview](https://vimeo.com/273642211), posted to Canvas (no need to turn in your code)  
 
 ***
 
-### CITATION
-At the top of your code, you should cite the work you're re-creating. Be sure to include at least the following:
+### SVG EXPORT  
+Exporting images with `p5.js` is super easy, but raster formats are limited by their resolution. Vector formats, like `PDF` or `SVG`, allow for your work to be scaled up and down without any loss of quality!
 
-```
-"Title of the artwork"
-The artist's name
-Date
-Original media, if you have that information
-URL to where you found the piece
-```
+For this assignment, you'll be exporting your work in the Scaleable Vector Graphics (SVG) format. In order to do so, however, you'll need to add a code library to your project.
+
+We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-svg) library for this. There is a simple example for setting this up in Zeng's Github repository, but I've set up a template for you here: https://editor.p5js.org/jeffThompson/sketches/KAPLMADjd
 
 ***
 
