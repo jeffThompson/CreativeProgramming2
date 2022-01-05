@@ -12,7 +12,7 @@
 
 In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. We'll also look at ways to document and publish code-based projects.
 
-We'll start with a quick ramp-up project re-creating historical artworks made with code. From there, we'll work on a series of projects exploring typography, image processing, computer vision and facial recognition, and simulation. The goal with all of these projects is for you to explore the kinds of projects that artists and designers working with code can do and continue building a personal creative practice. Like in [`Creative Programming 1`](https://github.com/jeffThompson/CreativeProgramming1), we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
+We'll start with a quick ramp-up project re-creating historical artworks made with code. From there, we'll work on a series of projects exploring typography, image processing, computer vision and facial recognition, and simulation. The goal with all of these assignments is for you to explore the kinds of projects that artists and designers working with code can do and continue building a personal creative practice. Like in [`Creative Programming 1`](https://github.com/jeffThompson/CreativeProgramming1), we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
 
 See the [syllabus](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md) for course format, policies, grading, etc.
 
