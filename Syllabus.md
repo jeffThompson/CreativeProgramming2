@@ -1,12 +1,11 @@
 # COURSE POLICIES  
 
-* [Required materials](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#required-materials)  
-* [Format](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#format)
-* [Homework ](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#homework) 
-* [Grading](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#grading)  
-* [Learning accommodations](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#learning-accommodations)  
-* [Pronouns](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#pronouns)  
-* [Inclusion statement](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#inclusion-statement)  
+* [Required materials](#format)
+* [Homework ](#homework) 
+* [Grading](#grading)  
+* [Learning accommodations](#learning-accommodations)  
+* [Pronouns](#pronouns)  
+* [Inclusion statement](#inclusion-statement)  
 
 ***
 
