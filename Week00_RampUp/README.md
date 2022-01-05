@@ -16,7 +16,7 @@ This week's assignment is a way to get us started writing code again as well as 
 
 Think about this process as a mix between observational drawing, cosplay, and forensics: looking super carefully at every detail, trying to make the closest possible re-creation you can. Get really picky about things like size, composition, spacing, line thickness, margins, and color. There will be places where you have to make best-guess decisions. For pieces that involve randomness there's no need for your output to be identical to the original, but your code should generate a very similar result. Try to include comments in your code where you've had to make difficult decisions or to note things you figured out in the original.
 
-> "So," you might ask yourself, "what is a code-generated artwork?" In this case, it means a piece whose imagery was created using custom code. The final form of that work might be a film, a plotter drawing, etc but the primary tool for creating the piece should be code. If you find a piece you like and aren't sure, just send me a note.
+> :thinking: "So," you might ask yourself, "what is a code-generated artwork?" In this case, it means a piece whose imagery was created using custom code. The final form of that work might be a film, a plotter drawing, etc but the primary tool for creating the piece should be code. If you find a piece you like and aren't sure, just send me a note.
 
 Additionally, please watch [this interview with Vera Molnar](https://vimeo.com/273642211) from Studio International. It's about 40 minutes and is such a wonderful insight into the early history of our medium. Write up a one-paragraph (minimum) response and post it as a comment on your assignment on Canvas.
 
