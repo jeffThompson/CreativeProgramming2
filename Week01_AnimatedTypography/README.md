@@ -1,4 +1,4 @@
-![Animated blob with text around it, which reads "boredom is your imagination calling to you"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Week01_InteractiveTypography/Images/CeciliaErlich-NewIdeas.gif)
+![Animated blob with text around it, which reads "boredom is your imagination calling to you"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming2/master/Week01_AnimatedTypography/Images/CeciliaErlich-NewIdeas.gif)
 
 # ANIMATED TYPOGRAPHY
 
