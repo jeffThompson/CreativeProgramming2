@@ -45,7 +45,7 @@ We'll use Zeno Zeng's wonderful [`p5.js-svg`](https://github.com/zenozeng/p5.js-
 ### RESOURCES
 * [The ReCode Project](http://recodeproject.com), who inspired this assignment, has a website with lots of artworks from the 1970s, pulled from scans of the magazine *Computer Graphics and Art* (a PDF with all these can be found in this week's `Images` folder)
 * [Rhizome's *compart* database](http://dada.compart-bremen.de/browse/artwork?filter_type=item_type&filter_value=drawing) – most of the images are pretty small, so this might be a good jumping-off point to search for a better version
-* The V&A Museum in London has a great online collection – [this search should be a good starting point](http://collections.vam.ac.uk/search/?listing_type=list&offset=0&limit=15&narrow=1&extrasearch=&q=computer+art&quality=0&objectnamesearch=&placesearch=&after=&before=1980&namesearch=&materialsearch=&mnsearch=&locationsearch=) though you'll want to confirm the piece you're looking at was made with code
+* The V&A Museum in London has a great online collection – [this search should be a good starting point](https://collections.vam.ac.uk/search/?id_category=THES49037) though you'll want to confirm the piece you're looking at was made with code
 
 ***
 
