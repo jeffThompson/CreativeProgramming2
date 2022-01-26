@@ -37,7 +37,8 @@ We'll start with defining how the project's visuals should look, connecting them
 
 ### DELIVERABLES
 * Project experimenting with animated typography for a brand
-* Automatically fill the width/height of the screen (use `screenWidth` and `screenHeight` variables)
+* Automatically fill the width of the screen (use `screenWidth` and `screenHeight` variables)
+* Height can be proportional (change as the width changes) or fill the screen too
 * For February 2:
   * At least two initial sketches in code, showing possible directions/variations
   * Upload a screenshot of each sketch to Canvas
