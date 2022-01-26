@@ -4,7 +4,7 @@
 
 ### TLDR
 * Create animated typography for a brand/person/org's website
-* Should fill the screen automatically
+* Can be a fixed proportion, but should fill the screen's width automatically
 * Sketches/design brief due Feb 2
   * Design brief as `pdf`, uploaded to Canvas
   * Two sketches in code showing possible directions
