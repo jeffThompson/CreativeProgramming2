@@ -59,24 +59,24 @@ We'll start with defining how the project's visuals should look, connecting them
 ### FOR WED, FEB 2: DESIGN BRIEF/CODE SKETCHES
 There are two main things for you to do this week: create a `pdf` design brief document and make two (or more) rough sketches in code.
 
-When starting a project like this, it can seem impossible to just sit down and start making. Instead, identifying the client's goals and pulling together lists, colors, typefaces, etc can be incredibly helpful, not just as a tool for pitching a project but also for you to generate ideas! This can take a variety of forms, but is often called a "design brief." Briefs can be super simple but can also become massive, meticulously designed documents full of research. In our case, your brief should include at least the following, though feel free to add more:
+When starting a project like this, it can seem impossible to just sit down and start making. Instead, identifying the client's goals and pulling together lists, colors, typefaces, etc can be incredibly helpful, not just as a tool for pitching a project but also for you to generate ideas! This can take a variety of forms, but is often called a *design brief.* Briefs can be super simple but can also become massive, meticulously designed documents full of research. In our case, your brief should include at least the following, though feel free to add more:
 
 * Name of the company/org/person you'll be working for
 * Screenshot of their existing homepage
 * Audience: at least 10 words that describe the consumers, users, etc for your chosen brand
 * Visual words: at least 10 words that describe the overall look, feel, style that you'll be going for in your project
-* Motion words: at least 5 words that describe the motion you are after
+* Motion words: at least 5 words that describe the motion you are after (see [this list of spatial verbs](Resources/SpatialVerbs.md) for some ideas)
 * Font samples: at least three different fonts that you might use; for each font, include:
-  * A sample of the font
+  * A sample of the font &larr; think about what text best shows the font!
   * It's name
   * 1–2 sentences on why it fits
-* Color schemes: at least three different color schemes you might use (these can be variations of each other), with a note below each on why they were chosen
+* Color schemes: at least three different color schemes you might use (these can be variations of each other), with a note below each on why they were chosen; these should include boxes or other shapes with the color and their RGB values
 
 Optional, if you can find them:
 
-* What font the company currently uses (Google will often get you the info, but you can also look for a style guide on the company's site)
+* What font the company currently uses &larr; Google will often get you the info, but you can also use [What The Font](https://www.myfonts.com/WhatTheFont) or look for a style guide on the company's site
 * Current logo and [wordmark](https://en.wikipedia.org/wiki/Wordmark) (that's a logo with their name next to it), ideally in a vector format like `svg` but screenshot is ok too
-* Brand's mission statement (go to their website, scroll all the way down and look for an "about" page)
+* Brand's mission statement &larr; go to their website, scroll all the way down and look for an "about" page
 * Anything else: feel free to add any additional sections you like! This could include:
   * Mood board
   * Their competition
