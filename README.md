@@ -28,8 +28,8 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * Jan 19: [Historical Code Re-creations](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week00_RampUp)  
 * Jan 26: [Animated Typography 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_AnimatedTypography)  
 * Feb 2: [Animated Typography 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_AnimatedTypography)  
-* Feb 9: Image Filters 1  
-* Feb 16: Image Filters 2
+* Feb 9: [Image Filters 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)  
+* Feb 16: [Image Filters 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)
 * Feb 23: Mask 1  
 * Mar 2: Mask 2  
 * Mar 9: Simulation 1  
