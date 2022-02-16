@@ -50,6 +50,7 @@ It would also be common to add sample UI on top of your images, so that clients 
 * [*Liquify Filter*](https://helpx.adobe.com/photoshop/how-to/liquify-filter-motion-effects.html) by Sakir Yikdirim  
 * [*Filler*](https://pixlpa.com/filler) by Andrew Benson, created using [WebGL](https://en.wikipedia.org/wiki/WebGL)  
 * [*s8-grn-1a*](https://vimeo.com/305185958) and [*Flexible Pixels*](https://bengrosser.com/projects/flexible-pixels) by Ben Grosser  
+* Intro to the [*Show Us Your Junk*](https://youtu.be/NwkF3-JmSeA?t=29) Youtube series  
 * [Some cool examples of glitchy videos](https://glitchart.com/bpmc-players-ball-08-17) from Glitchart.com  
 
 ***
