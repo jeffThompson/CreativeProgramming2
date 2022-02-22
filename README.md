@@ -30,8 +30,8 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * Feb 2: [Animated Typography 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_AnimatedTypography)  
 * Feb 9: [Image Filters 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)  
 * Feb 16: [Image Filters 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)
-* Feb 23: Mask 1  
-* Mar 2: Mask 2  
+* Feb 23: [Mask 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week05_Mask)  
+* Mar 2: [Mask 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week05_Mask)  
 * Mar 9: Simulation 1  
 * Mar 16: Spring break, no class!  
 * Mar 23: Simulation 2  
