@@ -5,7 +5,7 @@
 ### TLDR  
 * Due March 9  
 * Create a mask that uses symbols to explore your identity  
-* Use face tracking (and, optionally, skeleton tracking)  
+* Use face tracking (and, optionally, skeleton, blob, or color tracking)  
 * For February 23:  
   * Read *The Biography of a Painting* and *Introducing Myself*  
   * List 30 things your mask might show    
@@ -45,12 +45,12 @@ This week, you should spend time thinking about what parts of your identity you 
 
 Please start by reading *The Biography of a Painting* by Ben Shahn (1957) and *Introducing Myself* by Ursula Le Guin (1992). Both pieces talk about developing imagery, symbols, and ideas in ones' work.
 
-To kick off your project, start by listing everything you can about yourself, aiming for at least 30 things. This can be related to your personality, background, interests, goals, flaws, fears... anything! **We won't share these lists with each other, so be frank and broad here.**
+To kick off your project, start by listing everything you can about yourself, aiming for at least 30 things. This can be related to your personality, background, interests, goals, flaws, fears... anything. **We won't share these lists with each other, so be frank and broad here – this list is for you.**
 
 From this list, identify at least three things you want your mask to show (you will be asked to talk about these). For each item on this new list, write down:  
 
 * 2–3 symbols or objects that represent that item to you  
-* 2–3 ways you might show that part of yourself **visually**  
+* 2–3 ways you might show that part of yourself ***visually***  
 * 2–3 ways that thing might move, change, or interact as your face moves  
 * Where on your face this item belongs – this can add meaning too!  
 
