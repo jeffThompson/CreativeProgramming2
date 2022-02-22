@@ -6,7 +6,7 @@
 * Due March 9  
 * Create a mask that uses symbols to explore your identity  
 * Use face tracking (and, optionally, skeleton, blob, or color tracking)  
-* For February 23:  
+* For March 2:  
   * Read *The Biography of a Painting* and *Introducing Myself*  
   * List 30 things your mask might show    
   * Pick at least three things from that list, come up with ways to add them to your mask  
@@ -40,7 +40,7 @@ The approach you take is up to you: your mask might be made of shapes drawn in c
 
 ***
 
-### FOR FEBRUARY 23  
+### FOR MARCH 2  
 This week, you should spend time thinking about what parts of your identity you want to show us and how you will do so. We are all complicated, made of many interconnected (and sometimes contradictory) parts. One of the beautiful things about art is that it can contain all those things!
 
 Please start by reading *The Biography of a Painting* by Ben Shahn (1957) and *Introducing Myself* by Ursula Le Guin (1992). Both pieces talk about developing imagery, symbols, and ideas in ones' work.
