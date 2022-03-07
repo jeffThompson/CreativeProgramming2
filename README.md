@@ -30,10 +30,10 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * Feb 16: [Image Filters 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)
 * Feb 23: [Mask 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week05_Mask)  
 * Mar 2: [Mask 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week05_Mask)  
-* Mar 9: Simulation 1  
-* Mar 16: Spring break, no class!  
-* Mar 23: Simulation 2  
-* Mar 30: Simulation 3  
+* Mar 9: [Simulation 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
+* **Mar 16: Spring break, no class!**  
+* Mar 23: [Simulation 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
+* Mar 30: [Simulation 3](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
 * Apr 6: Final Project 1  
 * Apr 13: Final Project 2  
 * Apr 20: Final Project 3  
