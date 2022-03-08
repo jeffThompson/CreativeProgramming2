@@ -9,7 +9,7 @@
 ***
 
 ### RESEARCH YOUR CHOSEN SYSTEM  
-For next week, pick the natural system you'd like to research and observe. A "system" here can be an animal, plant, weather phenomenon... anything from the natural world.
+For next week, pick the natural system you'd like to research and observe. A "system" here can be an animal, plant, weather phenomenon... anything from the natural world. If you're having trouble picking, check out the [AMNH website](https://www.amnh.org) for some ideas.
 
 Reading will be useful, but equally important is looking. You should ideally pick a system that you can observe in real life but if you can't, watch videos on YouTube etc in the same way you would in person. Of course, you should also research your topic (Wikipedia and its "related articles" is a great place to start), taking careful notes on anything that seems interesting or helpful. Follow links in Wikipedia articles too – rabbit holes of knowledge are super productive for this kind of work.
 
