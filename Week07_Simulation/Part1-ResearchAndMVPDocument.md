@@ -1,7 +1,7 @@
 # PART 1: RESEARCH AND MVP DOCUMENT  
 
 ### TLDR  
-* ⚠️ Due March 23 ⚠️
+* Due March 23  
 * [Research your chosen system and create at least 10 detailed sketches](#research-your-chosen-system)  
 * [Create an MVP document with stretch goals](#create-an-mvp-document)  
 * [Turning everything in](#turning-everything-in)   
