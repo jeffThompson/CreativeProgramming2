@@ -3,11 +3,12 @@
 # SIMULATION  
 
 ### TLDR  
+* Due April 6  
+  * [For March 23](Part1-ResearchAndMVPDocument.md): research, drawings, MVP document  
+  * For March 30: prototype your project in code  
+  * For April 6: finish project, record video, `Final Project` ideation  
 * Create a project that simulates or is inspired by a natural system  
 * Designed for a projection at the [American Museum of Natural History](https://www.amnh.org)  
-* [For March 23](Part1-ResearchAndMVPDocument.md): research, drawings, MVP document  
-* [For March 30](Part2-Prototypes.md): prototype your project in code  
-* For April 6: finish project, record video, `Final Project` ideation  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! ⚠️
 
@@ -19,7 +20,7 @@
 
 > "If you know everything about a given metropolis, from its plumbing standards to its parking requirements, its sewer capacity to the borders of its school districts, then you coud more or less accurately imagine the future form of that city from the ground up." – Michael Sorkin on the game *Sim City*  
 
-For our last regular project of the semester, we'll turn to the natural world for inpsiration. The goal is to bridge research, observation, and the "real world" (aka things outside the computer) with code. Your "client" for this project is the [American Museum of Natural History](https://www.amnh.org/) in NYC: they have asked you to create a piece that can be projected as part of an exhibition.
+For our last regular project of the semester, we'll turn to the natural world for inpsiration. The goal is to bridge research, observation, and the "real world" (aka things outside the computer) with code. Your "client" for this project is the [American Museum of Natural History](https://www.amnh.org/) in NYC: they have asked you to create a piece that can be projected at the entrance to a large exhibition.
 
 You'll first pick a natural system of some kind (an animal, plant, environmental process, weather, etc) and observe it very carefully. From there, you'll think about how to translate that to code, adding as many little details as you can. The output doesn't need to mimic or precisely simulate your chosen subject, but can either be a careful a reproduction of that system as best you can or a work that is inspired by its details.
 
