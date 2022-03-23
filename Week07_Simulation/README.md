@@ -56,6 +56,7 @@ Overall, your goal should be to include as many tiny details as possible. Keep i
 ***
 
 ## INSPIRATION  
+* [This great list](https://twitter.com/golan/status/1369395091803103247) of virtual creatures from Golan Levin  
 * Craig Reynolds' classic 1986 simulation program [*Boids*](https://en.wikipedia.org/wiki/Boids), which can create complex behavior with very simple rules (see also [this modern take from Sebastian Lague](https://www.youtube.com/watch?v=bqtqltqcQhw))  
 * [Valentino Braitenberg's vehicles](https://en.wikipedia.org/wiki/Braitenberg_vehicle), which use rules similar to Reynolds'  
 * Simulation games like [*No Man's Sky*](https://www.youtube.com/watch?v=nLtmEjqzg7M), [*Sim City*](https://www.youtube.com/watch?v=wjxVci-fWj4), [*Roller Coaster Tycoon*](https://www.youtube.com/watch?v=qvHAdeOw3fI), and the insanely-detailed [*Train Simulator*](https://www.youtube.com/watch?v=_ygMfRLjDag)  
