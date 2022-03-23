@@ -5,7 +5,7 @@
 ### TLDR  
 * Due April 6  
   * [For March 23](Part1-ResearchAndMVPDocument.md): research, drawings, MVP document  
-  * For March 30: prototype your project in code  
+  * [For March 30](Part2-Prototypes.md): prototype your project in code  
   * For April 6: finish project, record video, `Final Project` ideation  
 * Create a project that simulates or is inspired by a natural system  
 * Designed for a projection at the [American Museum of Natural History](https://www.amnh.org)  
