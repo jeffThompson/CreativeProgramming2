@@ -9,6 +9,9 @@
 ***
 
 ### PROJECT PROTOTYPE   
+
+> "Yes, of course I am doing mathematics. But it is relative to what is around us. That is nature, too." – [Albert Libchaber](https://en.wikipedia.org/wiki/Albert_J._Libchaber)
+ 
 For next week, your goal should be a working prototype that can be rough around the edges but shows the basic functionality of your simulation. Think about the MVP document as a to-do list: what are the necessary parts your simulation needs to have in order to work?
 
 Last week, we discussed the example snowfall simulator whose MVP document included the following, which can then be broken down into things we need to build:
