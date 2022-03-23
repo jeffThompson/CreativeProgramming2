@@ -45,7 +45,7 @@ Overall, your goal should be to include as many tiny details as possible. Keep i
 
 **STRETCH GOALS**  
 * "Debug" mode for changing settings  
-* Run it on a Raspberry Pi with auto-reboot!  
+* Run it on a Raspberry Pi with auto-reboot! (We have some available for checkout, if you're interested.)  
 
 ***
 
