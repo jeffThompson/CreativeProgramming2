@@ -38,5 +38,5 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * Apr 13: Final Project 2  
 * Apr 20: Final Project 3  
 * Apr 27: Final Project 4  
-* Exam period (date TBA): Final Crit  
+* May 13, 1–4pm: Final critique with CP3
 
