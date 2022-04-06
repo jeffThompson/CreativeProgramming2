@@ -34,9 +34,9 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * **Mar 16: Spring break, no class!**  
 * Mar 23: [Simulation 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
 * Mar 30: [Simulation 3](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
-* Apr 6: Final Project 1  
-* Apr 13: Final Project 2  
-* Apr 20: Final Project 3  
-* Apr 27: Final Project 4  
+* Apr 6: [Final Project 1](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
+* Apr 13: [Final Project 2](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
+* Apr 20: [Final Project 3](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
+* Apr 27: [Final Project 4](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
 * May 13, 1–4pm: Final critique with CP3
 
