@@ -7,7 +7,7 @@
   * Is polished and ready for your portfolio    
 * Due May 13  
   * For April 13: [proof of concept](Part1-ProofOfConcept.md)  
-  * For April 20: refined pitch, WIP  
+  * For April 20: [refined pitch, WIP](Part2-RefinedPitchAndWIP.md)  
   * For April 27: WIP  
   * For May 13: finished project due for critique  
 
