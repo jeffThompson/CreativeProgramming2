@@ -1,0 +1,107 @@
+<!doctype html>
+<html profile="http://www.w3.org/2005/10/profile">
+
+  <!-- the <head> is kind of like setup() in p5js, it
+       lets us apply settings and load stuff -->
+  <head>
+    <meta charset="UTF-8">
+
+    <!-- title that gets displayed in the tab -->
+    <title>Hello</title>
+
+    <!-- enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <!-- styling for the page -->
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <style>
+      /* you can also add styles right here to */
+      #wrapper {
+        width:      90%;
+        max-width:  600px;
+        margin:     2em auto 4em auto;
+        text-align: center;
+        overflow-x: hidden;
+      }
+    </style>
+  </head>
+
+  <!-- the <body> is where our html, text, images, etc goes! -->
+  <body>
+
+    <!-- this <section> has an ID of "wrapper", though we could
+         call it whatever we want - this is where our <canvas>
+         will go along with any other elements we want to add -->
+    <section id="wrapper">
+      <h1 id="hello">Hello world!</h1>
+      <p>This is a paragraph, which we can modify using Javascript. It also includes a <a href="https://p5js.org">link to another page</a>.</p>
+      <p>And this is another paragraph! We can modify this one too.</p>
+    </section>
+  </body>
+
+  <!-- you can load js in the <head>, but I like to do it
+       here so the page has all been loaded first -->
+  <script src="p5.js"></script>
+  <script>
+    let x, y;
+    let speedX, speedY;
+
+    // we can load js from another file or, like css, 
+    // just type is all here!
+    function setup() {
+
+      // this looks a little different than usual, since
+      // we're creating the <canvas> ourselves, we can tell
+      // p5js where it should go on the page... in this
+      // case, we put it in the wrapper <section>
+      let canvas = createCanvas(400, 400);
+      canvas.parent('wrapper');
+
+      // little bouncing ball :)
+      x = width/2;
+      y = height/2;
+      speedX = random(-5,5);
+      speedY = random(-5,5);
+
+      // we can also grab and modify the html and css!
+      // for this, we use "vanilla" or regular Javascript
+
+      // first, we can get html elements by their unique ID
+      let h1 = document.getElementById('hello');
+      h1.innerText = 'Hello friends';
+
+      // we can also grab all the <p> tags
+      let paragraphs = document.getElementsByTagName('p');
+      for (let i=0; i<paragraphs.length; i++) {
+        let p = paragraphs[i];
+        p.classList.add('italic');
+      }
+    }
+    function draw() {
+      background(0, 150, 255);
+
+      // we can also have our page respond to user input!
+      let h1 = document.getElementById('hello');
+      if (mouseIsPressed) {
+        h1.style.color = 'rgb(0,150,255)';
+      }
+      else {
+        h1.style.color = 'rgb(0,0,0)';
+      }
+
+      // bouncing ball :)
+      fill(255);
+      noStroke();
+      circle(x, y, 30);
+      x += speedX;
+      if (x < 15 || x > width-15) {
+        speedX *= -1;
+      }
+      y += speedY;
+      if (y < 15 || y > height-15) {
+        speedY *= -1;
+      }
+    }
+  </script>
+</html>
+

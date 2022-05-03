@@ -1,0 +1,97 @@
+<!doctype html>
+<html profile="http://www.w3.org/2005/10/profile">
+
+  <!-- the <head> is kind of like setup() in p5js, it
+       lets us apply settings and load stuff -->
+  <head>
+    <meta charset="UTF-8">
+
+    <!-- title that gets displayed in the tab -->
+    <title>My First Website</title>
+
+    <!-- enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <style>
+      #wrapper {
+        width:  90%;
+        max-width: 600px;
+        /* this is a comment */
+        /* top, right, bottom, left */
+        margin: 2em auto 4em auto;
+        border: 1px black solid;
+        text-align: center;
+        overflow-x: hidden;
+      }
+    </style>
+  </head>
+
+  <!-- the <body> is where our html, text, images, etc goes! -->
+  <body>
+
+    <!-- this <section> has an ID of "wrapper", though we could
+         call it whatever we want - this is where our <canvas>
+         will go along with any other elements we want to add -->
+    <section id="wrapper">
+      <h1 id="hello">Hello world!</h1>
+      <p>This is a paragraph, which we can modify using Javascript. It also includes a <a href="https://p5js.org">link to another page</a>.</p>
+      <p>And this is another paragraph! We can modify this one too.</p>
+      <p>Rachel is building a website, it will be awesome.</p>
+    </section>
+  </body>
+
+  <script src="p5.js"></script>
+  <script>
+    let x, y;
+    let speedX, speedY;
+
+    function setup() {
+      let canvas = createCanvas(400, 400);
+      canvas.parent('wrapper');
+
+      let h1 = document.getElementById('hello');
+      console.log(h1);
+      h1.innerText = 'Hello Rachel';
+      // h1.innerHTML = 'Hello <a href="http://p5js.org">Rachel</a>';
+
+      let paragraphs = document.getElementsByTagName('p');
+      console.log(paragraphs);
+      for (let i=0; i<paragraphs.length; i++) {
+        let p = paragraphs[i];
+        p.classList.add('italic');
+      }
+
+      // little bouncing ball :)
+      x = width/2;
+      y = height/2;
+      speedX = random(-5,5);
+      speedY = random(-5,5);
+    }
+    function draw() {
+      background(0,150,255);
+
+      let h1 = document.getElementById('hello');
+      if (mouseIsPressed) {
+        h1.style.color = 'rgb(0,150,250)';
+      }
+      else {
+        h1.style.color = 'rgb(0,0,0)';
+      }
+
+      // bouncing ball :)
+      fill(255);
+      noStroke();
+      circle(x, y, 30);
+      x += speedX;
+      if (x < 15 || x > width-15) {
+        speedX *= -1;
+      }
+      y += speedY;
+      if (y < 15 || y > height-15) {
+        speedY *= -1;
+      }
+    }
+  </script>
+</html>
+
