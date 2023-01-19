@@ -1,42 +1,72 @@
-> "The real challenge is to discover the intrinsic properties of the new medium and to find out how the stroke you draw via computation is one you could never draw, or even imagine without computation." – John Maeda
-
 # CREATIVE PROGRAMMING 2
 
-**[:arrow_down: Jump right to the Course Calendar :arrow_down:](#course-calendar)**
+**[🔻 JUMP TO THE COURSE CALENDAR 🔻](#course-calendar)**
 
-| Instructor     | Prof. Jeff Thompson (please call me Jeff) |
-| :---           | :--- |
-| Email          | jeff.thompson@stevens.edu |
-| Meeting times  | Wednesdays, 9am–12.50pm, Morton 203 |  
-| Student hours  | Tuesdays, 2–3pm (Morton 208) and by appointment (Zoom) |
+| Instructor    | Jeff Thompson (please call me Jeff) |
+| :------------ | :--- |
+| Time/location | Tuesdays, 9am–1pm, Morton 203 (aka `The Studio`) |
+| Email         | jeff.thompson@stevens.edu |
+| Student hours | Mon/Tues 2–3pm, Morton 208 |
 
-In this intermediate course, we’ll build on creative uses of computer programming, with a focus on tools and processes for making more technically, creatively, and conceptually complex projects. We'll also look at ways to document and publish code-based projects.
+In this intermediate course, you'll apply the fundamental technical and creative ideas you learned in Creative Programming 1 towards projects that push your skills . 
 
-We'll start with a quick ramp-up project re-creating historical artworks made with code. From there, we'll work on a series of projects exploring typography, image processing, computer vision and facial recognition, and simulation. The goal with all of these assignments is for you to explore the kinds of projects that artists and designers working with code can do and continue building a personal creative practice. Like in [`Creative Programming 1`](https://github.com/jeffThompson/CreativeProgramming1), we’ll also look at historical, contemporary, and theoretical issues around computation in the arts and our culture.
+`p5.js` will be our main tool, but we'll also explore Python for generating text and HTML/CSS to create projects that break free of the Javascript canvas. We'll also make projects that take a variety of forms, including printed zines, video, and live performance. We'll end the semester with a long-form, open-ended final project of your choosing.
 
-See the [syllabus](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md) for course format, policies, grading, etc.
+Our goals for this semester are for you to...
++ Apply the coding fundamentals you've already learned to new situations
++ Use additional programming ideas and languages (and some non-coding tools too)
++ Explore a range of creative contexts for programming, including fine art, commercial, and performance
++ Start to identify what kind of work is most interesting to you
++ Be pushed to make larger and more complex projects...
+  - ...that require research, prototyping, and polishing  
+  - ...that are exciting for you and that you're proud to include in your portfolio
++ Connect what you make to larger trends and issues in computing
 
-:warning: **Don’t hesitate to reach out if you have any questions at all! Better to ask a question than be unsure of something.**  
+Of course, this only scratches the surface of what's possible with code! I encourage you to connect what we're doing in this class with your other interests (music, creative writing, dance, data vis, AI, digital fabrication, etc) and push assignments as far as you can.
 
-***
+Other class materials can be [found in the syllabus](Syllabus.md).
 
-### COURSE CALENDAR
-Please note this is subject to change – be sure to check Canvas, this page, and your email regularly.
+- - -
 
-* Jan 19: [Historical Code Re-creations](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week00_RampUp)  
-* Jan 26: [Animated Typography 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_AnimatedTypography)  
-* Feb 2: [Animated Typography 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week01_AnimatedTypography)  
-* Feb 9: [Image Filters 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)  
-* Feb 16: [Image Filters 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week03_ImageFilters)
-* Feb 23: [Mask 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week05_Mask)  
-* Mar 2: [Mask 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week05_Mask)  
-* Mar 9: [Simulation 1](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
-* **Mar 16: Spring break, no class!**  
-* Mar 23: [Simulation 2](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
-* Mar 30: [Simulation 3](https://github.com/jeffThompson/CreativeProgramming2/tree/master/Week07_Simulation)  
-* Apr 6: [Final Project 1](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
-* Apr 13: [Final Project 2](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
-* Apr 20: [Final Project 3](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
-* Apr 27: [Final Project 4](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Week10_FinalProject/README.md)  
-* May 13, 1–4pm: Final critique with CP3
+## COURSE CALENDAR
+
+### MOST ANNOYING THING EVER
+| DATE       | WHAT WE'LL BE DOING |
+| :--------- | :----- |
+| Jan 24     | Make the most annoying thing possible, check for Python |
+
+### GENERATIVES ZINES
+| DATE       | WHAT WE'LL BE DOING |
+| :--------- | :----- |
+| Jan 31     | Writing text with Python, command line basics |
+| Feb 7      | Making PDFs, printing and binding |
+| Feb 14     | Finish generative zines |
+
+### TIKTOK VIDEO
+| DATE       | WHAT WE'LL BE DOING |
+| :--------- | :----- |
+| Feb 21     | Splitting videos, adding UI overlays |
+| Feb 28     | Export frames, generate video |
+
+### ESCAPING THE CANVAS
+| DATE       | WHAT WE'LL BE DOING |
+| :--------- | :----- |
+| Mar 7      | HTML basics, integrating `p5.js` |
+| Mar 14     | **Spring break, no class!** |
+| Mar 21     | CSS basics, the DOM |
+| Mar 28     | More HTML/CSS |
+
+### LIVE VISUALS
+| DATE       | WHAT WE'LL BE DOING |
+| :--------- | :----- |
+| Apr 4      | Camera input, queuing scenes |
+| Apr 11     | Projector setup, rehearsals |
+
+### OPEN-ENDED FINAL PROJECT
+| DATE       | WHAT WE'LL BE DOING |
+| :--------- | :----- |
+| Apr 18     | Performance of live visuals, start final projects |
+| Apr 25     | Final project 2 |
+| May 2      | Final project 3 |
+| Exam       | Final critique |
 
