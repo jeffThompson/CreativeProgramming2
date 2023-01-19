@@ -8,18 +8,15 @@
 | Email         | jeff.thompson@stevens.edu |
 | Student hours | Mon/Tues 2–3pm, Morton 208 |
 
-In this intermediate course, you'll apply the fundamental technical and creative ideas you learned in Creative Programming 1 towards projects that push your skills . 
-
-`p5.js` will be our main tool, but we'll also explore Python for generating text and HTML/CSS to create projects that break free of the Javascript canvas. We'll also make projects that take a variety of forms, including printed zines, video, and live performance. We'll end the semester with a long-form, open-ended final project of your choosing.
+In this intermediate course, you'll apply the fundamental technical and creative ideas you learned in Creative Programming 1 towards projects that push your skills and result in work you're really excited about! `p5.js` will be our main tool, but we'll also explore Python for generating text and HTML/CSS to create projects that break free of the Javascript `<canvas>`. We'll also make projects that take a variety of forms, including printed zines, video, and live performance. We'll end the semester with a long-form, open-ended final project of your choosing.
 
 Our goals for this semester are for you to...
 + Apply the coding fundamentals you've already learned to new situations
 + Use additional programming ideas and languages (and some non-coding tools too)
 + Explore a range of creative contexts for programming, including fine art, commercial, and performance
 + Start to identify what kind of work is most interesting to you
-+ Be pushed to make larger and more complex projects...
-  - ...that require research, prototyping, and polishing  
-  - ...that are exciting for you and that you're proud to include in your portfolio
++ Be pushed to make larger and more complex projects that require research, prototyping, and polishing  
++ And that are exciting for you and that you're proud to include in your portfolio
 + Connect what you make to larger trends and issues in computing
 
 Of course, this only scratches the surface of what's possible with code! I encourage you to connect what we're doing in this class with your other interests (music, creative writing, dance, data vis, AI, digital fabrication, etc) and push assignments as far as you can.
@@ -52,7 +49,7 @@ Other class materials can be [found in the syllabus](Syllabus.md).
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Mar 7      | HTML basics, integrating `p5.js` |
-| Mar 14     | **Spring break, no class!** |
+| **Mar 14** | **Spring break, no class!** |
 | Mar 21     | CSS basics, the DOM |
 | Mar 28     | More HTML/CSS |
 
