@@ -43,7 +43,7 @@ This semester, you will need...
 ### MOST ANNOYING THING EVER
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Jan 24     | Make the most annoying thing possible, install Visual Studio Code |
+| Jan 24     | [Make the most annoying thing possible, install Visual Studio Code](Week01-MostAnnoyingThingEver) |
 
 ### GENERATIVE ZINES
 | DATE       | WHAT WE'LL BE DOING |
