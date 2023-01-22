@@ -4,8 +4,16 @@
 
 * Due Jan 31  
   * Turn in a link to your sketch (or upload the files to run it) to Canvas
-* Make the most annoying thing you possibly can in `p5.js`
+* Read [this short piece](https://www.nationalgeographic.co.uk/history-and-civilisation/2019/12/why-do-we-get-annoyed-science-has-irritatingly-few-answers) on the science of annoyance  
+* Then make the most annoying thing you possibly can in `p5.js`
 * Install Visual Studio Code
+
+- - -
+
+### READ ABOUT THE SCIENCE OF ANNOYANCE  
+To get inspired, please [read this short piece from NPR reporter Joe Palca](https://www.nationalgeographic.co.uk/history-and-civilisation/2019/12/why-do-we-get-annoyed-science-has-irritatingly-few-answers), who wrote an entire book about the science of being annoyed!
+
+Want more? You can also read [this interview with Palca](https://www.apa.org/monitor/2011/11/annoying-science) by the American Psychological Association and [read the first chapter of the book](https://www.npr.org/2011/05/17/135703137/you-bug-me-now-science-explains-why) (scroll down to get to it).
 
 - - -
 
@@ -14,7 +22,11 @@ Using `p5.js` and either the online editor or working locally, your task this we
 
 > NOTE! If you have sensitivity to flashing lights or other concerns, please let me know and we'll ask folks to avoid them in their projects
 
-We'll "enjoy" your projects together next week, then vote on which ones are the most annoying in a variety of categories :trophy:
+We will "enjoy" your projects together next week, then vote on which ones are the most annoying in a variety of categories :trophy:
+
+Annoyance inspiration...  
+* [*The Most Unwanted Song*](https://www.youtube.com/watch?v=-gPuH1yeZ08) by Dave Soldier and Komar & Melamid ([more info](https://en.wikipedia.org/wiki/The_Most_Unwanted_Song))  
+* Simone Giertz's "shitty robots" inclusing the [soup robot](https://www.youtube.com/watch?v=ab47XHidvwQ), [lipstick robot](https://www.youtube.com/watch?v=WcW70-6eQcY), and the [popcorn robot](https://www.youtube.com/watch?v=U4LZbewqB-E) made in collaboration with Adam Savage (see a [tour of her studio/laboratory here](https://www.youtube.com/watch?v=3o2IeUK0dH8))  
 
 - - -
 
