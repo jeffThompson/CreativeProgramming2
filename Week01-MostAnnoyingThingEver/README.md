@@ -27,6 +27,10 @@ We will "enjoy" your projects together next week, then vote on which ones are th
 Annoyance inspiration...  
 * [*The Most Unwanted Song*](https://www.youtube.com/watch?v=-gPuH1yeZ08) by Dave Soldier and Komar & Melamid ([more info](https://en.wikipedia.org/wiki/The_Most_Unwanted_Song))  
 * Simone Giertz's "shitty robots" inclusing the [soup robot](https://www.youtube.com/watch?v=ab47XHidvwQ), [lipstick robot](https://www.youtube.com/watch?v=WcW70-6eQcY), and the [popcorn robot](https://www.youtube.com/watch?v=U4LZbewqB-E) made in collaboration with Adam Savage (see a [tour of her studio/laboratory here](https://www.youtube.com/watch?v=3o2IeUK0dH8))  
+* Feross Aboukhadijeh's [The Annoying Site](https://github.com/feross/TheAnnoyingSite.com)  
+* MattW's [collection of purposefully bad user interfaces](https://mattw.io/bad-ui/), inspired by [this excellent subreddit](https://www.reddit.com/r/badUIbattles/)  
+* [Trackball form input](https://fibbery.herokuapp.com/katamari-formacy/)  
+* [Lots more horrible UI](https://www.boredpanda.com/funny-worst-input-fields/ from BoredPanda
 
 - - -
 
