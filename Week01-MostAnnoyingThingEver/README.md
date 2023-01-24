@@ -30,7 +30,7 @@ Annoyance inspiration...
 * Feross Aboukhadijeh's [The Annoying Site](https://github.com/feross/TheAnnoyingSite.com)  
 * MattW's [collection of purposefully bad user interfaces](https://mattw.io/bad-ui/), inspired by [this excellent subreddit](https://www.reddit.com/r/badUIbattles/)  
 * [Trackball form input](https://fibbery.herokuapp.com/katamari-formacy/)  
-* [Lots more horrible UI](https://www.boredpanda.com/funny-worst-input-fields/ from BoredPanda
+* [Lots more horrible UI](https://www.boredpanda.com/funny-worst-input-fields/) from BoredPanda
 
 - - -
 
