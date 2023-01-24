@@ -8,15 +8,15 @@
 | Email         | jeff.thompson@stevens.edu |
 | Student hours | Mon/Tues 2–3pm, Morton 208 |
 
-In this intermediate course, you'll apply the fundamental technical and creative ideas you learned in Creative Programming 1 towards projects that push your skills and result in work you're really excited about! We'll also make projects that take a variety of forms, including printed zines, video, and live performance. We'll end the semester with a long-form, open-ended final project of your choosing.
+In this intermediate course, you'll apply the fundamental technical and creative ideas you learned in [Creative Programming 1](https://github.com/jeffThompson/CreativeProgramming1) towards projects that push your skills and result in work you're really excited about! We'll also make projects that take a variety of forms, including printed zines, video, and live performance. We'll end the semester with a long-form, open-ended final project of your choosing.
 
 Our goals for this semester are for you to...
 + Build confidence in the coding fundamentals you've already learned and apply them to new situations
 + Use additional programming concepts and languages (and some non-coding tools too)
-+ Explore a range of creative contexts for programming, including fine art, commercial, and performance
++ Explore a range of creative contexts for programming, including fine art, commercial projects, and performance
 + Start to identify what kind of work is most interesting to you
-+ Make larger and more complex projects that require research, prototyping, and polishing  
-+ And that are exciting for you and that you're proud to include in your portfolio
++ Make larger and more complex projects that require research, prototyping, and polishing...  
++ ...and that are exciting for you and that you're proud to include in your portfolio
 + Connect what you make to larger trends and issues in computing
 
 Of course, this only scratches the surface of what's possible with code! I encourage you to connect what we're doing in this class with your other interests (music, creative writing, dance, data vis, AI, digital fabrication, etc) and push assignments as far as you can.
