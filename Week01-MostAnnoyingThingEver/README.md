@@ -13,7 +13,7 @@
 ### READ ABOUT THE SCIENCE OF ANNOYANCE  
 To get inspired, please [read this short piece from NPR reporter Joe Palca](https://www.nationalgeographic.co.uk/history-and-civilisation/2019/12/why-do-we-get-annoyed-science-has-irritatingly-few-answers), who wrote an entire book about the science of being annoyed!
 
-Want more? You can also read [this interview with Palca](https://www.apa.org/monitor/2011/11/annoying-science) by the American Psychological Association and [read the first chapter of the book](https://www.npr.org/2011/05/17/135703137/you-bug-me-now-science-explains-why) (scroll down to get to it).
+Want more? You can also read [this interview with Palca](https://www.apa.org/monitor/2011/11/annoying-science) by the American Psychological Association and [read the first chapter of the book](https://www.npr.org/2011/05/17/135703137/you-bug-me-now-science-explains-why) (scroll down to find it).
 
 - - -
 
@@ -32,10 +32,12 @@ Annoyance inspiration...
 * [Trackball form input](https://fibbery.herokuapp.com/katamari-formacy/)  
 * [Lots more horrible UI](https://www.boredpanda.com/funny-worst-input-fields/) from BoredPanda
 
+(A lot of these examples are related to user interfaces, but your project doesn't have to be interactive at all! It could run on its own or be in any other format.)
+
 - - -
 
 ### INSTALL VISUAL STUDIO CODE  
-The online editor is a wonderful tool, but you've probably already bumped into its limitations. Working offline makes things faster, easier, and you can work in places with no internet! There are lots of ways to write Javascript offline, but for this next projects we'll be using [Visual Studio Code](https://code.visualstudio.com/). It's free, and will allow us to install some really helpful tools for writing `p5.js`.
+The online editor is a wonderful tool, but you've probably already bumped into its limitations. Working offline makes things faster, easier, and you can work in places with no internet! There are lots of ways to write Javascript offline, but for this semester we'll be using [Visual Studio Code](https://code.visualstudio.com/). It's free, and will allow us to install some really helpful tools for writing `p5.js`. If you have another workflow you like better, that's great! I'll just ask that you try VS Code first and see how you like it.
 
 Please [download and install Visual Studio Code](https://code.visualstudio.com/), then open it and make sure everything works. No need to install any extensions – we'll do that together next week.
 
