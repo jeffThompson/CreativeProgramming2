@@ -8,7 +8,7 @@ There are lots of options, but this semester we'll use Visual Studio Code (herea
 ### CONTENTS
 Jump ahead using these links or start from the beginning:
 
-* [Install the `p5.vscode` extension](#install-the-extension)  
+* [Install the `p5.vscode` extension](#install-the-p5vscode-extension)  
 * [Create a project](#create-a-project)  
 * [Preview in browser](#preview-in-browser)  
 
