@@ -34,7 +34,7 @@ If you can't see everything, you can zoom in with your browser for a better view
 - - -
 
 ### MAKE A SYSTEM  
-We'll start this project not thinking about books but about systems. Generative art and design projects use custom-built, code-based systems packed with lots of variables. They can be tweaked to explore what the system is capable of creating. These systems also often employ randomness to shake up the combinations of variables. (In many ways, books are like this too!)
+We'll start this project not thinking about zines but about systems. Generative art and design projects use custom-built, code-based systems packed with lots of variables. They can be tweaked to explore what the system is capable of creating. These systems also often employ randomness to shake up the combinations of variables. (In many ways, zines and books are like this too!)
 
 If this is all sounding massively complicated, don't worry! We can think of "system" here as meaning: write some code that makes really varied, interesting output. Some circles with random diameters and placement could be a system, and with some careful tweaks it could be a really interesting one!
 
