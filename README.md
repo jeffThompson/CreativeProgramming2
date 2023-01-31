@@ -48,9 +48,9 @@ This semester, you will need...
 ### GENERATIVE ZINES
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Jan 31     | Writing text with ChatGTP, working with `p5.js` locally |
-| Feb 7      | Javascript for print, fonts and type, printing and binding |
-| Feb 14     | Making PDFs, finish generative zines |
+| Jan 31     | [Writing text with ChatGTP, working with `p5.js` locally](Week02-GenerativeZines) |
+| Feb 7      | [Javascript for print, fonts and type, printing and binding](Week02-GenerativeZines) |
+| Feb 14     | [Making PDFs, finish generative zines](Week02-GenerativeZines) |
 
 ### LIVE VISUALS
 | DATE       | WHAT WE'LL BE DOING |
