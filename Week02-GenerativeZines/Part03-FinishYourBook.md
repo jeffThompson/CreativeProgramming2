@@ -21,7 +21,7 @@ You may want to consider a different paper for your cover, especially a heavier 
 - - -
 
 ### PRINT AND BIND YOUR ZINE  
-When everything is done, run the `PDF` export program we looked at in class. The `PREVIEW` file is meant to show you what your book will look like when it's finished. This is great for testing out the flow of the content and to see how spreads look together.
+When everything is done, run the [`PDF` export program we looked at in class](https://github.com/jeffThompson/CreativeProgramming2/raw/master/Resources/GenerateBookPDF.zip). The `PREVIEW` file is meant to show you what your book will look like when it's finished. This is great for testing out the flow of the content and to see how spreads look together.
 
 The `PRINT` file is what you should print at the Fab Lab. The pages will appear out of order in the `PDF`, but will be in the correct order once folded and bound.
 
