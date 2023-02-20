@@ -12,7 +12,7 @@
 
 ### OVERVIEW  
 
-We've made animations and interactive projects, but another common application of creative coding is live visuals for musicians, dancers, and TV broadcast. For this project, you'll pick a song, create live effects in `p5.js` that will be projected at large scale... and you'll perform live for us! We'll look at camera input and video files as a way to get interesting textures, how to queue scenes, and how to use MIDI controllers to trigger things.
+We've made animations and interactive projects, but another common application of creative coding is live visuals for musicians, dancers, and TV broadcast. For this project, you'll pick a song, create live effects in `p5.js` that will be projected at large scale... and you'll perform live for us! We'll look at camera input and video files as a way to get interesting textures, how to cue scenes, and how to use MIDI controllers to trigger things.
 
 The goal of this project will be to create engaging visuals that work well with the song you've chosen. Think about how shape, color, texture, and imagery (especially if you're using video) tie in to the music, but you'll also need to think about these through time, much like an animation! How might your visuals change throughout the song? Can you create moments of surprise? How do your visuals start and end?
 
