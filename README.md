@@ -55,9 +55,9 @@ This semester, you will need...
 ### LIVE VISUALS
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Feb 21     | Camera and controller input, cueing scenes |
-| Feb 28     | Projector setup, mini-rehearsals |
-| Mar 7      | Perform your projects! |
+| Feb 21     | [Camera and controller input, cueing scenes](Week05-LiveVisuals) |
+| Feb 28     | [Projector setup, mini-rehearsals](Week05-LiveVisuals) |
+| Mar 7      | [Perform your projects!](Week05-LiveVisuals) |
 | **Mar 14** | **Spring break, no class!** |
 
 ### TIKTOK VIDEO
