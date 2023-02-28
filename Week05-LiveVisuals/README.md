@@ -2,6 +2,8 @@
 
 ### TLDR
 
+**EDIT: due to the campus being closed, the assignment is due March 21, the week after spring break. Please bring work in progress to class on March 7 so we can give you feedback, you can test the projector, and have studio time.**
+
 * Due March 7  
   * See weekly assignments for details  
 * Create live effects to perform with a song of your choice  
