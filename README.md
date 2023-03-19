@@ -63,8 +63,8 @@ This semester, you will need...
 ### TIKTOK VIDEO
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Mar 21     | Raster images, accessing pixel values, image filters |
-| Mar 28     | Exporting frames, adding UI overlays, command line basics, using `ffmpeg` |
+| Mar 21     | [Raster images, accessing pixel values, image filters](Week08-TikTokVideos) |
+| Mar 28     | [Exporting frames, adding UI overlays, command line basics, using `ffmpeg`](Week08-TikTokVideos) |
 
 ### YOU VOTE, WE LEARN!
 | DATE       | WHAT WE'LL BE DOING |
