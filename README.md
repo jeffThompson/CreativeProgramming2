@@ -63,8 +63,8 @@ This semester, you will need...
 ### TIKTOK VIDEO
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Mar 21     | Pixel manipulation, command line basics, using `ffmpeg` |
-| Mar 28     | Exporting frames, adding overlays |
+| Mar 21     | Pixel manipulation |
+| Mar 28     | Exporting frames, adding overlays, command line basics, using `ffmpeg` |
 
 ### YOU VOTE, WE LEARN!
 | DATE       | WHAT WE'LL BE DOING |
