@@ -78,5 +78,5 @@ This semester, you will need...
 | :---------- | :----- |
 | Apr 25      | Final project 1 |
 | May 2       | Final project 2 |
-| Exam period | Final critique |
+| May 11, 9–11am | Final critique |
 
