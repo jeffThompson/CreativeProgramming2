@@ -3,9 +3,9 @@
 # IMAGE FILTERS
 
 ### TLDR  
-* Due April 4  
-  * March 28: [project template, still image exploratory studies, what do you want to learn next?](Part01-ExploratoryStudies.md)  
-  * April 4: finish project  
+* Due April 11  
+  * April 4: [project template, still image exploratory studies, what do you want to learn next?](Part01-ExploratoryStudies.md)  
+  * April 11: finish project  
     * Export processed frames to a folder  
     * We'll convert them to video using `ffmpeg` in class  
 * Create an image filter, focusing on pixel manipulation  
