@@ -69,13 +69,13 @@ This semester, you will need...
 ### YOU VOTE, WE LEARN!
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Apr 11     | TBD... |
-| Apr 18     | Finish project, write final proposal |
+| Apr 11     | Building games with `p5.js` |
+| Apr 18     | Finish game, write final proposal |
 
 ### OPEN-ENDED FINAL PROJECT
 | DATE        | WHAT WE'LL BE DOING |
 | :---------- | :----- |
-| Apr 25      | Final project 1 |
-| May 2       | Final project 2 |
+| Apr 25      | Final project 1 (and HTML/CSS) |
+| May 2       | Final project 2 (and more HTML/CSS) |
 | May 11, 9–11am | Final critique |
 
