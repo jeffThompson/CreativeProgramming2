@@ -26,6 +26,8 @@ We'll take a look at your work in progress next week, then go over a bit of game
 
 ### RESOURCES  
 * [Collision detection site](http://jeffreythompson.org/collision-detection/table_of_contents.php) with lots of examples  
+* [Animation code examples](https://editor.p5js.org/jeffThompson/collections/DCmcnKPsh) from CP1, including sprites and sound effects  
+* [Physics and AI code examples](https://editor.p5js.org/jeffThompson/collections/1tyijLIYW) (meant for simulation, but the ideas will work in games too!)
 
 - - - 
 
