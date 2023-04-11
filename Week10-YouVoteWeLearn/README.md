@@ -26,6 +26,7 @@ We'll take a look at your work in progress next week, then go over a bit of game
 
 ### INSPIRATION  
 * The games we played (and built) in class: [*Pong*](https://www.ponggame.org) and [*Asteroids*](https://freeasteroids.org)  
-* Other classic games like [*Galaga*](https://www.classicgamesarcade.com/game/21637/galaga.html) and [*Frogger*](https://www.classicgamesarcade.com/game/21607/frogger.html)  
+* Other classic games like [*Galaga*](https://www.classicgamesarcade.com/game/21637/galaga.html), [*Frogger*](https://www.classicgamesarcade.com/game/21607/frogger.html), or *Breakout*  
+* Or more recent but buildable games like *Flappy Bird*    
 * Nick Montfort's amazing book *Racing the Beam* (`PDF` in the `Readings` folder)  
 
