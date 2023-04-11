@@ -24,6 +24,11 @@ We'll take a look at your work in progress next week, then go over a bit of game
 
 - - -
 
+### RESOURCES  
+* [Collision detection site](http://jeffreythompson.org/collision-detection/table_of_contents.php) with lots of examples  
+
+- - - 
+
 ### INSPIRATION  
 * The games we played (and built) in class: [*Pong*](https://www.ponggame.org) and [*Asteroids*](https://freeasteroids.org)  
 * Other classic games like [*Galaga*](https://www.classicgamesarcade.com/game/21637/galaga.html), [*Frogger*](https://www.classicgamesarcade.com/game/21607/frogger.html), or *Breakout*  
