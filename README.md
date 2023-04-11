@@ -69,8 +69,8 @@ This semester, you will need...
 ### YOU VOTE, WE LEARN!
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Apr 11     | Building games with `p5.js` |
-| Apr 18     | Finish game, write final proposal |
+| Apr 11     | [Building games with `p5.js`](Week10-YouVoteWeLearn) |
+| Apr 18     | [Finish game, write final proposal](Week10-YouVoteWeLearn) |
 
 ### OPEN-ENDED FINAL PROJECT
 | DATE        | WHAT WE'LL BE DOING |
