@@ -3,7 +3,9 @@
 ### TLDR  
 * Due April 25  
   * For April 18: prototype of your game    
-  * For April 25: finished version of your game, ready for us to upload and play  
+  * For April 25: finished version of your game ready for us to uplay  
+    * Upload using CyberDuck  
+    * Turn in a link on Canvas  
 * Create a game with `p5.js`!  
   * We'll publish them online for everyone to play  
   * And start thinking about your final project  
@@ -24,12 +26,20 @@ We'll take a look at your work in progress next week, then go over a bit of game
 
 - - -
 
-### RESOURCES  
-* [Collision detection site](http://jeffreythompson.org/collision-detection/table_of_contents.php) with lots of examples  
-* [Animation code examples](https://editor.p5js.org/jeffThompson/collections/DCmcnKPsh) from CP1, including sprites and sound effects  
-* [Physics and AI code examples](https://editor.p5js.org/jeffThompson/collections/1tyijLIYW) (meant for simulation, but the ideas will work in games too!)
+### FOR TUESDAY, APRIL 25  
+For next week, please finish your game and upload it using CyberDuck! We'll play your games next week and start ideating your final project.
 
-- - - 
+Keep in mind the idea of an MVP document we talked about last week: what has to happen first to make your game playable and what are things you can add later to make it more visually interesting or fun to play? 
+
+If you do find yourself with extra time, you could try adding...  
+* Sound effects or music (extra bonus: record your own!)  
+* Sprites or other graphics  
+* Intro screen  
+* Recording high scores (super bonus: keep track using [web storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)!)  
+
+When done, upload a link to your game to Canvas.
+
+- - -
 
 ### INSPIRATION  
 * The games we played (and built) in class: [*Pong*](https://www.ponggame.org) and [*Asteroids*](https://freeasteroids.org)  
