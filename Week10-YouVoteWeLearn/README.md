@@ -6,9 +6,9 @@
   * For April 25: finished version of your game ready for us to uplay  
     * Upload using CyberDuck  
     * Turn in a link on Canvas  
+    * Write final project proposal  
 * Create a game with `p5.js`!  
   * We'll publish them online for everyone to play  
-  * And start thinking about your final project  
 
 ***
 
