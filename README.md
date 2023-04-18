@@ -70,12 +70,12 @@ This semester, you will need...
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Apr 11     | [Building games with `p5.js`](Week10-YouVoteWeLearn) |
-| Apr 18     | [Finish game, write final proposal](Week10-YouVoteWeLearn) |
+| Apr 18     | [Finish game](Week10-YouVoteWeLearn) and [write final project pitch](Week12-FinalProject) |
 
 ### OPEN-ENDED FINAL PROJECT
 | DATE        | WHAT WE'LL BE DOING |
 | :---------- | :----- |
-| Apr 25      | Final project 1 (and HTML/CSS) |
-| May 2       | Final project 2 (and more HTML/CSS) |
+| Apr 25      | [Final project 1](Week12-FinalProject) (and HTML/CSS) |
+| May 2       | [Final project 2](Week12-FinalProject) (and more HTML/CSS) |
 | May 11, 9–11am | Final critique |
 
