@@ -1,14 +1,14 @@
 # FINAL PROJECT
 
 ### TLDR  
+* Due May 11 at 9am  
 * Create a project that...  
   * You're really excited about, and...  
   * Uses code as its core tool, and...  
-  * Is polished and ready for your portfolio    
-* Due May 11 at 9am  
-  * For April 25: elevator pitch and one image  
-  * For May 2: WIP  
-  * For May 11: finish your project, ready for the crit  
+  * Is polished and ready for your portfolio  
+* For April 25: elevator pitch and one image  
+* For May 2: WIP  
+* For May 11: finish your project, ready for the crit  
 * See Canvas for drop-in help hours ahead of our final crit!  
 
 ***
