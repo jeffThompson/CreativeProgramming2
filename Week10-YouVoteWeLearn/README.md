@@ -3,7 +3,7 @@
 ### TLDR  
 * Due April 25  
   * For April 18: prototype of your game    
-  * For April 25: finished version of your game ready for us to uplay  
+  * For April 25: finished version of your game ready for us to play  
     * Upload using CyberDuck  
     * Turn in a link on Canvas  
     * Write final project proposal  
