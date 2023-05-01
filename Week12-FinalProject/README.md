@@ -33,3 +33,11 @@ Please also pick out an image to show us while you pitch your project. This coul
 
 No need to turn in anything on Canvas.
 
+***
+
+### FOR THURSDAY, MAY 11 AT 9AM  
+Our final critique is scheduled for May 11 from 9–11am in the Studio (not 8am in some random location, like the exam schedule says). You should have your project finished and ready to present by the start of class. If you need time to set up any equipment to present your piece, we can definitely do at 9am; if your setup will require more than about 10 minutes, let's chat and we can meet early.
+
+No need to turn in anything on Canvas!
+
+
