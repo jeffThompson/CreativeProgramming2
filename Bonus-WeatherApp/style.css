@@ -1,0 +1,64 @@
+*, html, body {
+  margin:  0;
+  padding: 0;
+
+  font-family: 'Cabin', Helvetica, sans-serif;
+  font-size:   16px;
+}
+
+/* typography */
+h1 {
+  font-size:     2em;
+  margin-bottom: 1em;
+}
+h2 {
+  font-size:     1.3em;
+  margin-bottom: 0.6em;
+}
+p {
+  font-size: 1em;
+}
+
+/* links */
+a, a:link, a:visited {
+  color: rgb(100,100,100);
+}
+a:active, a:hover {
+  color: black;
+}
+
+/* overall container for the page */
+#wrapper {
+  width:     80%;
+  max-width: 600px;
+  margin:    2em auto 6em auto;
+}
+
+/* forecast stuff */
+.forecast {
+  margin-bottom: 1em;
+  padding:       1em 1em 1.6em 1.6em;
+  border-radius: 12px;
+}
+.forecast:first-of-type {
+  /* brighter color for today! */
+  background-color: rgb(255, 204, 17);
+}
+.detailedForecast {
+  font-style: italic;
+}
+.temp {
+  float: right;
+}
+.day {
+  color:            black;
+  background-color: rgb(255, 191, 143);
+}
+.night {
+  color:            white;
+  background-color: rgb(23, 23, 102);
+}
+#byline {
+  margin-top:  2em;
+  line-height: 2em;
+}
